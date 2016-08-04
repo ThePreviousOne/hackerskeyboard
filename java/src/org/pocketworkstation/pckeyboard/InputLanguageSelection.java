@@ -69,19 +69,19 @@ public class InputLanguageSelection extends PreferenceActivity {
     // the available keyboard resources and dictionaries.
     private static final String[] KBD_LOCALIZATIONS = {
         "ar", "bg", "bg_ST", "ca", "cs", "cs_QY", "da", "de", "el", "en",
-        "en_DV", "en_GB", "es", "es_LA", "es_US", "fa", "fi", "fr", "fr_CA",
-        "he", "hr", "hu", "hu_QY", "hy", "in", "it", "iw", "ja", "ka",
-        "ko", "lo", "lt", "lv", "nb", "nl", "pl", "pt", "pt_PT", "rm",
+        "en_DV", "en_CL", "en_GB", "es", "es_LA", "es_US", "fa", "fi", "fr",
+        "fr_CA", "he", "hr", "hu", "hu_QY", "hy", "in", "it", "iw", "ja",
+        "ka", "ko", "lo", "lt", "lv", "nb", "nl", "pl", "pt", "pt_PT", "rm",
         "ro", "ru", "ru_PH", "si", "sk", "sk_QY", "sl", "sr", "sv", "ta",
         "th", "tl", "tr", "uk", "vi", "zh_CN", "zh_TW"
     };
 
     private static final String[] KBD_5_ROW = {
         "ar", "bg", "bg_ST", "cs", "cs_QY", "da", "de", "el", "en", "en_DV",
-        "en_GB", "es", "es_LA", "fa", "fi", "fr", "fr_CA", "he", "hr",
-        "hu", "hu_QY", "hy", "it", "iw", "lo", "lt", "nb", "pt_PT", "ro",
-        "ru", "ru_PH", "si", "sk", "sk_QY", "sl", "sr", "sv", "ta", "th",
-        "tr", "uk"
+        "en_CL", "en_GB", "es", "es_LA", "fa", "fi", "fr", "fr_CA", "he",
+        "hr", "hu", "hu_QY", "hy", "it", "iw", "lo", "lt", "nb", "pt_PT",
+        "ro", "ru", "ru_PH", "si", "sk", "sk_QY", "sl", "sr", "sv", "ta",
+        "th", "tr", "uk"
     };
 
     private static final String[] KBD_4_ROW = {
@@ -96,6 +96,8 @@ public class InputLanguageSelection extends PreferenceActivity {
         String country = l.getCountry();
         if (lang.equals("en") && country.equals("DV")) {
             return "English (Dvorak)";
+        } else if (lang.equals("en") && country.equals("CL")) {
+                return "English (Colemak)";
         } else if (lang.equals("en") && country.equals("EX")) {
                 return "English (4x11)";
         } else if (lang.equals("es") && country.equals("LA")) {
