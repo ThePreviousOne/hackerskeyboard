@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="prediction_modes">
+    <item msgid="4870266572388153286">"Няма"</item>
+    <item msgid="1669461741568287396">"Основен"</item>
+    <item msgid="4894328801530136615">"Разширени"</item>
+  </string-array>
+    <string-array name="voice_input_modes">
+    <item msgid="1349082139076086774">"На основната клавиатура"</item>
+    <item msgid="8529385602829095903">"На клавиатурата на символите"</item>
+    <item msgid="7283103513488381103">"Изкл."</item>
+  </string-array>
+    <string-array name="voice_input_modes_summary">
+    <item msgid="554248625705084903">"Микрофон на основната клавиатура"</item>
+    <item msgid="6907837061058876770">"Микрофон на клавиатурата на символите"</item>
+    <item msgid="3664304608587798036">"Гласовото въвеждане е деактивирано"</item>
+  </string-array>
+    <string msgid="8993883354622484372" name="added_word">"<ns1:g id="WORD">%s</ns1:g> : Запазено"</string>
+    <string msgid="1719746674854628252" name="auto_cap">"Автоматично поставяне на главни букви"</string>
+    <string msgid="3260681697600786825" name="auto_cap_summary">"Поставя главна буква в началото на изреченията"</string>
+    <string msgid="1103196318775486023" name="auto_complete">"Автоматично завършване"</string>
+    <string msgid="2172048590607201920" name="auto_complete_dialog_title">"Автодовършване"</string>
+    <string msgid="6113149638718274624" name="auto_complete_summary">"Клавишът за интервал и пунктуация поставя автоматично откроена дума"</string>
+    <string msgid="7911639788808958255" name="auto_correction">"Предложения на думи"</string>
+    <string msgid="6881047311475758267" name="auto_correction_summary">"Автоматично коригиране на предишната дума"</string>
+    <string msgid="7276672334264521751" name="auto_punctuate">"Автоматично поставяне на пунктуация"</string>
+    <string msgid="6589441565817502132" name="auto_punctuate_summary"/>
+    <string msgid="9151008027068358518" name="auto_submit">"Автоматично изпращане след глас"</string>
+    <string msgid="4961875269610384226" name="auto_submit_summary">"Да се натиска автоматично „Enter“ при търсене или преминаване към следващото поле."</string>
+    <string msgid="1323347224043514969" name="bigram_suggestion">"Предложения за биграми"</string>
+    <string msgid="4383845146070101531" name="bigram_suggestion_summary">"Използване на предишната дума за подобряване на предложението"</string>
+    <string msgid="6830980399865683324" name="cancel">"Отказ"</string>
+    <string msgid="6251022259044940103" name="close_the_keyboard"><font size="17"><b>"Затваряне на клавиатурата"\n</b></font><font size="3">\n</font>"Натиснете клавиша „Назад“."</string>
+    <string msgid="3909945612939668554" name="english_ime_input_options">"Опции за въвеждане"</string>
+    <string msgid="6071847973466625007" name="has_dictionary">"Има достъп до речник"</string>
+    <string msgid="9006292060636342317" name="hint_add_to_dictionary">"← Докоснете отново, за да запазите"</string>
+    <string msgid="4855351009261318389" name="hit_correction">"Коригиране на грешките при въвеждане"</string>
+    <string msgid="2567691684825205448" name="hit_correction_land">"Грешки при въвеждане в хоризонтален изглед"</string>
+    <string msgid="4076803842198368328" name="hit_correction_land_summary">"Активиране на корекция на грешки при въвеждане"</string>
+    <string msgid="8761701873008070796" name="hit_correction_summary">"Активиране на корекция на грешки при въвеждане"</string>
+    <string name="key_ab01_alt"/>
+    <string name="key_ab01_main">ю</string>
+    <string name="key_ab01_shift">Ю</string>
+    <string name="key_ab02_alt"/>
+    <string name="key_ab02_main">й</string>
+    <string name="key_ab02_shift">Й</string>
+    <string name="key_ab03_alt"/>
+    <string name="key_ab03_main">ъ</string>
+    <string name="key_ab03_shift">Ъ</string>
+    <string name="key_ab04_alt"/>
+    <string name="key_ab04_main">э</string>
+    <string name="key_ab04_shift">Э</string>
+    <string name="key_ab05_alt"/>
+    <string name="key_ab05_main">ф</string>
+    <string name="key_ab05_shift">Ф</string>
+    <string name="key_ab06_alt"/>
+    <string name="key_ab06_main">х</string>
+    <string name="key_ab06_shift">Х</string>
+    <string name="key_ab07_alt"/>
+    <string name="key_ab07_main">п</string>
+    <string name="key_ab07_shift">П</string>
+    <string name="key_ab08_alt">,&lt;≤«‹</string>
+    <string name="key_ab08_main">р</string>
+    <string name="key_ab08_shift">Р</string>
+    <string name="key_ab09_alt">>≥»›…</string>
+    <string name="key_ab09_main">л</string>
+    <string name="key_ab09_shift">Л</string>
+    <string name="key_ab10_alt">/\?¿</string>
+    <string name="key_ab10_main">б</string>
+    <string name="key_ab10_shift">Б</string>
+    <string name="key_ac01_alt"/>
+    <string name="key_ac01_main">ь</string>
+    <string name="key_ac01_shift">ѝ</string>
+    <string name="key_ac02_alt"/>
+    <string name="key_ac02_main">я</string>
+    <string name="key_ac02_shift">Я</string>
+    <string name="key_ac03_alt"/>
+    <string name="key_ac03_main">а</string>
+    <string name="key_ac03_shift">А</string>
+    <string name="key_ac04_alt"/>
+    <string name="key_ac04_main">о</string>
+    <string name="key_ac04_shift">О</string>
+    <string name="key_ac05_alt"/>
+    <string name="key_ac05_main">ж</string>
+    <string name="key_ac05_shift">Ж</string>
+    <string name="key_ac06_alt"/>
+    <string name="key_ac06_main">г</string>
+    <string name="key_ac06_shift">Г</string>
+    <string name="key_ac07_alt"/>
+    <string name="key_ac07_main">т</string>
+    <string name="key_ac07_shift">Т</string>
+    <string name="key_ac08_alt"/>
+    <string name="key_ac08_main">н</string>
+    <string name="key_ac08_shift">Н</string>
+    <string name="key_ac09_alt"/>
+    <string name="key_ac09_main">в</string>
+    <string name="key_ac09_shift">В</string>
+    <string name="key_ac10_alt"/>
+    <string name="key_ac10_main">м</string>
+    <string name="key_ac10_shift">М</string>
+    <string name="key_ac11_alt"/>
+    <string name="key_ac11_main">ч</string>
+    <string name="key_ac11_shift">Ч</string>
+    <string name="key_ad01_alt"/>
+    <string name="key_ad01_main">,</string>
+    <string name="key_ad01_shift">ы</string>
+    <string name="key_ad02_alt"/>
+    <string name="key_ad02_main">у</string>
+    <string name="key_ad02_shift">У</string>
+    <string name="key_ad03_alt"/>
+    <string name="key_ad03_main">е</string>
+    <string name="key_ad03_shift">Е</string>
+    <string name="key_ad04_alt"/>
+    <string name="key_ad04_main">и</string>
+    <string name="key_ad04_shift">И</string>
+    <string name="key_ad05_alt"/>
+    <string name="key_ad05_main">ш</string>
+    <string name="key_ad05_shift">Ш</string>
+    <string name="key_ad06_alt"/>
+    <string name="key_ad06_main">щ</string>
+    <string name="key_ad06_shift">Щ</string>
+    <string name="key_ad07_alt"/>
+    <string name="key_ad07_main">к</string>
+    <string name="key_ad07_shift">К</string>
+    <string name="key_ad08_alt"/>
+    <string name="key_ad08_main">с</string>
+    <string name="key_ad08_shift">С</string>
+    <string name="key_ad09_alt"/>
+    <string name="key_ad09_main">д</string>
+    <string name="key_ad09_shift">Д</string>
+    <string name="key_ad10_alt"/>
+    <string name="key_ad10_main">з</string>
+    <string name="key_ad10_shift">З</string>
+    <string name="key_ad11_alt"/>
+    <string name="key_ad11_main">ц</string>
+    <string name="key_ad11_shift">Ц</string>
+    <string name="key_ad12_alt">Щ</string>
+    <string name="key_ad12_main">;</string>
+    <string name="key_ad12_shift">§</string>
+    <string name="key_ae01_alt">1!¡¹½⅓¼⅛</string>
+    <string name="key_ae01_main">1</string>
+    <string name="key_ae01_shift">!</string>
+    <string name="key_ae02_alt">2\@²⅔</string>
+    <string name="key_ae02_main">2</string>
+    <string name="key_ae02_shift">\?</string>
+    <string name="key_ae03_alt">3№#³¾⅜</string>
+    <string name="key_ae03_main">3</string>
+    <string name="key_ae03_shift">+</string>
+    <string name="key_ae04_alt">4$⁴¢£€¥</string>
+    <string name="key_ae04_main">4</string>
+    <string name="key_ae04_shift">"</string>
+    <string name="key_ae05_alt">5%⅝‰</string>
+    <string name="key_ae05_main">5</string>
+    <string name="key_ae05_shift">%</string>
+    <string name="key_ae06_alt">6:^↑↓←→</string>
+    <string name="key_ae06_main">6</string>
+    <string name="key_ae06_shift">=</string>
+    <string name="key_ae07_alt">7&amp;⅞♪</string>
+    <string name="key_ae07_main">7</string>
+    <string name="key_ae07_shift">:</string>
+    <string name="key_ae08_alt">8*•★∞†‡</string>
+    <string name="key_ae08_main">8</string>
+    <string name="key_ae08_shift">/</string>
+    <string name="key_ae09_alt">9([{√</string>
+    <string name="key_ae09_main">9</string>
+    <string name="key_ae09_shift">–</string>
+    <string name="key_ae10_alt">0)]}ⁿ°</string>
+    <string name="key_ae10_main">0</string>
+    <string name="key_ae10_shift">№</string>
+    <string name="key_ae11_alt">-_—–</string>
+    <string name="key_ae11_main">-</string>
+    <string name="key_ae11_shift">$</string>
+    <string name="key_ae12_alt">=+≈≠±×÷</string>
+    <string name="key_ae12_main">.</string>
+    <string name="key_ae12_shift">€</string>
+    <string name="key_bksl_alt">;:</string>
+    <string name="key_bksl_main">;</string>
+    <string name="key_bksl_shift">:</string>
+    <string name="key_tlde_alt">`\"~\'</string>
+    <string name="key_tlde_main">(</string>
+    <string name="key_tlde_shift">)</string>
+    <string msgid="437433231038683666" name="keyboard_layout">"Тема на клавиатурата"</string>
+    <string msgid="4585753477617374032" name="keyboard_settings"><font size="17"><b>"Настройки на клавиатурата"\n</b></font><font size="3">\n</font>"Докоснете и задръжте клавиша "<b>"?123"</b>"."</string>
+    <string msgid="8864943487292437456" name="label_alpha_key">"АБВГ"</string>
+    <string msgid="2846315350346694811" name="label_alt_key">"ALT"</string>
+    <string msgid="2441578748772529288" name="label_done_key">"Готово"</string>
+    <string msgid="1635148082137219148" name="label_go_key">"Старт"</string>
+    <string msgid="362972844525672568" name="label_next_key">"Напред"</string>
+    <string msgid="4275497665515080551" name="label_phone_key">"123"</string>
+    <string msgid="2815056534433717444" name="label_send_key">"Изпращане"</string>
+    <string msgid="6175820506864489453" name="label_symbol_key">"?123"</string>
+    <string msgid="187110938289512256" name="language_selection_summary">"Плъзнете пръст по клавиша за интервал за промяна на езика"</string>
+    <string msgid="1651299598555326750" name="language_selection_title">"Входни езици"</string>
+    <string msgid="7898366843681727667" name="ok">"OK"</string>
+    <string msgid="2215920976029260466" name="open_the_keyboard"><font size="17"><b>"Отворете клавиатурата"\n</b></font><font size="3">\n</font>"Докоснете текстово поле."</string>
+    <string msgid="3745279225122472969" name="popular_domain_0">".com"</string>
+    <string msgid="1370572248164278467" name="popular_domain_1">".net"</string>
+    <string msgid="3036812463748402878" name="popular_domain_2">".org"</string>
+    <string msgid="8718639560809452028" name="popular_domain_3">".gov"</string>
+    <string msgid="35359437471311470" name="popular_domain_4">".edu"</string>
+    <string msgid="123894815723512944" name="popup_on_keypress">"Изскачащ прозорец при натискане на клавиш"</string>
+    <string msgid="466220283138359837" name="prediction">"Предложения на думи"</string>
+    <string msgid="7027100625580696660" name="prediction_category">"Настройки за предложения на думи"</string>
+    <string msgid="4874601565593216183" name="prediction_landscape">"Размерът на текстовото поле да се увеличи"</string>
+    <string msgid="6736551095997839472" name="prediction_landscape_summary">"Скриване на предложенията на думи в хоризонтален изглед"</string>
+    <string msgid="459788228830873110" name="prediction_summary">"Активиране на автодовършване, докато пишете"</string>
+    <string msgid="5827825607258246003" name="prefs_description_log">"Помогнете за подобряването на този редактор за въвеждане чрез автоматично изпращане до Google на статистически данни за употребата и сигнали за сривове."</string>
+    <string msgid="6620424505072963557" name="prefs_enable_log">"Активиране на отзивите от потребителите"</string>
+    <string msgid="4588408906649533582" name="prefs_enable_recorrection">"Докоснете, за да поправите думите"</string>
+    <string msgid="1056068922330206170" name="prefs_enable_recorrection_summary">"Докоснете въведените думи, за да ги поправите"</string>
+    <string msgid="4623341240804046498" name="prefs_settings_key">"Показване на клавиша за настройки"</string>
+    <string msgid="5353213327680897927" name="quick_fixes">"Бързи корекции"</string>
+    <string msgid="3405028402510332373" name="quick_fixes_summary">"Коригира най-честите грешки при въвеждане"</string>
+    <string msgid="315076553378705821" name="selectInputMethod">"Избор на метод на въвеждане"</string>
+    <string msgid="7833948046716923994" name="settings_key_mode_always_hide_name">"Да се скрива винаги"</string>
+    <string msgid="3047567041784760575" name="settings_key_mode_always_show_name">"Да се показва винаги"</string>
+    <string msgid="2993460277873684680" name="settings_key_mode_auto_name">"Автоматично"</string>
+    <string msgid="507074425254289133" name="show_suggestions">"Показване на предложения"</string>
+    <string msgid="1989672863935759654" name="show_suggestions_summary">"Показване на предложения, докато пишете"</string>
+    <string msgid="6093592297198243644" name="sound_on_keypress">"Звук при натискане на клавиш"</string>
+    <string msgid="2242090416595003881" name="subtype_mode_keyboard">"клавиатура"</string>
+    <string msgid="4394113125441627771" name="subtype_mode_voice">"гласово"</string>
+    <string msgid="6344098517525531652" name="tip_access_symbols">"Достъп до номера и символи"</string>
+    <string msgid="1487293888469227817" name="tip_add_to_dictionary">"Натиснете и задръжте върху най-лявата дума, за да я добавите към речника"</string>
+    <string msgid="7585579046862204381" name="tip_dismiss">"Натиснете клавиша „Назад“ ↶, за да затворите клавиатурата във всяка една точка"</string>
+    <string msgid="6101270866284343344" name="tip_long_press">"Задръжте клавиша, за да видите ударенията (ø, ö и т.н.)"</string>
+    <string msgid="5227724217206927185" name="tip_to_close_symbols"><b>"Върнете се към използване на букви чрез повторно докосване на този клавиш"</b></string>
+    <string msgid="8402961128983196128" name="tip_to_launch_settings"><b>"Докоснете и задръжте клавиша за промяна на настройките на клавиатурата, напр. автодовършване"</b></string>
+    <string msgid="6821200275486950452" name="tip_to_open_keyboard"><b>"Клавиатурата се отваря при всяко докосване на текстово поле"</b></string>
+    <string msgid="7345139325622444880" name="tip_to_open_symbols"><b>"Докосването на този клавиш води до преминаване към цифри и символи"</b></string>
+    <string msgid="7213843601369174313" name="tip_to_start_typing"><b>"Пробвайте!"</b></string>
+    <string msgid="5433158573693308501" name="tip_to_view_accents"><b>"Докоснете и задръжте клавиша, за да видите ударенията"\n"(ø, ö, ô, ó и т.н.)"</b></string>
+    <string msgid="6154166367273010534" name="touch_and_hold"><font size="17"><b>"Докоснете и задръжте клавиш за опции"\n</b></font><font size="3">\n</font>"Използвайте пунктуация и акценти."</string>
+    <string msgid="7869803257948414531" name="touch_to_continue">"Докоснете съвета, за да продължите »"</string>
+    <string msgid="7990196086480585789" name="touch_to_finish">"Докоснете тук, за да затворите този съвет и да започнете да пишете!"</string>
+    <string msgid="5258079494276955460" name="vibrate_on_keypress">"Да вибрира при натискане на клавиш"</string>
+    <string msgid="5072707727016414454" name="voice_audio_error">"Аудиопроблем"</string>
+    <string msgid="5140896300312186162" name="voice_error">"Грешка. Моля, опитайте отново."</string>
+    <string msgid="6892342981545727994" name="voice_hint_dialog_message">"За да използвате гласово въвеждане, натиснете бутона на микрофона или плъзнете пръст през екранната клавиатура."</string>
+    <string msgid="661962047129906646" name="voice_initializing"/>
+    <string msgid="2466640768843347841" name="voice_input">"Гласово въвеждане"</string>
+    <string msgid="467518160751321844" name="voice_listening">"Говорете сега"</string>
+    <string msgid="6649556447401862563" name="voice_network_error">"Не можа да се свърже"</string>
+    <string msgid="4285117547030179174" name="voice_no_match">"Нямаше съответствия"</string>
+    <string msgid="5552450909753842415" name="voice_not_installed">"Не е инсталирано гласово търсене"</string>
+    <string msgid="1611389463237317754" name="voice_punctuation_hint"><b>"Съвет:"</b>" Следващия път опитайте да произнесете знаците за пунктуация, напр. „точка“, „запетая“ или „въпросителен знак“."</string>
+    <string msgid="7807129913977261644" name="voice_server_error">"Грешка в сървъра"</string>
+    <string msgid="8461817525075498795" name="voice_speech_timeout">"Не се чува реч"</string>
+    <string msgid="6943546180310682021" name="voice_swipe_hint"><b>"Съвет:"</b>" Прокарайте палец през клавиатурата, за да говорите"</string>
+    <string msgid="5746973620134227376" name="voice_too_much_speech">"Грешка, твърде много речева информация."</string>
+    <string msgid="5652369578498701761" name="voice_warning_how_to_turn_off">"За да изключите гласовото въвеждане, отворете настройките на клавиатурата."</string>
+    <string msgid="637923019716442333" name="voice_warning_locale_not_supported">"За вашия език понастоящем не се поддържа гласово въвеждане, но можете да го използвате на английски."</string>
+    <string msgid="4611518823070986445" name="voice_warning_may_not_understand">"Гласовото въвеждане е експериментална функция, използваща разпознаването на реч в мрежата на Google."</string>
+    <string msgid="4419354150908395008" name="voice_warning_title">"Гласово въвеждане"</string>
+    <string msgid="6666937792815731889" name="voice_working">"Обработва се"</string>
+</resources>

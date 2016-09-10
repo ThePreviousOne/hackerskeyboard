@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="prediction_modes">
+    <item msgid="4870266572388153286">"ללא"</item>
+    <item msgid="1669461741568287396">"בסיסי"</item>
+    <item msgid="4894328801530136615">"מתקדם"</item>
+  </string-array>
+    <string-array name="voice_input_modes">
+    <item msgid="1349082139076086774">"במקלדת הראשית"</item>
+    <item msgid="8529385602829095903">"מקלדת סמלים מופעלת"</item>
+    <item msgid="7283103513488381103">"כבוי"</item>
+  </string-array>
+    <string-array name="voice_input_modes_summary">
+    <item msgid="554248625705084903">"מיקרופון במקלדת הראשית"</item>
+    <item msgid="6907837061058876770">"מיקרופון במקלדת סמלים"</item>
+    <item msgid="3664304608587798036">"הקלט הקולי מושבת"</item>
+  </string-array>
+    <bool name="default_auto_cap">false</bool>
+    <string msgid="8993883354622484372" name="added_word">"<ns1:g id="WORD">%s</ns1:g> : נשמרה"</string>
+    <string name="alternates_for_a">aáàâãäå</string>
+    <string name="alternates_for_b">b</string>
+    <string name="alternates_for_c">cçčć¢</string>
+    <string name="alternates_for_d">dđ</string>
+    <string name="alternates_for_e">3eéèêëē€</string>
+    <string name="alternates_for_f">f₣</string>
+    <string name="alternates_for_g">g</string>
+    <string name="alternates_for_h">h</string>
+    <string name="alternates_for_i">8iíìîïī</string>
+    <string name="alternates_for_j">j</string>
+    <string name="alternates_for_k">k</string>
+    <string name="alternates_for_l">l£₤λ</string>
+    <string name="alternates_for_m">mμ</string>
+    <string name="alternates_for_n">nñ</string>
+    <string name="alternates_for_o">9oóòôõö</string>
+    <string name="alternates_for_p">0pπ₱</string>
+    <string name="alternates_for_q">1q</string>
+    <string name="alternates_for_r">4r</string>
+    <string name="alternates_for_s">s§ßš</string>
+    <string name="alternates_for_t">5t</string>
+    <string name="alternates_for_u">7uúùûü</string>
+    <string name="alternates_for_v">v</string>
+    <string name="alternates_for_w">2w`</string>
+    <string name="alternates_for_x">x</string>
+    <string name="alternates_for_y">6yýÿ¥</string>
+    <string name="alternates_for_z">zž</string>
+    <string msgid="1719746674854628252" name="auto_cap">"הפיכה אוטומטית של אותיות לרישיות"</string>
+    <string msgid="3260681697600786825" name="auto_cap_summary">"הוסף אות רישית בתחילת משפט"</string>
+    <string msgid="1103196318775486023" name="auto_complete">"השלמה אוטומטית"</string>
+    <string msgid="2172048590607201920" name="auto_complete_dialog_title">"השלמה אוטומטית"</string>
+    <string msgid="6113149638718274624" name="auto_complete_summary">"הקשה על מקש הרווח וסימני הפיסוק תוסיף באופן אוטומטי את המילה המסומנת"</string>
+    <string msgid="7911639788808958255" name="auto_correction">"הצעות למילים"</string>
+    <string msgid="6881047311475758267" name="auto_correction_summary">"תקן באופן אוטומטי את המילה הקודמת"</string>
+    <string msgid="7276672334264521751" name="auto_punctuate">"פיסוק אוטומטי"</string>
+    <string msgid="6589441565817502132" name="auto_punctuate_summary"/>
+    <string msgid="9151008027068358518" name="auto_submit">"שליחה אוטומטית לאחר הקלטת קול"</string>
+    <string msgid="4961875269610384226" name="auto_submit_summary">"הקש על Enter באופן אוטומטי בעת חיפוש או מעבר לשדה הבא."</string>
+    <string msgid="1323347224043514969" name="bigram_suggestion">"הצעות של צמדי אותיות (Bigram)"</string>
+    <string msgid="4383845146070101531" name="bigram_suggestion_summary">"השתמש במילה הקודמת כדי לשפר את ההצעה"</string>
+    <string msgid="6830980399865683324" name="cancel">"ביטול"</string>
+    <string msgid="6251022259044940103" name="close_the_keyboard"><font size="17"><b>"סגור את המקלדת"\n</b></font><font size="3">\n</font>"לחץ על הלחצן \'הקודם\'."</string>
+    <string msgid="3909945612939668554" name="english_ime_input_options">"אפשרויות קלט"</string>
+    <string msgid="6071847973466625007" name="has_dictionary">"מילון זמין"</string>
+    <string msgid="9006292060636342317" name="hint_add_to_dictionary">"← גע שוב כדי לשמור"</string>
+    <string msgid="4855351009261318389" name="hit_correction">"תקן שגיאות הקלדה"</string>
+    <string msgid="2567691684825205448" name="hit_correction_land">"שגיאות קלט בפריסה לרוחב"</string>
+    <string msgid="4076803842198368328" name="hit_correction_land_summary">"הפוך תיקון שגיאות קלט לפעיל"</string>
+    <string msgid="8761701873008070796" name="hit_correction_summary">"הפוך תיקון שגיאות קלט לפעיל"</string>
+    <string name="key_ab01_alt">@string/alternates_for_z</string>
+    <string name="key_ab01_main">ז</string>
+    <string name="key_ab01_shift">Z</string>
+    <string name="key_ab02_alt">@string/alternates_for_x</string>
+    <string name="key_ab02_main">ס</string>
+    <string name="key_ab02_shift">X</string>
+    <string name="key_ab03_alt">@string/alternates_for_c</string>
+    <string name="key_ab03_main">ב</string>
+    <string name="key_ab03_shift">C</string>
+    <string name="key_ab04_alt">@string/alternates_for_v</string>
+    <string name="key_ab04_main">ה</string>
+    <string name="key_ab04_shift">V</string>
+    <string name="key_ab05_alt">@string/alternates_for_b</string>
+    <string name="key_ab05_main">נ</string>
+    <string name="key_ab05_shift">B</string>
+    <string name="key_ab06_alt">@string/alternates_for_n</string>
+    <string name="key_ab06_main">מ</string>
+    <string name="key_ab06_shift">N</string>
+    <string name="key_ab07_alt">@string/alternates_for_m</string>
+    <string name="key_ab07_main">צ</string>
+    <string name="key_ab07_shift">M</string>
+    <string name="key_ab08_alt">>≥»›</string>
+    <string name="key_ab08_main">ת</string>
+    <string name="key_ab08_shift">></string>
+    <string name="key_ab09_alt">&lt;≤«‹</string>
+    <string name="key_ab09_main">ץ</string>
+    <string name="key_ab09_shift">&lt;</string>
+    <string name="key_ab10_alt">.?\?¿</string>
+    <string name="key_ab10_main">.</string>
+    <string name="key_ab10_shift">\?</string>
+    <string name="key_ac01_alt">@string/alternates_for_a</string>
+    <string name="key_ac01_main">ש</string>
+    <string name="key_ac01_shift">A</string>
+    <string name="key_ac02_alt">@string/alternates_for_s</string>
+    <string name="key_ac02_main">ד</string>
+    <string name="key_ac02_shift">S</string>
+    <string name="key_ac03_alt">@string/alternates_for_d</string>
+    <string name="key_ac03_main">ג</string>
+    <string name="key_ac03_shift">D</string>
+    <string name="key_ac04_alt">@string/alternates_for_f</string>
+    <string name="key_ac04_main">כ</string>
+    <string name="key_ac04_shift">F</string>
+    <string name="key_ac05_alt">@string/alternates_for_g</string>
+    <string name="key_ac05_main">ע</string>
+    <string name="key_ac05_shift">G</string>
+    <string name="key_ac06_alt">@string/alternates_for_h</string>
+    <string name="key_ac06_main">י</string>
+    <string name="key_ac06_shift">H</string>
+    <string name="key_ac07_alt">@string/alternates_for_j</string>
+    <string name="key_ac07_main">ח</string>
+    <string name="key_ac07_shift">J</string>
+    <string name="key_ac08_alt">@string/alternates_for_k</string>
+    <string name="key_ac08_main">ל</string>
+    <string name="key_ac08_shift">K</string>
+    <string name="key_ac09_alt">@string/alternates_for_l</string>
+    <string name="key_ac09_main">ך</string>
+    <string name="key_ac09_shift">L</string>
+    <string name="key_ac10_alt">ף:</string>
+    <string name="key_ac10_main">ף</string>
+    <string name="key_ac10_shift">:</string>
+    <string name="key_ac11_alt">,\"‘’“”</string>
+    <string name="key_ac11_main">,</string>
+    <string name="key_ac11_shift">\"</string>
+    <string name="key_ad01_alt">@string/alternates_for_q</string>
+    <string name="key_ad01_main">/</string>
+    <string name="key_ad01_shift">Q</string>
+    <string name="key_ad02_alt">@string/alternates_for_w</string>
+    <string name="key_ad02_main">\'</string>
+    <string name="key_ad02_shift">W</string>
+    <string name="key_ad03_alt">@string/alternates_for_e</string>
+    <string name="key_ad03_main">ק</string>
+    <string name="key_ad03_shift">E</string>
+    <string name="key_ad04_alt">@string/alternates_for_r</string>
+    <string name="key_ad04_main">ר</string>
+    <string name="key_ad04_shift">R</string>
+    <string name="key_ad05_alt">@string/alternates_for_t</string>
+    <string name="key_ad05_main">א</string>
+    <string name="key_ad05_shift">T</string>
+    <string name="key_ad06_alt">@string/alternates_for_y</string>
+    <string name="key_ad06_main">ט</string>
+    <string name="key_ad06_shift">Y</string>
+    <string name="key_ad07_alt">@string/alternates_for_u</string>
+    <string name="key_ad07_main">ו</string>
+    <string name="key_ad07_shift">U</string>
+    <string name="key_ad08_alt">@string/alternates_for_i</string>
+    <string name="key_ad08_main">ן</string>
+    <string name="key_ad08_shift">I</string>
+    <string name="key_ad09_alt">@string/alternates_for_o</string>
+    <string name="key_ad09_main">ם</string>
+    <string name="key_ad09_shift">O</string>
+    <string name="key_ad10_alt">@string/alternates_for_p</string>
+    <string name="key_ad10_main">פ</string>
+    <string name="key_ad10_shift">P</string>
+    <string name="key_ad11_alt">]}</string>
+    <string name="key_ad11_main">]</string>
+    <string name="key_ad11_shift">}</string>
+    <string name="key_ad12_alt">[{</string>
+    <string name="key_ad12_main">[</string>
+    <string name="key_ad12_shift">{</string>
+    <string name="key_ae01_alt">1!¡¹½⅓¼⅛</string>
+    <string name="key_ae01_main">1</string>
+    <string name="key_ae01_shift">!</string>
+    <string name="key_ae02_alt">2\@²⅔</string>
+    <string name="key_ae02_main">2</string>
+    <string name="key_ae02_shift">\@</string>
+    <string name="key_ae03_alt">3#³¾⅜♥♠♦♣</string>
+    <string name="key_ae03_main">3</string>
+    <string name="key_ae03_shift">#</string>
+    <string name="key_ae04_alt">4$⁴¢£€¥</string>
+    <string name="key_ae04_main">4</string>
+    <string name="key_ae04_shift">$</string>
+    <string name="key_ae05_alt">5%⅝‰</string>
+    <string name="key_ae05_main">5</string>
+    <string name="key_ae05_shift">%</string>
+    <string name="key_ae06_alt">6^↑↓←→</string>
+    <string name="key_ae06_main">6</string>
+    <string name="key_ae06_shift">^</string>
+    <string name="key_ae07_alt">7&amp;⅞♪</string>
+    <string name="key_ae07_main">7</string>
+    <string name="key_ae07_shift">&amp;</string>
+    <string name="key_ae08_alt">8*•★∞†‡</string>
+    <string name="key_ae08_main">8</string>
+    <string name="key_ae08_shift">*</string>
+    <string name="key_ae09_alt">9)√</string>
+    <string name="key_ae09_main">9</string>
+    <string name="key_ae09_shift">)</string>
+    <string name="key_ae10_alt">0(ⁿ°</string>
+    <string name="key_ae10_main">0</string>
+    <string name="key_ae10_shift">(</string>
+    <string name="key_ae11_alt">-_—–</string>
+    <string name="key_ae11_main">-</string>
+    <string name="key_ae11_shift">_</string>
+    <string name="key_ae12_alt">=+≈≠±×÷</string>
+    <string name="key_ae12_main">=</string>
+    <string name="key_ae12_shift">+</string>
+    <string name="key_bksl_alt">\\|</string>
+    <string name="key_bksl_main">\\</string>
+    <string name="key_bksl_shift">|</string>
+    <string name="key_tlde_alt">;~</string>
+    <string name="key_tlde_main">;</string>
+    <string name="key_tlde_shift">~</string>
+    <string msgid="437433231038683666" name="keyboard_layout">"עיצוב מקלדת"</string>
+    <string msgid="4585753477617374032" name="keyboard_settings"><font size="17"><b>"הגדרות מקלדת"\n</b></font><font size="3">\n</font>"גע במקש "<b>"?123"</b>" והחזק אותו לחוץ."</string>
+    <string msgid="8864943487292437456" name="label_alpha_key">"ABC"</string>
+    <string msgid="2846315350346694811" name="label_alt_key">"ALT"</string>
+    <string msgid="2441578748772529288" name="label_done_key">"בוצע"</string>
+    <string msgid="1635148082137219148" name="label_go_key">"בצע"</string>
+    <string msgid="362972844525672568" name="label_next_key">"הבא"</string>
+    <string msgid="4275497665515080551" name="label_phone_key">"123"</string>
+    <string msgid="2815056534433717444" name="label_send_key">"שלח"</string>
+    <string msgid="6175820506864489453" name="label_symbol_key">"?123"</string>
+    <string msgid="187110938289512256" name="language_selection_summary">"החלק את האצבע על מקש הרווח כדי לשנות שפה"</string>
+    <string msgid="1651299598555326750" name="language_selection_title">"שפות קלט"</string>
+    <string msgid="7898366843681727667" name="ok">"אישור"</string>
+    <string msgid="2215920976029260466" name="open_the_keyboard"><font size="17"><b>"פתח את המקלדת"\n</b></font><font size="3">\n</font>"גע בשדה טקסט כלשהו."</string>
+    <string msgid="3745279225122472969" name="popular_domain_0">"‎.com"</string>
+    <string msgid="1370572248164278467" name="popular_domain_1">"‎.net"</string>
+    <string msgid="3036812463748402878" name="popular_domain_2">"‎.org"</string>
+    <string msgid="8718639560809452028" name="popular_domain_3">"‎.gov"</string>
+    <string msgid="35359437471311470" name="popular_domain_4">"‎.edu"</string>
+    <string msgid="123894815723512944" name="popup_on_keypress">"חלון קופץ עם לחיצה על מקשים"</string>
+    <string msgid="466220283138359837" name="prediction">"הצעות למילים"</string>
+    <string msgid="7027100625580696660" name="prediction_category">"הגדרות של הצעות מילים"</string>
+    <string msgid="4874601565593216183" name="prediction_landscape">"הגדל את הגודל של שדה הטקסט"</string>
+    <string msgid="6736551095997839472" name="prediction_landscape_summary">"הסתר הצעות למילים בתצוגה לרוחב"</string>
+    <string msgid="459788228830873110" name="prediction_summary">"הפוך השלמה אוטומטית לפעילה בעת הקלדה"</string>
+    <string msgid="5827825607258246003" name="prefs_description_log">"עזור לשפר שיטת קלט זו על ידי שליחה אוטומטית של סטטיסטיקת שימוש ודוחות קריסת מחשב ל-Google."</string>
+    <string msgid="6620424505072963557" name="prefs_enable_log">"הפוך משוב ממשתמשים לפעיל"</string>
+    <string msgid="4588408906649533582" name="prefs_enable_recorrection">"גע כדי לתקן מילים"</string>
+    <string msgid="1056068922330206170" name="prefs_enable_recorrection_summary">"גע במילים שהוזנו כדי לתקן אותן"</string>
+    <string msgid="4623341240804046498" name="prefs_settings_key">"הצג מקש הגדרות"</string>
+    <string msgid="5353213327680897927" name="quick_fixes">"תיקונים מהירים"</string>
+    <string msgid="3405028402510332373" name="quick_fixes_summary">"מתקן שגיאות הקלדה נפוצות"</string>
+    <string msgid="315076553378705821" name="selectInputMethod">"בחר שיטת קלט"</string>
+    <string msgid="7833948046716923994" name="settings_key_mode_always_hide_name">"הסתר תמיד"</string>
+    <string msgid="3047567041784760575" name="settings_key_mode_always_show_name">"הצג תמיד"</string>
+    <string msgid="2993460277873684680" name="settings_key_mode_auto_name">"אוטומטי"</string>
+    <string msgid="507074425254289133" name="show_suggestions">"הצג הצעות"</string>
+    <string msgid="1989672863935759654" name="show_suggestions_summary">"הצג הצעות למילים בעת הקלדה"</string>
+    <string msgid="6093592297198243644" name="sound_on_keypress">"צלילים עם לחיצה על מקשים"</string>
+    <string msgid="2242090416595003881" name="subtype_mode_keyboard">"מקלדת"</string>
+    <string msgid="4394113125441627771" name="subtype_mode_voice">"קולי"</string>
+    <string msgid="6344098517525531652" name="tip_access_symbols">"גישה למספרים וסמלים"</string>
+    <string msgid="1487293888469227817" name="tip_add_to_dictionary">"לחץ על המילה השמאלית הקיצונית והחזק אותה לחוצה כדי להוסיף למילון"</string>
+    <string msgid="7585579046862204381" name="tip_dismiss">"לחץ על המקש \'הקודם\' ↶ כדי לסגור את המקלדת בכל עת"</string>
+    <string msgid="6101270866284343344" name="tip_long_press">"החזק מקש לחוץ כדי לראות אקצנטים (ø, ö וכדומה)"</string>
+    <string msgid="5227724217206927185" name="tip_to_close_symbols"><b>"חזור לאותיות על ידי מגע במקש זה שוב"</b></string>
+    <string msgid="8402961128983196128" name="tip_to_launch_settings"><b>"גע במקש זה והחזק אותו לחוץ כדי לשנות את הגדרות המקלדת, כגון השלמה אוטומטית"</b></string>
+    <string msgid="6821200275486950452" name="tip_to_open_keyboard"><b>"המקלדת נפתחת בכל פעם שאתה נוגע בשדה טקסט"</b></string>
+    <string msgid="7345139325622444880" name="tip_to_open_symbols"><b>"עבור למספרים וסמלים על ידי נגיעה במקש זה"</b></string>
+    <string msgid="7213843601369174313" name="tip_to_start_typing"><b>"נסה אותו!"</b></string>
+    <string msgid="5433158573693308501" name="tip_to_view_accents"><b>"גע במקש והחזק אותו לחוץ כדי להציג אקצנטים"\n"(ø, ö, ô, ó וכדומה)"</b></string>
+    <string msgid="6154166367273010534" name="touch_and_hold"><font size="17"><b>"גע במקש והחזק אותו לחוץ לקבלת אפשרויות"\n</b></font><font size="3">\n</font>"קבל גישה לסימני פיסוק ואקצנטים."</string>
+    <string msgid="7869803257948414531" name="touch_to_continue">"גע ברמז זה כדי להמשיך »"</string>
+    <string msgid="7990196086480585789" name="touch_to_finish">"גע כאן כדי לסגור רמז זה ולהתחיל בהקלדה!"</string>
+    <string msgid="5258079494276955460" name="vibrate_on_keypress">"רטט עם לחיצה על מקשים"</string>
+    <string msgid="5072707727016414454" name="voice_audio_error">"בעיה באודיו"</string>
+    <string msgid="5140896300312186162" name="voice_error">"שגיאה. נסה שוב."</string>
+    <string msgid="6892342981545727994" name="voice_hint_dialog_message">"כדי להשתמש בקלט הקולי, לחץ על לחצן המיקרופון או החלק את האצבע על המקלדת שבמסך."</string>
+    <string msgid="661962047129906646" name="voice_initializing"/>
+    <string msgid="2466640768843347841" name="voice_input">"קלט קולי"</string>
+    <string msgid="467518160751321844" name="voice_listening">"דבר כעת"</string>
+    <string msgid="6649556447401862563" name="voice_network_error">"אין אפשרות להתחבר"</string>
+    <string msgid="4285117547030179174" name="voice_no_match">"לא נמצאו התאמות"</string>
+    <string msgid="5552450909753842415" name="voice_not_installed">"חיפוש קולי לא מותקן"</string>
+    <string msgid="1611389463237317754" name="voice_punctuation_hint"><b>"רמז:"</b>" בפעם הבאה, נסה לומר את סימני הפיסוק כגון \"נקודה\", \"פסיק\" או \"סימן שאלה\"."</string>
+    <string msgid="7807129913977261644" name="voice_server_error">"שגיאת שרת"</string>
+    <string msgid="8461817525075498795" name="voice_speech_timeout">"לא נשמע דיבור"</string>
+    <string msgid="6943546180310682021" name="voice_swipe_hint"><b>"רמז:"</b>" העבר על המקלדת כדי לדבר"</string>
+    <string msgid="5746973620134227376" name="voice_too_much_speech">"שגיאה, דיבור רב מדי."</string>
+    <string msgid="5652369578498701761" name="voice_warning_how_to_turn_off">"כדי לכבות את הקלט הקולי, עבור להגדרות מקלדת."</string>
+    <string msgid="637923019716442333" name="voice_warning_locale_not_supported">"קלט קולי אינו נתמך בשלב זה בשפתך, אך הוא פועל באנגלית."</string>
+    <string msgid="4611518823070986445" name="voice_warning_may_not_understand">"קלט קולי הוא תכונה ניסיונית של זיהוי הדיבור ברשת של Google."</string>
+    <string msgid="4419354150908395008" name="voice_warning_title">"קלט קולי"</string>
+    <string msgid="6666937792815731889" name="voice_working">"פועל"</string>
+</resources>

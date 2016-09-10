@@ -1,0 +1,410 @@
+[
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_num8.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_num8.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/keyboard_key_feedback_more_background.9.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/keyboard_key_feedback_more_background.9.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_numalt.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_numalt.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_feedback_search.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_feedback_search.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_dark_normal_on_holo.9.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/btn_keyboard_key_dark_normal_on_holo.9.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_feedback_language_arrows_left.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_feedback_language_arrows_left.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/keyboard_suggest_strip.9.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/keyboard_suggest_strip.9.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_pressed_stone.9.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/btn_keyboard_key_pressed_stone.9.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_num9.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_num9.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_light_pressed.9.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/btn_keyboard_key_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_shift.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_shift.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_dark_pressed_on.9.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/btn_keyboard_key_dark_pressed_on.9.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_light_normal_holo.9.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/btn_keyboard_key_light_normal_holo.9.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_normal_stone.9.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/btn_keyboard_key_normal_stone.9.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ok_cancel.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/ok_cancel.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_light_popup_normal.9.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/btn_keyboard_key_light_popup_normal.9.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_feedback_return.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_feedback_return.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_settings.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_settings.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_suggest_strip_microphone_swipe.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/ic_suggest_strip_microphone_swipe.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_dark_normal_holo.9.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/btn_keyboard_key_dark_normal_holo.9.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_feedback_numalt.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_feedback_numalt.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_dark_pressed_holo.9.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/btn_keyboard_key_dark_pressed_holo.9.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_num5.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_num5.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/keyboard_key_feedback_background.9.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/keyboard_key_feedback_background.9.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_normal_on_stone.9.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/btn_keyboard_key_normal_on_stone.9.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/keyboard_suggest_strip_divider.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/keyboard_suggest_strip_divider.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_space_led.9.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_space_led.9.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_light_normal.9.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/btn_keyboard_key_light_normal.9.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_feedback_123_mic.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_feedback_123_mic.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_feedback_space.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_feedback_space.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_dark_normal_lock.9.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/btn_keyboard_key_dark_normal_lock.9.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_search.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_search.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_feedback_shift_locked.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_feedback_shift_locked.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_num6.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_num6.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/keyboard_background.9.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/keyboard_background.9.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_space.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_space.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_return.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_return.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/voice_swipe_hint.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/voice_swipe_hint.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_123_mic.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_123_mic.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_language_arrows_right.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_language_arrows_right.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_feedback_shift.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_feedback_shift.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/speak_now_level2.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/speak_now_level2.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_tab.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_tab.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_subtype_keyboard.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/ic_subtype_keyboard.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_feedback_mic.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_feedback_mic.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/speak_now_level5.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/speak_now_level5.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/mic_slash.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/mic_slash.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_numpound.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_numpound.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_num2.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_num2.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_dark_pressed_off_holo.9.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/btn_keyboard_key_dark_pressed_off_holo.9.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/speak_now_level3.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/speak_now_level3.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_feedback_tab.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_feedback_tab.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/keyboard_dark_background.9.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/keyboard_dark_background.9.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_subtype_mic.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/ic_subtype_mic.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/voice_ime_background.9.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/voice_ime_background.9.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/speak_now_level4.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/speak_now_level4.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_num3.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_num3.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_dark_pressed_off.9.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/btn_keyboard_key_dark_pressed_off.9.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_dark_pressed.9.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/btn_keyboard_key_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_dark_active_holo.9.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/btn_keyboard_key_dark_active_holo.9.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/hint_popup.9.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/hint_popup.9.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/caution.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/caution.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_popup_selected_holo.9.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/btn_keyboard_key_popup_selected_holo.9.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_dark_normal_lock_holo.9.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/btn_keyboard_key_dark_normal_lock_holo.9.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_delete.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_delete.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_num0.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_num0.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_feedback_delete.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_feedback_delete.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_light_pressed_holo.9.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/btn_keyboard_key_light_pressed_holo.9.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_normal_off_stone.9.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/btn_keyboard_key_normal_off_stone.9.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_dark_normal_off_holo.9.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/btn_keyboard_key_dark_normal_off_holo.9.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_normal_lock_stone.9.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/btn_keyboard_key_normal_lock_stone.9.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_dialog_keyboard.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/ic_dialog_keyboard.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/candidate_feedback_background.9.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/candidate_feedback_background.9.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/highlight_pressed.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/highlight_pressed.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_light_popup_selected.9.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/btn_keyboard_key_light_popup_selected.9.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/speak_now_level6.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/speak_now_level6.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/speak_now_level1.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/speak_now_level1.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_shift_locked.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_shift_locked.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/keyboard_popup_panel_background.9.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/keyboard_popup_panel_background.9.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_dark_normal.9.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/btn_keyboard_key_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/speak_now_level0.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/speak_now_level0.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/dialog_bubble_step07.9.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/dialog_bubble_step07.9.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_feedback_language_arrows_right.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_feedback_language_arrows_right.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_mic.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_mic.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/dialog_bubble_step02.9.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/dialog_bubble_step02.9.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_feedback_settings.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_feedback_settings.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cancel.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/cancel.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_feedback_done.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_feedback_done.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_dark_normal_on.9.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/btn_keyboard_key_dark_normal_on.9.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_dark_pressed_on_holo.9.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/btn_keyboard_key_dark_pressed_on_holo.9.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_done.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_done.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/working.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/working.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_mic_dialog.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/ic_mic_dialog.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_suggest_strip_microphone.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/ic_suggest_strip_microphone.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_num7.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_num7.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_language_arrows_left.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_language_arrows_left.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_num1.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_num1.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/list_selector_background_pressed.9.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/list_selector_background_pressed.9.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_numstar.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_numstar.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_dark_normal_off.9.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/btn_keyboard_key_dark_normal_off.9.png"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_num4.png",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable-hdpi/sym_keyboard_num4.png"
+    }
+]

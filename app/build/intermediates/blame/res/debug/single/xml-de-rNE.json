@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/xml-de-rNE/kbd_qwerty.xml",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/xml-de-rNE/kbd_qwerty.xml"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/xml-de-rNE/kbd_full.xml",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/xml-de-rNE/kbd_full.xml"
+    }
+]

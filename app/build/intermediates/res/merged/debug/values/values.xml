@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="chording_alt_key_entries">
+        <item>None (ignored when not modifying other keys)</item>
+        <item>Left Alt</item>
+        <item>Right Alt</item>
+    </string-array>
+    <string-array name="chording_alt_key_values">
+        <item>0</item>
+        <item>57</item>
+        <item>58</item>
+    </string-array>
+    <string-array name="chording_ctrl_key_entries">
+        <item>None (ignored when not modifying other keys)</item>
+        <item>Left Ctrl</item>
+        <item>Right Ctrl</item>
+    </string-array>
+    <string-array name="chording_ctrl_key_values">
+        <item>0</item>
+        <item>113</item>
+        <item>114</item>
+    </string-array>
+    <string-array name="chording_meta_key_entries">
+        <item>None (ignored when not modifying other keys)</item>
+        <item>Left Meta</item>
+        <item>Right Meta</item>
+    </string-array>
+    <string-array name="chording_meta_key_values">
+        <item>0</item>
+        <item>117</item>
+        <item>118</item>
+    </string-array>
+    <string-array name="click_method_entries">
+        <item>System default (ignore click volume)</item>
+        <item>Absolute click volume</item>
+        <item>Follow media volume</item>
+        <item>Reverse media volume</item>
+    </string-array>
+    <string-array name="click_method_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="hint_modes">
+        <item>Hide hint labels</item>
+        <item>Show ASCII punctuation</item>
+        <item>Show all hint labels</item>
+    </string-array>
+    <string-array name="hint_modes_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="keyboard_layout_modes" translatable="false">
+        <item>@string/layout_ics</item>
+        <item>@string/layout_gingerbread</item>
+        <item>@string/layout_stone_bold</item>
+        <item>@string/layout_trans_neon</item>
+    </string-array>
+    <string-array name="keyboard_layout_modes_values" translatable="false">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="keyboard_mode_entries">
+        <item>4-row Gingerbread layout</item>
+        <item>5-row compact layout (US QWERTY only!)</item>
+        <item>Full 5-row layout</item>
+    </string-array>
+    <string-array name="keyboard_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="popup_content_entries">
+        <item>No popups</item>
+        <item>No popups, use auto-repeat</item>
+        <item>Unique only: 3 ⇒ ³, e ⇒ é</item>
+        <item>Add shifted: 3 ⇒ #³, e ⇒ é</item>
+        <item>Add upper: 3 ⇒ #³, e ⇒ Eé</item>
+        <item>Add self: 3 ⇒ 3#³, e ⇒ eEé</item>
+    </string-array>
+    <string-array name="popup_content_values">
+        <item>256</item>
+        <item>768</item>
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="prediction_modes">
+        <item>None</item>
+        <item>Basic</item>
+        <item>Advanced</item>
+    </string-array>
+    <string-array name="prediction_modes_values" translatable="false">
+        <item>@string/prediction_none</item>
+        <item>@string/prediction_basic</item>
+        <item>@string/prediction_full</item>
+    </string-array>
+    <string-array name="render_mode_entries">
+        <item>Direct draw (saves memory)</item>
+        <item>Software buffered (default)</item>
+        <item>Hardware accelerated (experimental)</item>
+    </string-array>
+    <string-array name="render_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="settings_key_modes">
+        <item>@string/settings_key_mode_auto_name</item>
+        <item>@string/settings_key_mode_always_show_name</item>
+        <item>@string/settings_key_mode_always_hide_name</item>
+    </string-array>
+    <string-array name="settings_key_modes_values" translatable="false">
+        <item>@string/settings_key_mode_auto</item>
+        <item>@string/settings_key_mode_always_show</item>
+        <item>@string/settings_key_mode_always_hide</item>
+    </string-array>
+    <string-array name="slide_keys_entries">
+        <item>Ignore keys during sliding movement (Recommended)</item>
+        <item>Send first key touched</item>
+        <item>Send last key touched</item>
+        <item>Send first and last key</item>
+        <item>Send all keys touched during sliding movement</item>
+    </string-array>
+    <string-array name="slide_keys_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="swipe_action_entries">
+        <item>(no action)</item>
+        <item>Close keyboard</item>
+        <item>Toggle extension row</item>
+        <item>Launch Settings</item>
+        <item>Toggle suggestions</item>
+        <item>Voice input</item>
+        <item>Switch keyboard layout</item>
+        <item>Increase height</item>
+        <item>Decrease height</item>
+        <item>Previous language</item>
+-       <item>Next language</item>
+        </string-array>
+    <string-array name="swipe_action_values">
+        <item>none</item>
+        <item>close</item>
+        <item>extension</item>
+        <item>settings</item>
+        <item>suggestions</item>
+        <item>voice_input</item>
+        <item>full_mode</item>
+        <item>height_up</item>
+        <item>height_down</item>
+        <item>lang_prev</item>
+-       <item>lang_next</item>
+    </string-array>
+    <string-array name="voice_input_modes">
+        <item>On main keyboard</item>
+        <item>On symbols keyboard</item>
+        <item>Off</item>
+    </string-array>
+    <string-array name="voice_input_modes_summary">
+        <item>Mic on main keyboard</item>
+        <item>Mic on symbols keyboard</item>
+        <item>Voice input is disabled</item>
+    </string-array>
+    <string-array name="voice_input_modes_values" translatable="false">
+        <item>@string/voice_mode_main</item>
+        <item>@string/voice_mode_symbols</item>
+        <item>@string/voice_mode_off</item>
+    </string-array>
+    <bool name="config_long_press_comma_for_settings_enabled">true</bool>
+    <bool name="config_swipeDisambiguation">true</bool>
+    <bool name="default_add_shift_to_popup">false</bool>
+    <bool name="default_auto_cap">true</bool>
+    <bool name="default_caps_lock">true</bool>
+    <bool name="default_compact_mode_enabled">false</bool>
+    <bool name="default_connectbot_tab_hack">true</bool>
+    <bool name="default_force_keyboard_on">false</bool>
+    <bool name="default_fullscreen_override">false</bool>
+    <bool name="default_keyboard_notification">false</bool>
+    <bool name="default_popup_preview">true</bool>
+    <bool name="default_quick_fixes">true</bool>
+    <bool name="default_recorrection_enabled">false</bool>
+    <bool name="default_shift_lock_modifiers">true</bool>
+    <bool name="default_suggestions">true</bool>
+    <bool name="default_suggestions_in_landscape">false</bool>
+    <bool name="enable_autocorrect">false</bool>
+    <bool name="im_is_default">false</bool>
+    <bool name="voice_input_default">true</bool>
+    <color name="candidate_normal">#FFFFFFFF</color>
+    <color name="candidate_other">#FFFCAE00</color>
+    <color name="candidate_recommended">#FFFCAE00</color>
+    <color name="latinkeyboard_bar_language_shadow_black">#80FFFFFF</color>
+    <color name="latinkeyboard_bar_language_shadow_white">#80000000</color>
+    <color name="latinkeyboard_dim_color_black">#FF222222</color>
+    <color name="latinkeyboard_dim_color_white">#FFDDDDDD</color>
+    <color name="latinkeyboard_extension_background">#A0000000</color>
+    <color name="latinkeyboard_feedback_language_text">#FFFFFFFF</color>
+    <color name="latinkeyboard_key_color_black">#FF000000</color>
+    <color name="latinkeyboard_key_color_white">#FFFFFFFF</color>
+    <color name="latinkeyboard_transparent">#00000000</color>
+    <declare-styleable name="Keyboard"><attr format="dimension|fraction" name="keyWidth"/><attr format="dimension|fraction" name="keyHeight"/><attr format="dimension|fraction" name="horizontalGap"/><attr format="dimension|fraction" name="verticalGap"/><attr format="dimension|fraction" name="horizontalPad"/><attr format="dimension|fraction" name="verticalPad"/><attr format="integer" name="layoutRows"/><attr format="integer" name="layoutColumns"/></declare-styleable>
+    <declare-styleable name="Keyboard_Key"><attr format="integer|string" name="codes"/><attr format="reference" name="popupKeyboard"/><attr format="string" name="popupCharacters"/><attr name="keyEdgeFlags"><flag name="left" value="1"/><flag name="right" value="2"/></attr><attr format="boolean" name="isModifier"/><attr format="boolean" name="isSticky"/><attr format="boolean" name="isCursor"/><attr format="boolean" name="isRepeatable"/><attr format="reference" name="iconPreview"/><attr format="string" name="keyOutputText"/><attr format="string" name="keyLabel"/><attr format="string" name="shiftLabel"/><attr format="string" name="capsLabel"/><attr format="reference" name="keyIcon"/><attr name="keyboardMode"/></declare-styleable>
+    <declare-styleable name="Keyboard_Row"><attr name="rowEdgeFlags"><flag name="top" value="4"/><flag name="bottom" value="8"/></attr><attr format="reference" name="keyboardMode"/><attr format="boolean" name="extension"/></declare-styleable>
+    <declare-styleable name="LatinKeyboardBaseView"><attr format="reference" name="keyboardViewStyle"/><attr format="reference" name="keyBackground"/><attr format="dimension" name="keyTextSize"/><attr format="dimension" name="labelTextSize"/><attr format="color" name="keyTextColor"/><attr format="color" name="keyHintColor"/><attr format="color" name="keyCursorColor"/><attr format="boolean" name="recolorSymbols"/><attr format="integer" name="backgroundAlpha"/><attr format="reference" name="keyPreviewLayout"/><attr format="dimension" name="keyPreviewOffset"/><attr format="dimension" name="keyPreviewHeight"/><attr format="dimension" name="keyHysteresisDistance"/><attr format="dimension" name="verticalCorrection"/><attr format="reference" name="popupLayout"/><attr format="color" name="shadowColor"/><attr format="float" name="shadowRadius"/><attr format="float" name="backgroundDimAmount"/><attr name="keyTextStyle"><flag name="normal" value="0"/><flag name="bold" value="1"/><flag name="italic" value="2"/></attr><attr name="symbolColorScheme"><flag name="white" value="0"/><flag name="black" value="1"/></attr></declare-styleable>
+    <declare-styleable name="SeekBarPreference"><attr format="float" name="minValue"/><attr format="float" name="maxValue"/><attr format="boolean" name="asPercent"/><attr format="float" name="step"/><attr format="boolean" name="logScale"/><attr format="string" name="displayFormat"/></declare-styleable>
+    <dimen name="bubble_pointer_offset">22dip</dimen>
+    <dimen name="candidate_min_touchable_width">0.3in</dimen>
+    <dimen name="candidate_strip_fading_edge_length">63dip</dimen>
+    <dimen name="candidate_strip_height">42dip</dimen>
+    <dimen name="key_bottom_gap">0.000in</dimen>
+    <dimen name="key_height">0.290in</dimen>
+    <dimen name="key_horizontal_pad">0.000in</dimen>
+    <dimen name="key_hysteresis_distance">0.05in</dimen>
+    <dimen name="key_label_text_size">0.083in</dimen>
+    <dimen name="key_preview_height">80sp</dimen>
+    <dimen name="key_preview_offset">0.000in</dimen>
+    <dimen name="key_preview_text_size_large">40sp</dimen>
+    <dimen name="key_text_size">0.11in</dimen>
+    <dimen name="key_vertical_pad">0.025in</dimen>
+    <dimen name="key_vertical_pad_compact">0.000in</dimen>
+    <dimen name="keyboard_bottom_padding">0.06in</dimen>
+    <dimen name="keyboard_vertical_correction">-0.05in</dimen>
+    <dimen name="max_height_for_fullscreen">2.5in</dimen>
+    <dimen name="mini_keyboard_slide_allowance">0.553in</dimen>
+    <dimen name="mini_keyboard_vertical_correction">-0.325in</dimen>
+    <dimen name="popup_key_height">0.325in</dimen>
+    <dimen name="spacebar_vertical_correction">4dip</dimen>
+    <integer name="config_delay_after_preview">10</integer>
+    <integer name="config_delay_before_key_repeat_start">400</integer>
+    <integer name="config_delay_before_preview">0</integer>
+    <integer name="config_delay_before_space_preview">200</integer>
+    <integer name="config_key_repeat_interval">50</integer>
+    <integer name="config_mini_keyboard_fadein_anim_time">0</integer>
+    <integer name="config_mini_keyboard_fadeout_anim_time">100</integer>
+    <integer name="config_multi_tap_key_timeout">800</integer>
+    <integer name="config_preview_fadein_anim_time">0</integer>
+    <integer name="config_preview_fadeout_anim_time">70</integer>
+    <integer name="key_alt_left">-57</integer>
+    <integer name="key_break">-121</integer>
+    <integer name="key_caps_lock">-115</integer>
+    <integer name="key_ctrl_left">-113</integer>
+    <integer name="key_delete">-5</integer>
+    <integer name="key_dpad_center">-23</integer>
+    <integer name="key_dpad_down">-20</integer>
+    <integer name="key_dpad_left">-21</integer>
+    <integer name="key_dpad_right">-22</integer>
+    <integer name="key_dpad_up">-19</integer>
+    <integer name="key_end">-123</integer>
+    <integer name="key_escape">-111</integer>
+    <integer name="key_f1">-103</integer>
+    <integer name="key_fkey_f1">-131</integer>
+    <integer name="key_fkey_f10">-140</integer>
+    <integer name="key_fkey_f11">-141</integer>
+    <integer name="key_fkey_f12">-142</integer>
+    <integer name="key_fkey_f2">-132</integer>
+    <integer name="key_fkey_f3">-133</integer>
+    <integer name="key_fkey_f4">-134</integer>
+    <integer name="key_fkey_f5">-135</integer>
+    <integer name="key_fkey_f6">-136</integer>
+    <integer name="key_fkey_f7">-137</integer>
+    <integer name="key_fkey_f8">-138</integer>
+    <integer name="key_fkey_f9">-139</integer>
+    <integer name="key_fn">-119</integer>
+    <integer name="key_forward_del">-112</integer>
+    <integer name="key_home">-122</integer>
+    <integer name="key_insert">-124</integer>
+    <integer name="key_meta_left">-117</integer>
+    <integer name="key_num_lock">-143</integer>
+    <integer name="key_page_down">-93</integer>
+    <integer name="key_page_up">-92</integer>
+    <integer name="key_return">10</integer>
+    <integer name="key_scroll_lock">-116</integer>
+    <integer name="key_settings">-100</integer>
+    <integer name="key_shift">-1</integer>
+    <integer name="key_space">32</integer>
+    <integer name="key_symbol">-2</integer>
+    <integer name="key_sysrq">-120</integer>
+    <integer name="key_tab">9</integer>
+    <integer name="key_voice">-102</integer>
+    <string name="added_word"><ns1:g id="word">%s</ns1:g> : Saved</string>
+    <string name="alternates_for_a">áàâãäåāæ</string>
+    <string name="alternates_for_a_umlaut"/>
+    <string name="alternates_for_ae"/>
+    <string name="alternates_for_b"/>
+    <string name="alternates_for_c">çčć¢</string>
+    <string name="alternates_for_cyrillic_e"/>
+    <string name="alternates_for_cyrillic_soft_sign"/>
+    <string name="alternates_for_d">đ</string>
+    <string name="alternates_for_e">3éèêëē€</string>
+    <string name="alternates_for_f">₣</string>
+    <string name="alternates_for_g"/>
+    <string name="alternates_for_h"/>
+    <string name="alternates_for_i">8íìîïī</string>
+    <string name="alternates_for_j"/>
+    <string name="alternates_for_k"/>
+    <string name="alternates_for_l">£₤λ</string>
+    <string name="alternates_for_m">μ</string>
+    <string name="alternates_for_n">ñ</string>
+    <string name="alternates_for_o">9óòôõöōø</string>
+    <string name="alternates_for_o_umlaut"/>
+    <string name="alternates_for_oe"/>
+    <string name="alternates_for_p">0π₱</string>
+    <string name="alternates_for_q">1</string>
+    <string name="alternates_for_r">4</string>
+    <string name="alternates_for_s">§ßš</string>
+    <string name="alternates_for_t">5</string>
+    <string name="alternates_for_u">7úùûüū</string>
+    <string name="alternates_for_v"/>
+    <string name="alternates_for_w">2</string>
+    <string name="alternates_for_x"/>
+    <string name="alternates_for_y">6ýÿ¥</string>
+    <string name="alternates_for_z">ž</string>
+    <string name="auto_cap">Auto-capitalization</string>
+    <string name="auto_cap_summary">Capitalize the start of a sentence</string>
+    <string name="auto_complete">Auto-complete</string>
+    <string name="auto_complete_dialog_title">Auto completion</string>
+    <string name="auto_complete_summary">Spacebar and punctuation automatically insert highlighted word</string>
+    <string name="auto_correction">Word suggestions</string>
+    <string name="auto_correction_summary">Automatically correct the previous word</string>
+    <string name="auto_punctuate">Auto-punctuate</string>
+    <string name="auto_punctuate_summary"/>
+    <string name="auto_submit">Auto submit after voice</string>
+    <string name="auto_submit_summary">Automatically press enter when searching or going to the next field.</string>
+    <string name="auto_version">custom</string>
+    <string name="bigram_suggestion">Bigram Suggestions</string>
+    <string name="bigram_suggestion_summary">Use previous word to improve suggestion</string>
+    <string name="cancel">Cancel</string>
+    <string name="close_the_keyboard"><font size="17"><b>Close the keyboard\n</b></font><font size="3">\n</font>Press the Back key.</string>
+    <string name="default_chording_alt_key">0</string>
+    <string name="default_chording_ctrl_key">0</string>
+    <string name="default_chording_meta_key">0</string>
+    <string name="default_click_method">0</string>
+    <string name="default_click_volume">0.2</string>
+    <string name="default_height_landscape">55%</string>
+    <string name="default_height_portrait">35%</string>
+    <string name="default_hint_mode">1</string>
+    <string name="default_keyboard_mode_landscape">2</string>
+    <string name="default_keyboard_mode_portrait">0</string>
+    <string name="default_long_press_duration">400 ms</string>
+    <string name="default_popup_content">1</string>
+    <string name="default_render_mode">1</string>
+    <string name="default_swipe_down">close</string>
+    <string name="default_swipe_left">none</string>
+    <string name="default_swipe_right">none</string>
+    <string name="default_swipe_up">extension</string>
+    <string name="default_vol_down">none</string>
+    <string name="default_vol_up">none</string>
+    <string name="english_ime_debug_settings" translatable="false">Debug settings</string>
+    <string name="english_ime_input_options">Input options</string>
+    <string name="english_ime_name">Hacker\'s Keyboard</string>
+    <string name="english_ime_settings">Settings for Hacker\'s Keyboard</string>
+    <string name="has_dictionary">Dictionary available</string>
+    <string name="hint_add_to_dictionary">\u2190 Touch again to save</string>
+    <string name="hit_correction">Correct typing errors</string>
+    <string name="hit_correction_land">Landscape input errors</string>
+    <string name="hit_correction_land_summary">Enable input error correction</string>
+    <string name="hit_correction_summary">Enable input error correction</string>
+    <string name="key_ab01_alt">@string/alternates_for_z</string>
+    <string name="key_ab01_main">z</string>
+    <string name="key_ab01_shift"/>
+    <string name="key_ab02_alt">@string/alternates_for_x</string>
+    <string name="key_ab02_main">x</string>
+    <string name="key_ab02_shift"/>
+    <string name="key_ab03_alt">@string/alternates_for_c</string>
+    <string name="key_ab03_main">c</string>
+    <string name="key_ab03_shift"/>
+    <string name="key_ab04_alt">@string/alternates_for_v</string>
+    <string name="key_ab04_main">v</string>
+    <string name="key_ab04_shift"/>
+    <string name="key_ab05_alt">@string/alternates_for_b</string>
+    <string name="key_ab05_main">b</string>
+    <string name="key_ab05_shift"/>
+    <string name="key_ab06_alt">@string/alternates_for_n</string>
+    <string name="key_ab06_main">n</string>
+    <string name="key_ab06_shift"/>
+    <string name="key_ab07_alt">@string/alternates_for_m</string>
+    <string name="key_ab07_main">m</string>
+    <string name="key_ab07_shift"/>
+    <string name="key_ab08_alt">,&lt;≤«‹</string>
+    <string name="key_ab08_main">,</string>
+    <string name="key_ab08_shift">&lt;</string>
+    <string name="key_ab09_alt">.>≥»›…</string>
+    <string name="key_ab09_main">.</string>
+    <string name="key_ab09_shift">></string>
+    <string name="key_ab10_alt">/\?¿</string>
+    <string name="key_ab10_main">/</string>
+    <string name="key_ab10_shift">\?</string>
+    <string name="key_ac01_alt">@string/alternates_for_a</string>
+    <string name="key_ac01_main">a</string>
+    <string name="key_ac01_shift"/>
+    <string name="key_ac02_alt">@string/alternates_for_s</string>
+    <string name="key_ac02_main">s</string>
+    <string name="key_ac02_shift"/>
+    <string name="key_ac03_alt">@string/alternates_for_d</string>
+    <string name="key_ac03_main">d</string>
+    <string name="key_ac03_shift"/>
+    <string name="key_ac04_alt">@string/alternates_for_f</string>
+    <string name="key_ac04_main">f</string>
+    <string name="key_ac04_shift"/>
+    <string name="key_ac05_alt">@string/alternates_for_g</string>
+    <string name="key_ac05_main">g</string>
+    <string name="key_ac05_shift"/>
+    <string name="key_ac06_alt">@string/alternates_for_h</string>
+    <string name="key_ac06_main">h</string>
+    <string name="key_ac06_shift"/>
+    <string name="key_ac07_alt">@string/alternates_for_j</string>
+    <string name="key_ac07_main">j</string>
+    <string name="key_ac07_shift"/>
+    <string name="key_ac08_alt">@string/alternates_for_k</string>
+    <string name="key_ac08_main">k</string>
+    <string name="key_ac08_shift"/>
+    <string name="key_ac09_alt">@string/alternates_for_l</string>
+    <string name="key_ac09_main">l</string>
+    <string name="key_ac09_shift"/>
+    <string name="key_ac10_alt">;:</string>
+    <string name="key_ac10_main">;</string>
+    <string name="key_ac10_shift">:</string>
+    <string name="key_ac11_alt">\'\"‘’“”</string>
+    <string name="key_ac11_main">\'</string>
+    <string name="key_ac11_shift">\"</string>
+    <string name="key_ad01_alt">@string/alternates_for_q</string>
+    <string name="key_ad01_main">q</string>
+    <string name="key_ad01_shift"/>
+    <string name="key_ad02_alt">@string/alternates_for_w</string>
+    <string name="key_ad02_main">w</string>
+    <string name="key_ad02_shift"/>
+    <string name="key_ad03_alt">@string/alternates_for_e</string>
+    <string name="key_ad03_main">e</string>
+    <string name="key_ad03_shift"/>
+    <string name="key_ad04_alt">@string/alternates_for_r</string>
+    <string name="key_ad04_main">r</string>
+    <string name="key_ad04_shift"/>
+    <string name="key_ad05_alt">@string/alternates_for_t</string>
+    <string name="key_ad05_main">t</string>
+    <string name="key_ad05_shift"/>
+    <string name="key_ad06_alt">@string/alternates_for_y</string>
+    <string name="key_ad06_main">y</string>
+    <string name="key_ad06_shift"/>
+    <string name="key_ad07_alt">@string/alternates_for_u</string>
+    <string name="key_ad07_main">u</string>
+    <string name="key_ad07_shift"/>
+    <string name="key_ad08_alt">@string/alternates_for_i</string>
+    <string name="key_ad08_main">i</string>
+    <string name="key_ad08_shift"/>
+    <string name="key_ad09_alt">@string/alternates_for_o</string>
+    <string name="key_ad09_main">o</string>
+    <string name="key_ad09_shift"/>
+    <string name="key_ad10_alt">@string/alternates_for_p</string>
+    <string name="key_ad10_main">p</string>
+    <string name="key_ad10_shift"/>
+    <string name="key_ad11_alt">[{</string>
+    <string name="key_ad11_main">[</string>
+    <string name="key_ad11_shift">{</string>
+    <string name="key_ad12_alt">]}</string>
+    <string name="key_ad12_main">]</string>
+    <string name="key_ad12_shift">}</string>
+    <string name="key_ae01_alt">1!¡¹½⅓¼⅛</string>
+    <string name="key_ae01_main">1</string>
+    <string name="key_ae01_shift">!</string>
+    <string name="key_ae02_alt">2\@²⅔</string>
+    <string name="key_ae02_main">2</string>
+    <string name="key_ae02_shift">\@</string>
+    <string name="key_ae03_alt">3#³¾⅜♥♠♦♣</string>
+    <string name="key_ae03_main">3</string>
+    <string name="key_ae03_shift">#</string>
+    <string name="key_ae04_alt">4$⁴¢£€¥</string>
+    <string name="key_ae04_main">4</string>
+    <string name="key_ae04_shift">$</string>
+    <string name="key_ae05_alt">5%⅝‰</string>
+    <string name="key_ae05_main">5</string>
+    <string name="key_ae05_shift">%</string>
+    <string name="key_ae06_alt">6^↑↓←→</string>
+    <string name="key_ae06_main">6</string>
+    <string name="key_ae06_shift">^</string>
+    <string name="key_ae07_alt">7&amp;⅞♪</string>
+    <string name="key_ae07_main">7</string>
+    <string name="key_ae07_shift">&amp;</string>
+    <string name="key_ae08_alt">8*•★∞†‡</string>
+    <string name="key_ae08_main">8</string>
+    <string name="key_ae08_shift">*</string>
+    <string name="key_ae09_alt">9(√</string>
+    <string name="key_ae09_main">9</string>
+    <string name="key_ae09_shift">(</string>
+    <string name="key_ae10_alt">0)ⁿ°</string>
+    <string name="key_ae10_main">0</string>
+    <string name="key_ae10_shift">)</string>
+    <string name="key_ae11_alt">-_—–</string>
+    <string name="key_ae11_main">-</string>
+    <string name="key_ae11_shift">_</string>
+    <string name="key_ae12_alt">=+≈≠±×÷</string>
+    <string name="key_ae12_main">=</string>
+    <string name="key_ae12_shift">+</string>
+    <string name="key_bksl_alt">\\|</string>
+    <string name="key_bksl_main">\\</string>
+    <string name="key_bksl_shift">|</string>
+    <string name="key_lsgt_alt"/>
+    <string name="key_lsgt_main"/>
+    <string name="key_lsgt_shift"/>
+    <string name="key_space_shift"/>
+    <string name="key_tlde_alt">`~</string>
+    <string name="key_tlde_main">`</string>
+    <string name="key_tlde_shift">~</string>
+    <string name="keyboard_layout">Keyboard Theme</string>
+    <string name="keyboard_settings"><font size="17"><b>Keyboard settings\n</b></font><font size="3">\n</font>Touch \u0026 hold the <b>\?123\</b> key.</string>
+    <string name="label_alpha_key">ABC</string>
+    <string name="label_alt_key">ALT</string>
+    <string name="label_done_key">Done</string>
+    <string name="label_go_key">Go</string>
+    <string name="label_next_key">Next</string>
+    <string name="label_phone_key">123</string>
+    <string name="label_send_key">Send</string>
+    <string name="label_symbol_key">\?123</string>
+    <string name="language_selection_summary">Slide finger on spacebar to change language</string>
+    <string name="language_selection_title">Input languages</string>
+    <string name="layout_basic" translatable="false">Basic</string>
+    <string name="layout_gingerbread" translatable="false">Gingerbread</string>
+    <string name="layout_high_contrast" translatable="false">Basic (High Contrast)</string>
+    <string name="layout_ics" translatable="false">Ice Cream Sandwich</string>
+    <string name="layout_stone_bold" translatable="false">Stone (bold)</string>
+    <string name="layout_stone_normal" translatable="false">Stone (normal)</string>
+    <string name="layout_trans" translatable="false">Transparent</string>
+    <string name="layout_trans_neon" translatable="false">Transparent (experimental)</string>
+    <string name="main_body"><Data>
+      "
+        &lt;h2>Enabling Hacker's Keyboard&lt;/h2>
+        
+        &lt;p>&lt;i>Hacker's Keyboard&lt;/i> provides a new Android input method. It is &lt;b>disabled by default&lt;/b>, and for security reasons Android doesn't allow programs to change input method settings. Please follow the following steps to activate it.&lt;p>
+        
+        &lt;h3>Add the keyboard to the system's input method list:&lt;/h3>
+        &lt;blockquote>
+          &lt;p>&amp;#8226; Open the system input settings configuration by pressing the &lt;b>Enable Keyboard&lt;/b> button above.&lt;/p>
+          &lt;p>&amp;#8226; Find &lt;i>Hacker's Keyboard&lt;/i> in the input method list, tap the checkmark to switch it on.&lt;/p>
+          &lt;p>&amp;#8226; Acknowledge the warning shown by the system. The system always shows this message when enabling a third-party input method.&lt;/p>
+          &lt;p>&amp;#8226; Press the &lt;i>Back&lt;/i> button to return to this page.&lt;/p>
+        &lt;/blockquote>
+        
+        &lt;h3>Choose the currently active input method:&lt;/h3>
+        &lt;blockquote>
+          &lt;p>&amp;#8226; Press the &lt;b>Set input method&lt;/b> button above.&lt;/p>
+          &lt;p>&amp;#8226; Select &lt;i>Hacker's Keyboard&lt;/i> from the list.&lt;/p>
+        &lt;/blockquote>
+
+        &lt;h3>Optional: Select input languages:&lt;/h3>
+        &lt;blockquote>
+          &lt;p>&amp;#8226; Press the &lt;b>Input languages&lt;/b> button above to select which keyboard layouts you want to use. You &lt;b>must&lt;/b> configure this if you want to use a language or layout other than the one corresponding to your system's default language.&lt;/p>
+          &lt;p>&amp;#8226; Press the &lt;i>Back&lt;/i> button to return to this page.&lt;/p>
+          &lt;p>&amp;#8226; When typing, slide the space bar horizontally to switch between selected layouts.
+        &lt;/blockquote>
+
+        &lt;h3>Optional: Install completion dictionary packages:&lt;/h3>
+        &lt;blockquote>
+          &lt;p>&amp;#8226; Press the &lt;b>Get dictionaries&lt;/b> button above to do a Market search.&lt;/p>
+        &lt;/blockquote>
+        
+        &lt;h2>Additional information&lt;/h2>
+        &lt;p>Please refer to the &lt;a href='http://code.google.com/p/hackerskeyboard/'>project web page&lt;/a> for more information, including the user's guide, issue tracker, and discussion group.&lt;/p>
+      "
+    </Data></string>
+    <string name="main_setup_configure_imes">Enable keyboard</string>
+    <string name="main_setup_get_dicts">Get dictionaries</string>
+    <string name="main_setup_input_lang">Input languages</string>
+    <string name="main_setup_set_ime">Set input method</string>
+    <string name="no_market_warning">Unable to launch Market.</string>
+    <string name="ok">OK</string>
+    <string name="open_the_keyboard"><font size="17"><b>Open the keyboard\n</b></font><font size="3">\n</font>Touch any text field.</string>
+    <string name="percent">percent</string>
+    <string name="popular_domain_0">".com"</string>
+    <string name="popular_domain_1">".net"</string>
+    <string name="popular_domain_2">".org"</string>
+    <string name="popular_domain_3">".gov"</string>
+    <string name="popular_domain_4">".edu"</string>
+    <string name="popup_on_keypress">Popup on keypress</string>
+    <string name="prediction">Word suggestions</string>
+    <string name="prediction_basic" translatable="false">1</string>
+    <string name="prediction_category">Word suggestion settings</string>
+    <string name="prediction_full" translatable="false">2</string>
+    <string name="prediction_landscape">Increase text field size</string>
+    <string name="prediction_landscape_summary">Hide word suggestions in landscape view</string>
+    <string name="prediction_none" translatable="false">0</string>
+    <string name="prediction_summary">Enable auto completion while typing</string>
+    <string name="pref_screen_actions_title">Gesture and key actions</string>
+    <string name="pref_screen_feedback_title">Key feedback settings</string>
+    <string name="pref_screen_view_title">Theme and label settings</string>
+    <string name="prefs_debug_mode" translatable="false">Debug Mode</string>
+    <string name="prefs_description_log">Help improve this input method editor by automatically sending usage statistics and crash reports to Google.</string>
+    <string name="prefs_enable_log">Enable user feedback</string>
+    <string name="prefs_enable_recorrection">Touch to correct words</string>
+    <string name="prefs_enable_recorrection_summary">Touch entered words to correct them</string>
+    <string name="prefs_settings_key">Show settings key</string>
+    <string name="quick_fixes">Quick fixes</string>
+    <string name="quick_fixes_summary">Corrects commonly typed mistakes</string>
+    <string name="recorrect_warning">FYI: recorrection does not work correctly on pre-Gingerbread devices due to missing operating system support.</string>
+    <string name="render_mode_unavailable">(not changeable on this device)</string>
+    <string name="seek_pref_0">0%</string>
+    <string name="seek_pref_max">100%</string>
+    <string name="seek_pref_val">x%</string>
+    <string name="selectInputMethod">Select input method</string>
+    <string name="sentence_separators">.,!?);:</string>
+    <string name="settings_key_mode_always_hide" translatable="false">2</string>
+    <string name="settings_key_mode_always_hide_name">Always hide</string>
+    <string name="settings_key_mode_always_show" translatable="false">1</string>
+    <string name="settings_key_mode_always_show_name">Always show</string>
+    <string name="settings_key_mode_auto" translatable="false">0</string>
+    <string name="settings_key_mode_auto_name">Automatic</string>
+    <string name="show_suggestions">Show suggestions</string>
+    <string name="show_suggestions_summary">Display suggested words while typing</string>
+    <string name="sound_on_keypress">Sound on keypress</string>
+    <string name="subtype_mode_keyboard">keyboard</string>
+    <string name="subtype_mode_voice">voice</string>
+    <string name="suggested_punctuations">!?,\u0022\u0027:;()-/@_</string>
+    <string name="suggested_punctuations_default">!?,\u0022\u0027:;()-/@_</string>
+    <string name="summary_caps_lock_false">Shift Lock (q1 => Q!)</string>
+    <string name="summary_caps_lock_true">Caps Lock (q1 => Q1)</string>
+    <string name="summary_compact_mode_enabled">US QWERTY only, and experimental!</string>
+    <string name="summary_connectbot_tab_hack_false">Send plain Tab key event</string>
+    <string name="summary_connectbot_tab_hack_true">Enable compatibility workaround</string>
+    <string name="summary_force_keyboard_on_false">When no hardware keyboard is available</string>
+    <string name="summary_force_keyboard_on_true">Always</string>
+    <string name="summary_fullscreen_override_false">Enabled on small devices</string>
+    <string name="summary_fullscreen_override_true">Disabled, use standard view</string>
+    <string name="summary_keyboard_notification_false">No notification</string>
+    <string name="summary_keyboard_notification_true">Activate the keyboard by tapping the notification</string>
+    <string name="summary_shift_lock_modifiers_false">No, normal keys only</string>
+    <string name="summary_shift_lock_modifiers_true">Yes, including arrow keys</string>
+    <string name="summary_suggestions_in_landscape_false">Hide suggestions in landscape mode</string>
+    <string name="summary_suggestions_in_landscape_true">Same as in portrait mode</string>
+    <string name="summary_touch_pos_false">Off</string>
+    <string name="summary_touch_pos_true">Show feedback for touch screen location</string>
+    <string name="text_test">Test</string>
+    <string name="tip_access_symbols">Access numbers and symbols</string>
+    <string name="tip_add_to_dictionary">Press and hold the left-most word to add it to the dictionary
+        </string>
+    <string name="tip_dismiss">Press the back key \u21B6 to close the keyboard at any point</string>
+    <string name="tip_long_press">Hold a key down to see accents (ø, ö, etc.)</string>
+    <string name="tip_to_close_symbols"><b>Go back to letters by touching this key again</b></string>
+    <string name="tip_to_launch_settings"><b>Touch &amp; hold this key to change keyboard settings, like auto complete</b></string>
+    <string name="tip_to_open_keyboard"><b>The keyboard opens any time you touch a text field</b></string>
+    <string name="tip_to_open_symbols"><b>Switch to numbers and symbols by touching this key</b></string>
+    <string name="tip_to_start_typing"><b>Try it!</b></string>
+    <string name="tip_to_view_accents"><b>Touch &amp; hold a key to view accents\n(ø, ö, ô, ó, and so on)</b>
+    </string>
+    <string name="title_application_category">Application-specific settings</string>
+    <string name="title_candidate_scale">Suggestion label scaling</string>
+    <string name="title_caps_lock">Double-tap Shift mode</string>
+    <string name="title_chording_alt_key">Alt key code</string>
+    <string name="title_chording_ctrl_key">Ctrl key code</string>
+    <string name="title_chording_meta_key">Meta key code</string>
+    <string name="title_click_method">Click volume control method</string>
+    <string name="title_click_volume">Key click volume</string>
+    <string name="title_compact_mode_enabled">Enable compact 5-row keyboard mode</string>
+    <string name="title_connectbot_tab_hack">ConnectBot tab key mode</string>
+    <string name="title_debugging">Debugging</string>
+    <string name="title_force_keyboard_on">Show soft keyboard</string>
+    <string name="title_fullscreen_override">Landscape mode fullscreen editor</string>
+    <string name="title_hardware_key_actions">Hardware key actions</string>
+    <string name="title_hint_mode">Labeled alternate keys</string>
+    <string name="title_input_connection_details">Input connection details</string>
+    <string name="title_input_mode_settings">Input mode settings</string>
+    <string name="title_key_behavior_settings">Key behavior settings</string>
+    <string name="title_key_layout_options">Key layout options</string>
+    <string name="title_keyboard_height_landscape">Keyboard height, landscape</string>
+    <string name="title_keyboard_height_portrait">Keyboard height, portrait</string>
+    <string name="title_keyboard_mode_landscape">Keyboard mode, landscape</string>
+    <string name="title_keyboard_mode_portrait">Keyboard mode, portrait</string>
+    <string name="title_keyboard_notification">Use permanent notification</string>
+    <string name="title_keyboard_view_settings">Keyboard view settings</string>
+    <string name="title_label_scale">Key label scaling</string>
+    <string name="title_long_press_alternate_keys">Long-press alternate keys</string>
+    <string name="title_long_press_duration">Long-press duration</string>
+    <string name="title_popup_content">Popup mini-keyboard contents</string>
+    <string name="title_render_mode">Drawing method</string>
+    <string name="title_shift_lock_modifiers">Apply Shift Lock to modifier keys?</string>
+    <string name="title_slide_keys">Sliding key events</string>
+    <string name="title_suggested_punctuation">Suggested punctuation</string>
+    <string name="title_suggestions_in_landscape">Suggestions in landscape mode</string>
+    <string name="title_swipe_down">Swipe down</string>
+    <string name="title_swipe_gestures">Swipe gestures (experimental)</string>
+    <string name="title_swipe_left">Swipe left</string>
+    <string name="title_swipe_right">Swipe right</string>
+    <string name="title_swipe_up">Swipe up</string>
+    <string name="title_top_row_scale">5th row height adjustment</string>
+    <string name="title_touch_pos">Debug touch screen position</string>
+    <string name="title_version">Version</string>
+    <string name="title_vibrate_len">Vibrate duration</string>
+    <string name="title_vol_down">Volume down</string>
+    <string name="title_vol_up">Volume up</string>
+    <string name="touch_and_hold"><font size="17"><b>Touch \u0026 hold a key for options\n</b></font><font size="3">\n</font>Access punctuation and accents.</string>
+    <string name="touch_to_continue">Touch this hint to continue »</string>
+    <string name="touch_to_finish">Touch here to close this hint and start typing!</string>
+    <string name="vibrate_duration_ms">40 ms</string>
+    <string name="vibrate_on_keypress">Vibrate on keypress</string>
+    <string name="voice_audio_error">Audio problem</string>
+    <string name="voice_error">Error. Please try again.</string>
+    <string name="voice_hint_dialog_message">To use voice input, press the microphone button or slide your finger across the on-screen keyboard.</string>
+    <string name="voice_initializing"/>
+    <string name="voice_input">Voice input</string>
+    <string name="voice_listening">Speak now</string>
+    <string name="voice_mode_main" translatable="false">0</string>
+    <string name="voice_mode_off" translatable="false">2</string>
+    <string name="voice_mode_symbols" translatable="false">1</string>
+    <string name="voice_network_error">Couldn\'t connect</string>
+    <string name="voice_no_match">No matches found</string>
+    <string name="voice_not_enabled_warning">Voice input is not available in this version.</string>
+    <string name="voice_not_installed">Voice search not installed</string>
+    <string name="voice_punctuation_hint"><b>Hint:</b> Next time, try speaking punctuation like \"period\", \"comma\", or \"question mark\".</string>
+    <string name="voice_server_error">Server error</string>
+    <string name="voice_speech_timeout">No speech heard</string>
+    <string name="voice_swipe_hint"><b>Hint:</b> Swipe across keyboard to speak</string>
+    <string name="voice_too_much_speech">Error, too much speech.</string>
+    <string name="voice_warning_how_to_turn_off">To turn off voice input, go to keyboard settings.</string>
+    <string name="voice_warning_locale_not_supported">Voice input is not currently supported for your language, but does work in English.</string>
+    <string name="voice_warning_may_not_understand">Voice input is an experimental feature using Google\'s networked speech recognition.</string>
+    <string name="voice_warning_title">Voice input</string>
+    <string name="voice_working">Working</string>
+    <string name="word_separators">.\u0009\u0020,;:!?\n()[]*&amp;@{}/&lt;>_+=|\u0022</string>
+    <style name="KeyPreviewAnimation">
+        <item name="android:windowEnterAnimation">@anim/key_preview_fadein</item>
+        <item name="android:windowExitAnimation">@anim/key_preview_fadeout</item>
+    </style>
+    <style name="LatinKeyboardBaseView">
+        <item name="android:background">@drawable/keyboard_background</item>
+
+        <item name="keyBackground">@drawable/btn_keyboard_key_ics</item>
+        <item name="keyTextSize">@dimen/key_text_size</item>
+        <item name="keyTextColor">#FFFFFFFF</item>
+        <item name="keyHintColor">#FF222222</item>
+        <item name="keyCursorColor">#FFBBBBBB</item>
+        <item name="keyPreviewLayout">@layout/key_preview</item>
+        <item name="keyPreviewOffset">@dimen/key_preview_offset</item>
+        <item name="keyPreviewHeight">@dimen/key_preview_height</item>
+        <item name="labelTextSize">@dimen/key_label_text_size</item>
+        <item name="popupLayout">@layout/keyboard_popup</item>
+        <item name="keyHysteresisDistance">@dimen/key_hysteresis_distance</item>
+        <item name="verticalCorrection">@dimen/keyboard_vertical_correction</item>
+        <item name="shadowColor">#BB000000</item>
+        <item name="shadowRadius">2.75</item>
+        <item name="backgroundDimAmount">0.5</item>
+        <item name="symbolColorScheme">white</item>
+        <item name="recolorSymbols">false</item>
+        <item name="backgroundAlpha">255</item>
+        </style>
+    <style name="MiniKeyboardAnimation">
+        <item name="android:windowEnterAnimation">@anim/mini_keyboard_fadein</item>
+        <item name="android:windowExitAnimation">@anim/mini_keyboard_fadeout</item>
+    </style>
+</resources>

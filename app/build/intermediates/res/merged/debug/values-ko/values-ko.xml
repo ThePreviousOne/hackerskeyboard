@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="prediction_modes">
+    <item msgid="4870266572388153286">"없음"</item>
+    <item msgid="1669461741568287396">"기본"</item>
+    <item msgid="4894328801530136615">"고급"</item>
+  </string-array>
+    <string-array name="voice_input_modes">
+    <item msgid="1349082139076086774">"기본 키보드"</item>
+    <item msgid="8529385602829095903">"기호 키보드"</item>
+    <item msgid="7283103513488381103">"사용 안함"</item>
+  </string-array>
+    <string-array name="voice_input_modes_summary">
+    <item msgid="554248625705084903">"기본 키보드의 마이크"</item>
+    <item msgid="6907837061058876770">"기호 키보드의 마이크"</item>
+    <item msgid="3664304608587798036">"음성 입력이 사용 중지됨"</item>
+  </string-array>
+    <string msgid="8993883354622484372" name="added_word">"<ns1:g id="WORD">%s</ns1:g>: 저장됨"</string>
+    <string name="alternates_for_a">àáâãäåæ</string>
+    <string name="alternates_for_c">ç</string>
+    <string name="alternates_for_e">3èéêë</string>
+    <string name="alternates_for_i">8ïîíì</string>
+    <string name="alternates_for_n">ñ</string>
+    <string name="alternates_for_o">9øœöõôóò</string>
+    <string name="alternates_for_s">§ß</string>
+    <string name="alternates_for_u">7üûúù</string>
+    <string name="alternates_for_y">6ÿý</string>
+    <string msgid="1719746674854628252" name="auto_cap">"자동 대문자화"</string>
+    <string msgid="3260681697600786825" name="auto_cap_summary">"문장의 첫 글자를 대문자로 표시"</string>
+    <string msgid="1103196318775486023" name="auto_complete">"자동 완성"</string>
+    <string msgid="2172048590607201920" name="auto_complete_dialog_title">"자동 완성"</string>
+    <string msgid="6113149638718274624" name="auto_complete_summary">"스페이스바와 문장부호 키로 강조 표시된 단어를 자동 삽입"</string>
+    <string msgid="7911639788808958255" name="auto_correction">"단어 추천"</string>
+    <string msgid="6881047311475758267" name="auto_correction_summary">"이전 단어를 자동으로 수정"</string>
+    <string msgid="7276672334264521751" name="auto_punctuate">"자동 구두점 입력"</string>
+    <string msgid="6589441565817502132" name="auto_punctuate_summary"/>
+    <string msgid="9151008027068358518" name="auto_submit">"음성을 입력한 다음 자동 제출"</string>
+    <string msgid="4961875269610384226" name="auto_submit_summary">"검색하거나 다음 입력란으로 이동할 때 자동으로 Enter 키를 누릅니다."</string>
+    <string msgid="1323347224043514969" name="bigram_suggestion">"Bigram 추천"</string>
+    <string msgid="4383845146070101531" name="bigram_suggestion_summary">"이전 단어를 사용하여 추천 기능 개선"</string>
+    <string msgid="6830980399865683324" name="cancel">"취소"</string>
+    <string msgid="6251022259044940103" name="close_the_keyboard"><font size="17"><b>"키보드 닫기"\n</b></font><font size="3">\n</font>"\'뒤로\' 키를 누르세요."</string>
+    <string msgid="3909945612939668554" name="english_ime_input_options">"입력 옵션"</string>
+    <string msgid="6071847973466625007" name="has_dictionary">"사전 사용 가능"</string>
+    <string msgid="9006292060636342317" name="hint_add_to_dictionary">"← 저장하려면 다시 터치하세요."</string>
+    <string msgid="4855351009261318389" name="hit_correction">"입력 오류 수정"</string>
+    <string msgid="2567691684825205448" name="hit_correction_land">"가로 입력 오류"</string>
+    <string msgid="4076803842198368328" name="hit_correction_land_summary">"입력 오류 수정 사용"</string>
+    <string msgid="8761701873008070796" name="hit_correction_summary">"입력 오류 수정 사용"</string>
+    <string msgid="437433231038683666" name="keyboard_layout">"키보드 테마"</string>
+    <string msgid="4585753477617374032" name="keyboard_settings"><font size="17"><b>"키보드 설정"\n</b></font><font size="3">\n</font><b>"?123"</b>" 키를 길게 누르세요."</string>
+    <string msgid="8864943487292437456" name="label_alpha_key">"ABC"</string>
+    <string msgid="2846315350346694811" name="label_alt_key">"ALT"</string>
+    <string msgid="2441578748772529288" name="label_done_key">"완료"</string>
+    <string msgid="1635148082137219148" name="label_go_key">"이동"</string>
+    <string msgid="362972844525672568" name="label_next_key">"다음"</string>
+    <string msgid="4275497665515080551" name="label_phone_key">"123"</string>
+    <string msgid="2815056534433717444" name="label_send_key">"전송"</string>
+    <string msgid="6175820506864489453" name="label_symbol_key">"?123"</string>
+    <string msgid="187110938289512256" name="language_selection_summary">"손가락을 스페이스바에서 미끄러지듯 움직여 언어 변경"</string>
+    <string msgid="1651299598555326750" name="language_selection_title">"입력 언어"</string>
+    <string msgid="7898366843681727667" name="ok">"확인"</string>
+    <string msgid="2215920976029260466" name="open_the_keyboard"><font size="17"><b>"키보드 열기"\n</b></font><font size="3">\n</font>"아무 텍스트 입력란이나 터치하세요."</string>
+    <string msgid="3745279225122472969" name="popular_domain_0">".com"</string>
+    <string msgid="1370572248164278467" name="popular_domain_1">".net"</string>
+    <string msgid="3036812463748402878" name="popular_domain_2">".org"</string>
+    <string msgid="8718639560809452028" name="popular_domain_3">".gov"</string>
+    <string msgid="35359437471311470" name="popular_domain_4">".edu"</string>
+    <string msgid="123894815723512944" name="popup_on_keypress">"키를 누를 때 팝업"</string>
+    <string msgid="466220283138359837" name="prediction">"단어 추천"</string>
+    <string msgid="7027100625580696660" name="prediction_category">"단어 추천 설정"</string>
+    <string msgid="4874601565593216183" name="prediction_landscape">"입력란 크기 늘리기"</string>
+    <string msgid="6736551095997839472" name="prediction_landscape_summary">"가로 보기에서 추천 단어 숨기기"</string>
+    <string msgid="459788228830873110" name="prediction_summary">"입력할 때 자동 완성 사용"</string>
+    <string msgid="5827825607258246003" name="prefs_description_log">"사용 통계 및 충돌 보고서를 Google에 자동으로 전송하여 입력 방법 편집기의 개선에 도움을 줍니다."</string>
+    <string msgid="6620424505072963557" name="prefs_enable_log">"사용자 의견 사용"</string>
+    <string msgid="4588408906649533582" name="prefs_enable_recorrection">"터치하여 단어 수정"</string>
+    <string msgid="1056068922330206170" name="prefs_enable_recorrection_summary">"입력한 단어를 터치하여 수정"</string>
+    <string msgid="4623341240804046498" name="prefs_settings_key">"설정 키 표시"</string>
+    <string msgid="5353213327680897927" name="quick_fixes">"빠른 수정"</string>
+    <string msgid="3405028402510332373" name="quick_fixes_summary">"자주 발생하는 오타를 수정합니다."</string>
+    <string msgid="315076553378705821" name="selectInputMethod">"입력 방법 선택"</string>
+    <string msgid="7833948046716923994" name="settings_key_mode_always_hide_name">"항상 숨기기"</string>
+    <string msgid="3047567041784760575" name="settings_key_mode_always_show_name">"항상 표시"</string>
+    <string msgid="2993460277873684680" name="settings_key_mode_auto_name">"자동"</string>
+    <string msgid="507074425254289133" name="show_suggestions">"추천 단어 표시"</string>
+    <string msgid="1989672863935759654" name="show_suggestions_summary">"글자를 입력하는 동안 추천 단어를 표시"</string>
+    <string msgid="6093592297198243644" name="sound_on_keypress">"키를 누를 때 소리 발생"</string>
+    <string msgid="2242090416595003881" name="subtype_mode_keyboard">"키보드"</string>
+    <string msgid="4394113125441627771" name="subtype_mode_voice">"음성"</string>
+    <string msgid="6344098517525531652" name="tip_access_symbols">"숫자 및 기호 사용"</string>
+    <string msgid="1487293888469227817" name="tip_add_to_dictionary">"맨 왼쪽에 있는 단어를 길게 누르면 사전에 추가됩니다."</string>
+    <string msgid="7585579046862204381" name="tip_dismiss">"키보드를 닫으려면 언제든지 뒤로 키(↶)를 누르세요."</string>
+    <string msgid="6101270866284343344" name="tip_long_press">"키를 길게 누르면 악센트(ø, ö 등)가 표시됩니다."</string>
+    <string msgid="5227724217206927185" name="tip_to_close_symbols"><b>"이 키를 다시 터치하면 문자 키보드로 돌아갑니다."</b></string>
+    <string msgid="8402961128983196128" name="tip_to_launch_settings"><b>"자동 완성과 같은 키보드 설정을 변경하려면 이 키를 길게 터치하세요."</b></string>
+    <string msgid="6821200275486950452" name="tip_to_open_keyboard"><b>"언제든지 입력란을 터치하면 키보드가 열립니다."</b></string>
+    <string msgid="7345139325622444880" name="tip_to_open_symbols"><b>"이 키를 터치하면 숫자 및 기호 키보드로 전환됩니다."</b></string>
+    <string msgid="7213843601369174313" name="tip_to_start_typing"><b>"이제 사용해 보세요."</b></string>
+    <string msgid="5433158573693308501" name="tip_to_view_accents"><b>"키를 길게 터치하면 악센트"\n"(ø, ö, ô, ó 등)가 표시됩니다."</b></string>
+    <string msgid="6154166367273010534" name="touch_and_hold"><font size="17"><b>"키를 길게 눌러 옵션 보기"\n</b></font><font size="3">\n</font>"문장 부호 및 악센트 기호 입력창이 열립니다."</string>
+    <string msgid="7869803257948414531" name="touch_to_continue">"계속하려면 힌트를 터치하세요. »"</string>
+    <string msgid="7990196086480585789" name="touch_to_finish">"힌트를 닫고 입력을 시작하려면 여기를 터치하세요."</string>
+    <string msgid="5258079494276955460" name="vibrate_on_keypress">"키를 누를 때 진동 발생"</string>
+    <string msgid="5072707727016414454" name="voice_audio_error">"오디오 문제"</string>
+    <string msgid="5140896300312186162" name="voice_error">"오류가 발생했습니다. 다시 시도해 보세요."</string>
+    <string msgid="6892342981545727994" name="voice_hint_dialog_message">"음성 입력을 사용하려면 마이크 버튼을 누르거나 터치 키보드 위로 손가락을 미끄러지듯 움직이세요."</string>
+    <string msgid="661962047129906646" name="voice_initializing"/>
+    <string msgid="2466640768843347841" name="voice_input">"음성 입력"</string>
+    <string msgid="467518160751321844" name="voice_listening">"지금 말하세요."</string>
+    <string msgid="6649556447401862563" name="voice_network_error">"연결할 수 없습니다."</string>
+    <string msgid="4285117547030179174" name="voice_no_match">"일치하는 항목 없음"</string>
+    <string msgid="5552450909753842415" name="voice_not_installed">"음성 검색이 설치되지 않았습니다."</string>
+    <string msgid="1611389463237317754" name="voice_punctuation_hint"><b>"도움말:"</b>" 다음 번에는 \'마침표\', \'쉼표\', \'물음표\'와 같은 구두점을 말해 보세요."</string>
+    <string msgid="7807129913977261644" name="voice_server_error">"서버 오류"</string>
+    <string msgid="8461817525075498795" name="voice_speech_timeout">"음성이 인식되지 않았습니다."</string>
+    <string msgid="6943546180310682021" name="voice_swipe_hint"><b>"도움말:"</b>" 키보드 위로 손가락을 미끄러지듯 움직이고 나서 말하세요."</string>
+    <string msgid="5746973620134227376" name="voice_too_much_speech">"음성을 너무 많이 입력했습니다."</string>
+    <string msgid="5652369578498701761" name="voice_warning_how_to_turn_off">"음성 입력을 사용하지 않으려면 키보드 설정으로 이동하세요."</string>
+    <string msgid="637923019716442333" name="voice_warning_locale_not_supported">"음성 입력은 현재 자국어로 지원되지 않으며 영어로 작동됩니다."</string>
+    <string msgid="4611518823070986445" name="voice_warning_may_not_understand">"음성 입력은 Google의 네트워크화된 음성 인식을 사용하는 실험적 기능입니다."</string>
+    <string msgid="4419354150908395008" name="voice_warning_title">"음성 입력"</string>
+    <string msgid="6666937792815731889" name="voice_working">"인식 중"</string>
+</resources>

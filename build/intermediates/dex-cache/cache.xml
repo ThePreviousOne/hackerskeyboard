@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/uzuki/Projects/hackerskeyboard/app/libs/voiceimeutils.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="e95d4562c3efa28b3bcc1b0e94bdadcafa72c3fd">
+        <dex dex="/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/pre-dexed/debug/voiceimeutils_edca56a652eb9cf0c08567636b1001019368fb75.jar" />
+    </item>
+
+</items>

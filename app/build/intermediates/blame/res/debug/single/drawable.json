@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable/btn_keyboard_key_stone.xml",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable/btn_keyboard_key_stone.xml"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable/btn_keyboard_key_ics.xml",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable/btn_keyboard_key_ics.xml"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable/btn_keyboard_key_gingerbread.xml",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable/btn_keyboard_key_gingerbread.xml"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable/btn_keyboard_key_gingerbread_popup.xml",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable/btn_keyboard_key_gingerbread_popup.xml"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/drawable/ic_suggest_scroll_background.xml",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/drawable/ic_suggest_scroll_background.xml"
+    }
+]

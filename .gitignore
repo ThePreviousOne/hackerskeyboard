@@ -1,11 +1,7 @@
+.gradle
+/local.properties
+.DS_Store
+/build
 .idea/
-captures/
-java/bin/
-java/gen/
-java/hackerskeyboard.iml
-java/libs/*/
-java/local.properties
-java/obj/
-out/
-tests/gen/
-tests/tests.iml
+*iml
+*/build

@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/layout/input_trans.xml",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/layout/input_trans.xml"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/layout/bubble_text.xml",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/layout/bubble_text.xml"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/layout/null_layout.xml",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/layout/null_layout.xml"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/layout/voice_swipe_hint.xml",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/layout/voice_swipe_hint.xml"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/layout/input_stone_normal.xml",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/layout/input_stone_normal.xml"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/layout/seek_bar_dialog.xml",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/layout/seek_bar_dialog.xml"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/layout/input_stone_bold.xml",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/layout/input_stone_bold.xml"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/layout/voice_punctuation_hint.xml",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/layout/voice_punctuation_hint.xml"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/layout/input_gingerbread.xml",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/layout/input_gingerbread.xml"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/layout/recognition_status.xml",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/layout/recognition_status.xml"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/layout/key_preview.xml",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/layout/key_preview.xml"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/layout/input_ics.xml",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/layout/input_ics.xml"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/layout/input_trans_neon.xml",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/layout/input_trans_neon.xml"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/layout/candidates.xml",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/layout/candidates.xml"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/layout/keyboard_popup.xml",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/layout/keyboard_popup.xml"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/layout/input_stone_popup.xml",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/layout/input_stone_popup.xml"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/layout/candidate_preview.xml",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/layout/candidate_preview.xml"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/xml-en/kbd_qwerty.xml",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/xml-en/kbd_qwerty.xml"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/xml-en/kbd_extension.xml",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/xml-en/kbd_extension.xml"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/xml-en/kbd_symbols.xml",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/xml-en/kbd_symbols.xml"
+    }
+]

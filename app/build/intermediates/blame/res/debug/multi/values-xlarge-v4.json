@@ -1,0 +1,235 @@
+[
+    {
+        "outputFile": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/values-xlarge-v4/values-xlarge-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 51,
+                    "endOffset": 102
+                },
+                "from": {
+                    "file": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/values-xlarge/bools.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 760,
+                        "endColumn": 51,
+                        "endOffset": 807
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 107,
+                    "endColumn": 42,
+                    "endOffset": 145
+                },
+                "from": {
+                    "file": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/values-xlarge/dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 752,
+                        "endColumn": 42,
+                        "endOffset": 790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 150,
+                    "endColumn": 51,
+                    "endOffset": 197
+                },
+                "from": {
+                    "file": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/values-xlarge/dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 795,
+                        "endColumn": 51,
+                        "endOffset": 842
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 202,
+                    "endColumn": 52,
+                    "endOffset": 250
+                },
+                "from": {
+                    "file": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/values-xlarge/dimens.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1108,
+                        "endColumn": 52,
+                        "endOffset": 1156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 255,
+                    "endColumn": 46,
+                    "endOffset": 297
+                },
+                "from": {
+                    "file": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/values-xlarge/dimens.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1061,
+                        "endColumn": 46,
+                        "endOffset": 1103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 302,
+                    "endColumn": 49,
+                    "endOffset": 347
+                },
+                "from": {
+                    "file": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/values-xlarge/dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 847,
+                        "endColumn": 49,
+                        "endOffset": 892
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 352,
+                    "endColumn": 57,
+                    "endOffset": 405
+                },
+                "from": {
+                    "file": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/values-xlarge/dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 897,
+                        "endColumn": 57,
+                        "endOffset": 950
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 410,
+                    "endColumn": 56,
+                    "endOffset": 462
+                },
+                "from": {
+                    "file": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/values-xlarge/dimens.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1004,
+                        "endColumn": 56,
+                        "endOffset": 1056
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 467,
+                    "endColumn": 48,
+                    "endOffset": 511
+                },
+                "from": {
+                    "file": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/values-xlarge/dimens.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 955,
+                        "endColumn": 48,
+                        "endOffset": 999
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 516,
+                    "endColumn": 56,
+                    "endOffset": 568
+                },
+                "from": {
+                    "file": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/values-xlarge/size-defaults.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 721,
+                        "endColumn": 56,
+                        "endOffset": 773
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 573,
+                    "endColumn": 55,
+                    "endOffset": 624
+                },
+                "from": {
+                    "file": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/values-xlarge/size-defaults.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 665,
+                        "endColumn": 55,
+                        "endOffset": 716
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 629,
+                    "endColumn": 60,
+                    "endOffset": 685
+                },
+                "from": {
+                    "file": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/values-xlarge/size-defaults.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 778,
+                        "endColumn": 60,
+                        "endOffset": 834
+                    }
+                }
+            }
+        ]
+    }
+]

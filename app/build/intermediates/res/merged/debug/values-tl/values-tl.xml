@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="prediction_modes">
+    <item msgid="4870266572388153286">"Wala"</item>
+    <item msgid="1669461741568287396">"Batayan"</item>
+    <item msgid="4894328801530136615">"Advanced"</item>
+  </string-array>
+    <string-array name="voice_input_modes">
+    <item msgid="1349082139076086774">"I-on ang pangunahing keyboard"</item>
+    <item msgid="8529385602829095903">"Sa mga simbolo ng keyboard"</item>
+    <item msgid="7283103513488381103">"Naka-off"</item>
+  </string-array>
+    <string-array name="voice_input_modes_summary">
+    <item msgid="554248625705084903">"Mic sa pangunahing keyboard"</item>
+    <item msgid="6907837061058876770">"Mic sa keyboard ng mga simbolo"</item>
+    <item msgid="3664304608587798036">"Hindi pinagana ang pag-input ng boses"</item>
+  </string-array>
+    <string msgid="8993883354622484372" name="added_word">"<ns1:g id="WORD">%s</ns1:g> : Na-save"</string>
+    <string msgid="1719746674854628252" name="auto_cap">"Auto-capitalization"</string>
+    <string msgid="3260681697600786825" name="auto_cap_summary">"I-capitalize ang simula ng isang pangungusap"</string>
+    <string msgid="1103196318775486023" name="auto_complete">"I-auto-complete"</string>
+    <string msgid="2172048590607201920" name="auto_complete_dialog_title">"Awtomatikong pagkumpleto"</string>
+    <string msgid="6113149638718274624" name="auto_complete_summary">"Awtomatikong ipinapasok ng spacebar at bantas ang naka-highlight na salita"</string>
+    <string msgid="7911639788808958255" name="auto_correction">"Mga suhestiyon ng salita"</string>
+    <string msgid="6881047311475758267" name="auto_correction_summary">"Awtomatikong itama ang nakaraang salita"</string>
+    <string msgid="7276672334264521751" name="auto_punctuate">"I-auto-punctuate"</string>
+    <string msgid="6589441565817502132" name="auto_punctuate_summary"/>
+    <string msgid="9151008027068358518" name="auto_submit">"Awtomatikong isumite pagkatapos ng boses"</string>
+    <string msgid="4961875269610384226" name="auto_submit_summary">"Awtomatikong pindutin ang enter kapag naghahanap o pupunta sa susunod na field."</string>
+    <string msgid="1323347224043514969" name="bigram_suggestion">"Mga Suhestiyon na Bigram"</string>
+    <string msgid="4383845146070101531" name="bigram_suggestion_summary">"Gamitin ang nakaraang salita upang pahusayin ang suhestiyon"</string>
+    <string msgid="6830980399865683324" name="cancel">"Kanselahin"</string>
+    <string msgid="6251022259044940103" name="close_the_keyboard"><font size="17"><b>"Isara ang keyboard"\n</b></font><font size="3">\n</font>"Pindutin ang key na Bumalik."</string>
+    <string msgid="3909945612939668554" name="english_ime_input_options">"Mga pagpipilian sa input"</string>
+    <string msgid="6071847973466625007" name="has_dictionary">"Available ang diksyunaryo"</string>
+    <string msgid="9006292060636342317" name="hint_add_to_dictionary">"← Pinduting muli upang i-save"</string>
+    <string msgid="4855351009261318389" name="hit_correction">"Itama ang mga error sa pag-type"</string>
+    <string msgid="2567691684825205448" name="hit_correction_land">"Mga error sa pag-input ng landscape"</string>
+    <string msgid="4076803842198368328" name="hit_correction_land_summary">"Paganahin ang pagtatama ng error sa pag-input"</string>
+    <string msgid="8761701873008070796" name="hit_correction_summary">"Paganahin ang pagtatama ng error sa pag-input"</string>
+    <string msgid="437433231038683666" name="keyboard_layout">"Tema ng Keyboard"</string>
+    <string msgid="4585753477617374032" name="keyboard_settings"><font size="17"><b>"Mga setting ng keyboard"\n</b></font><font size="3">\n</font>"Galawin &amp; pindutin nang matagal ang "<b>"?123"</b>" na key."</string>
+    <string msgid="8864943487292437456" name="label_alpha_key">"ABC"</string>
+    <string msgid="2846315350346694811" name="label_alt_key">"ALT"</string>
+    <string msgid="2441578748772529288" name="label_done_key">"Tapos na"</string>
+    <string msgid="1635148082137219148" name="label_go_key">"Pumunta"</string>
+    <string msgid="362972844525672568" name="label_next_key">"Susunod"</string>
+    <string msgid="4275497665515080551" name="label_phone_key">"123"</string>
+    <string msgid="2815056534433717444" name="label_send_key">"Ipadala"</string>
+    <string msgid="6175820506864489453" name="label_symbol_key">"?123"</string>
+    <string msgid="187110938289512256" name="language_selection_summary">"I-slide ang daliri sa spacebar upang palitan ang wika"</string>
+    <string msgid="1651299598555326750" name="language_selection_title">"Mag-input ng mga wika"</string>
+    <string msgid="7898366843681727667" name="ok">"OK"</string>
+    <string msgid="2215920976029260466" name="open_the_keyboard"><font size="17"><b>"Buksan ang keyboard"\n</b></font><font size="3">\n</font>"Galawin ang kahit anong field ng teksto."</string>
+    <string msgid="3745279225122472969" name="popular_domain_0">".com"</string>
+    <string msgid="1370572248164278467" name="popular_domain_1">".net"</string>
+    <string msgid="3036812463748402878" name="popular_domain_2">".org"</string>
+    <string msgid="8718639560809452028" name="popular_domain_3">".gov"</string>
+    <string msgid="35359437471311470" name="popular_domain_4">".edu"</string>
+    <string msgid="123894815723512944" name="popup_on_keypress">"Popup sa keypress"</string>
+    <string msgid="466220283138359837" name="prediction">"Mga suhestiyon ng salita"</string>
+    <string msgid="7027100625580696660" name="prediction_category">"Mga setting ng suhestiyon ng salita"</string>
+    <string msgid="4874601565593216183" name="prediction_landscape">"Taasan ang laki ng field ng teksto"</string>
+    <string msgid="6736551095997839472" name="prediction_landscape_summary">"Itago ang mga suhestiyon ng salita sa lanscape na view"</string>
+    <string msgid="459788228830873110" name="prediction_summary">"Paganahin ang awtomatikong pagkumpleto habang nagta-type"</string>
+    <string msgid="5827825607258246003" name="prefs_description_log">"Tumulong na pahusayin ang editor ng paraan ng pag-input na ito sa pamamagitan ng awtomatikong pagpapadala ng mga istatistika ng paggamit at mga ulat ng crash sa Google."</string>
+    <string msgid="6620424505072963557" name="prefs_enable_log">"Paganahin ang feedback ng user"</string>
+    <string msgid="4588408906649533582" name="prefs_enable_recorrection">"Pindutin upang itama ang mga salita"</string>
+    <string msgid="1056068922330206170" name="prefs_enable_recorrection_summary">"Pindutin ang mga ipinasok na salita upang itama ang mga ito"</string>
+    <string msgid="4623341240804046498" name="prefs_settings_key">"Ipakita ang key ng mga setting"</string>
+    <string msgid="5353213327680897927" name="quick_fixes">"Mga mabilisang pagsasaayos"</string>
+    <string msgid="3405028402510332373" name="quick_fixes_summary">"Itinatama ang mga karaniwang na-type na mali"</string>
+    <string msgid="315076553378705821" name="selectInputMethod">"Pumili ng paraan ng pag-input"</string>
+    <string msgid="7833948046716923994" name="settings_key_mode_always_hide_name">"Palaging itago"</string>
+    <string msgid="3047567041784760575" name="settings_key_mode_always_show_name">"Palaging ipakita"</string>
+    <string msgid="2993460277873684680" name="settings_key_mode_auto_name">"Awtomatiko"</string>
+    <string msgid="507074425254289133" name="show_suggestions">"Ipakita ang mga suhestiyon"</string>
+    <string msgid="1989672863935759654" name="show_suggestions_summary">"Ipakita ang mga iminumungkahing salita habang nagta-type"</string>
+    <string msgid="6093592297198243644" name="sound_on_keypress">"Tunog sa keypress"</string>
+    <string msgid="2242090416595003881" name="subtype_mode_keyboard">"keyboard"</string>
+    <string msgid="4394113125441627771" name="subtype_mode_voice">"boses"</string>
+    <string msgid="6344098517525531652" name="tip_access_symbols">"I-access ang mga numero at simbolo"</string>
+    <string msgid="1487293888469227817" name="tip_add_to_dictionary">"Pindutin nang matagal ang salita sa kaliwang bahagi upang idagdag ito sa diksyunaryo"</string>
+    <string msgid="7585579046862204381" name="tip_dismiss">"Pindutin ang key na bumalik ↶ upang isara ang keyboard anumang oras"</string>
+    <string msgid="6101270866284343344" name="tip_long_press">"Pinduting nang matagal ang isang key pababa upang makita ang mga accent (ø, ö, atbp.)"</string>
+    <string msgid="5227724217206927185" name="tip_to_close_symbols"><b>"Pumunta muli sa mga titik sa pamamagitan ng muling paggalaw sa key na ito"</b></string>
+    <string msgid="8402961128983196128" name="tip_to_launch_settings"><b>"Galawin &amp; pinduting nang matagal ang key na ito upang baguhin ang mga setting ng keyboard, tulad ng awtomatikong pagkumpleto"</b></string>
+    <string msgid="6821200275486950452" name="tip_to_open_keyboard"><b>"Nagbubukas ang keyboard anumang oras na galawin mo ang field ng teksto"</b></string>
+    <string msgid="7345139325622444880" name="tip_to_open_symbols"><b>"Lumipat sa mga numero at simbolo sa pamamagitan ng paggalaw sa key na "</b>" na ito"</string>
+    <string msgid="7213843601369174313" name="tip_to_start_typing"><b>"Subukan ito!"</b></string>
+    <string msgid="5433158573693308501" name="tip_to_view_accents"><b>"Galawin &amp; pinduting nang matagal ang isang key upang tingnan ang mga accent"\n"(ø, ö, ô, ó, at iba pa)"</b></string>
+    <string msgid="6154166367273010534" name="touch_and_hold"><font size="17"><b>"Galawin &amp; pinduting nang matagal ang isang key para sa mga pagpipilian"\n</b></font><font size="3">\n</font>"I-access ang bantas at mga accent."</string>
+    <string msgid="7869803257948414531" name="touch_to_continue">"Galawin ang pahiwatig na ito upang magpatuloy »"</string>
+    <string msgid="7990196086480585789" name="touch_to_finish">"Galawin dito upang isara ang pahiwatig na ito at simulan ang pag-type!"</string>
+    <string msgid="5258079494276955460" name="vibrate_on_keypress">"Mag-vibrate sa keypress"</string>
+    <string msgid="5072707727016414454" name="voice_audio_error">"Problema sa audio"</string>
+    <string msgid="5140896300312186162" name="voice_error">"Error. Pakisubukang muli."</string>
+    <string msgid="6892342981545727994" name="voice_hint_dialog_message">"Upang gumamit ng pag-input ng boses, pindutin ang pindutang microphone o i-slide ang iyong daliri sa screen keyboard."</string>
+    <string msgid="661962047129906646" name="voice_initializing"/>
+    <string msgid="2466640768843347841" name="voice_input">"Pag-input ng boses"</string>
+    <string msgid="467518160751321844" name="voice_listening">"Magsalita ngayon"</string>
+    <string msgid="6649556447401862563" name="voice_network_error">"Hindi makakonekta"</string>
+    <string msgid="4285117547030179174" name="voice_no_match">"Walang nakitang mga tugma"</string>
+    <string msgid="5552450909753842415" name="voice_not_installed">"Hindi naka-install ang paghahanap ng boses"</string>
+    <string msgid="1611389463237317754" name="voice_punctuation_hint"><b>"Pahiwatig:"</b>" Sa susunod, subukang magsalita ng bantas tulad ng \"tuldok\", \"kuwit\", o \"tandang pananong\"."</string>
+    <string msgid="7807129913977261644" name="voice_server_error">"Error sa server"</string>
+    <string msgid="8461817525075498795" name="voice_speech_timeout">"Walang narinig na pananalita"</string>
+    <string msgid="6943546180310682021" name="voice_swipe_hint"><b>"Pahiwatig:"</b>" Mag-swipe sa keyboard upang magsalita"</string>
+    <string msgid="5746973620134227376" name="voice_too_much_speech">"Error, masyadong maraming pananalita."</string>
+    <string msgid="5652369578498701761" name="voice_warning_how_to_turn_off">"Upang i-off ang pag-input ng boses, pumunta sa mga setting ng keyboard."</string>
+    <string msgid="637923019716442333" name="voice_warning_locale_not_supported">"Hindi kasalukuyang suportado ang pag-input ng boses para sa iyong wika, ngunit gumagana sa Ingles."</string>
+    <string msgid="4611518823070986445" name="voice_warning_may_not_understand">"Ang pag-input ng boses ay isang tampok na pang-eksperimento na gumagamit ng naka-network na pagkilala sa pananalita ng Google."</string>
+    <string msgid="4419354150908395008" name="voice_warning_title">"Pag-input ng boses"</string>
+    <string msgid="6666937792815731889" name="voice_working">"Nagtatrabaho"</string>
+</resources>

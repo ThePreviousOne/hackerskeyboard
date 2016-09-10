@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/anim/mini_keyboard_fadein.xml",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/anim/mini_keyboard_fadein.xml"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/anim/key_preview_fadeout.xml",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/anim/key_preview_fadeout.xml"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/anim/mini_keyboard_fadeout.xml",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/anim/mini_keyboard_fadeout.xml"
+    },
+    {
+        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/anim/key_preview_fadein.xml",
+        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/anim/key_preview_fadein.xml"
+    }
+]

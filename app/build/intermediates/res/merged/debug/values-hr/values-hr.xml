@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="prediction_modes">
+    <item msgid="4870266572388153286">"Nijedan"</item>
+    <item msgid="1669461741568287396">"Osnovni"</item>
+    <item msgid="4894328801530136615">"Napredno"</item>
+  </string-array>
+    <string-array name="voice_input_modes">
+    <item msgid="1349082139076086774">"Na glavnoj tipkovnici"</item>
+    <item msgid="8529385602829095903">"Na tipkovnici sa simbolima"</item>
+    <item msgid="7283103513488381103">"Isključeno"</item>
+  </string-array>
+    <string-array name="voice_input_modes_summary">
+    <item msgid="554248625705084903">"Mikrofon na glavnoj tipkovnici"</item>
+    <item msgid="6907837061058876770">"Mikrofon na tipkovnici sa simbolima"</item>
+    <item msgid="3664304608587798036">"Glasovni unos je onemogućen"</item>
+  </string-array>
+    <string msgid="8993883354622484372" name="added_word">"<ns1:g id="WORD">%s</ns1:g> : Spremljeno"</string>
+    <string name="alternates_for_a">äáàâãåāæ</string>
+    <string name="alternates_for_b">{</string>
+    <string name="alternates_for_c">čć¢</string>
+    <string name="alternates_for_e">3€éèêë</string>
+    <string name="alternates_for_f">[</string>
+    <string name="alternates_for_g">]</string>
+    <string name="alternates_for_k">ł</string>
+    <string name="alternates_for_m">§</string>
+    <string name="alternates_for_n">}</string>
+    <string name="alternates_for_o">9öóòôõōø</string>
+    <string name="alternates_for_q">1\\</string>
+    <string name="alternates_for_s">š§ß</string>
+    <string name="alternates_for_u">7üúùûū</string>
+    <string name="alternates_for_v">\@</string>
+    <string name="alternates_for_w">2|</string>
+    <string name="alternates_for_y">ýÿ¥</string>
+    <string name="alternates_for_z">6ž</string>
+    <string msgid="1719746674854628252" name="auto_cap">"Automatsko pisanje velikih slova"</string>
+    <string msgid="3260681697600786825" name="auto_cap_summary">"Stavi veliko slovo na početku rečenice"</string>
+    <string msgid="1103196318775486023" name="auto_complete">"Automatsko dovršavanje"</string>
+    <string msgid="2172048590607201920" name="auto_complete_dialog_title">"Automatsko dovršavanje"</string>
+    <string msgid="6113149638718274624" name="auto_complete_summary">"Razmaknica i interpunkcija automatski umeću istaknutu riječ"</string>
+    <string msgid="7911639788808958255" name="auto_correction">"Prijedlozi riječi"</string>
+    <string msgid="6881047311475758267" name="auto_correction_summary">"Automatsko ispravljanje prethodne riječi"</string>
+    <string msgid="7276672334264521751" name="auto_punctuate">"Automatsko stavljanje interpunkcije"</string>
+    <string msgid="6589441565817502132" name="auto_punctuate_summary"/>
+    <string msgid="9151008027068358518" name="auto_submit">"Automatski pošalji nakon glasovnog unosa"</string>
+    <string msgid="4961875269610384226" name="auto_submit_summary">"Automatski se pritišće \"Enter\" kad pretražujete ili idete na sljedeće polje."</string>
+    <string msgid="1323347224043514969" name="bigram_suggestion">"Bigram prijedlozi"</string>
+    <string msgid="4383845146070101531" name="bigram_suggestion_summary">"Upotrijebi prethodnu riječ radi poboljšanja prijedloga"</string>
+    <string msgid="6830980399865683324" name="cancel">"Odustani"</string>
+    <string msgid="6251022259044940103" name="close_the_keyboard"><font size="17"><b>"Zatvaranje tipkovnice"\n</b></font><font size="3">\n</font>"Pritisnite tipku \"Natrag\"."</string>
+    <string msgid="3909945612939668554" name="english_ime_input_options">"Opcije ulaza"</string>
+    <string msgid="6071847973466625007" name="has_dictionary">"Rječnik je dostupan"</string>
+    <string msgid="9006292060636342317" name="hint_add_to_dictionary">"← Dodirnite opet za spremanje"</string>
+    <string msgid="4855351009261318389" name="hit_correction">"Ispravi pogreške u pisanju"</string>
+    <string msgid="2567691684825205448" name="hit_correction_land">"Pogreške pri pejzažnom unosu"</string>
+    <string msgid="4076803842198368328" name="hit_correction_land_summary">"Omogućavanje ispravka pogreške pri unosu"</string>
+    <string msgid="8761701873008070796" name="hit_correction_summary">"Omogućavanje ispravka pogreške pri unosu"</string>
+    <string name="key_ab01_alt">@string/alternates_for_y</string>
+    <string name="key_ab01_main">y</string>
+    <string name="key_ab01_shift">Y</string>
+    <string name="key_ab08_alt">;&lt;≤«‹</string>
+    <string name="key_ab08_main">,</string>
+    <string name="key_ab08_shift">;</string>
+    <string name="key_ab09_alt">:>≥»›…</string>
+    <string name="key_ab09_main">.</string>
+    <string name="key_ab09_shift">:</string>
+    <string name="key_ab10_alt">-_–—</string>
+    <string name="key_ab10_main">-</string>
+    <string name="key_ab10_shift">_</string>
+    <string name="key_ac10_alt">č</string>
+    <string name="key_ac10_main">č</string>
+    <string name="key_ac10_shift">Č</string>
+    <string name="key_ac11_alt">ćß</string>
+    <string name="key_ac11_main">ć</string>
+    <string name="key_ac11_shift">Ć</string>
+    <string name="key_ad06_alt">@string/alternates_for_z</string>
+    <string name="key_ad06_main">z</string>
+    <string name="key_ad06_shift">Z</string>
+    <string name="key_ad11_alt">š÷</string>
+    <string name="key_ad11_main">š</string>
+    <string name="key_ad11_shift">Š</string>
+    <string name="key_ad12_alt">đ×</string>
+    <string name="key_ad12_main">đ</string>
+    <string name="key_ad12_shift">Đ</string>
+    <string name="key_ae01_alt">1!¹¡½⅓¼⅛</string>
+    <string name="key_ae01_main">1</string>
+    <string name="key_ae01_shift">!</string>
+    <string name="key_ae02_alt">2\"²⅔</string>
+    <string name="key_ae02_main">2</string>
+    <string name="key_ae02_shift">\"</string>
+    <string name="key_ae03_alt">3#³¾⅜♥♠♦♣</string>
+    <string name="key_ae03_main">3</string>
+    <string name="key_ae03_shift">#</string>
+    <string name="key_ae04_alt">4$⁴¼¥</string>
+    <string name="key_ae04_main">4</string>
+    <string name="key_ae04_shift">$</string>
+    <string name="key_ae05_alt">5%⅝‰</string>
+    <string name="key_ae05_main">5</string>
+    <string name="key_ae05_shift">%</string>
+    <string name="key_ae06_alt">6&amp;↑↓←→</string>
+    <string name="key_ae06_main">6</string>
+    <string name="key_ae06_shift">&amp;</string>
+    <string name="key_ae07_alt">7/⅞♪</string>
+    <string name="key_ae07_main">7</string>
+    <string name="key_ae07_shift">/</string>
+    <string name="key_ae08_alt">8(™∞†‡</string>
+    <string name="key_ae08_main">8</string>
+    <string name="key_ae08_shift">(</string>
+    <string name="key_ae09_alt">9)√</string>
+    <string name="key_ae09_main">9</string>
+    <string name="key_ae09_shift">)</string>
+    <string name="key_ae10_alt">0=ⁿ°≈≠</string>
+    <string name="key_ae10_main">0</string>
+    <string name="key_ae10_shift">=</string>
+    <string name="key_ae11_alt">\'\?</string>
+    <string name="key_ae11_main">\'</string>
+    <string name="key_ae11_shift">\?</string>
+    <string name="key_ae12_alt">+*•★±</string>
+    <string name="key_ae12_main">+</string>
+    <string name="key_ae12_shift">*</string>
+    <string name="key_bksl_alt">ž¤</string>
+    <string name="key_bksl_main">ž</string>
+    <string name="key_bksl_shift">Ž</string>
+    <string name="key_lsgt_alt">&lt;>|</string>
+    <string name="key_lsgt_main">&lt;</string>
+    <string name="key_lsgt_shift">></string>
+    <string name="key_tlde_alt">`~^°</string>
+    <string name="key_tlde_main">`</string>
+    <string name="key_tlde_shift">~</string>
+    <string msgid="437433231038683666" name="keyboard_layout">"Tema tipkovnice"</string>
+    <string msgid="4585753477617374032" name="keyboard_settings"><font size="17"><b>"Postavke tipkovnice"\n</b></font><font size="3">\n</font>"Dodirnite i držite tipku "<b>"?123"</b>"."</string>
+    <string msgid="8864943487292437456" name="label_alpha_key">"ABC"</string>
+    <string msgid="2846315350346694811" name="label_alt_key">"ALT"</string>
+    <string msgid="2441578748772529288" name="label_done_key">"Gotovo"</string>
+    <string msgid="1635148082137219148" name="label_go_key">"Idi"</string>
+    <string msgid="362972844525672568" name="label_next_key">"Dalje"</string>
+    <string msgid="4275497665515080551" name="label_phone_key">"123"</string>
+    <string msgid="2815056534433717444" name="label_send_key">"Pošalji"</string>
+    <string msgid="6175820506864489453" name="label_symbol_key">"?123"</string>
+    <string msgid="187110938289512256" name="language_selection_summary">"Kliznite prstom po razmaknici za promjenu jezika"</string>
+    <string msgid="1651299598555326750" name="language_selection_title">"Jezici unosa"</string>
+    <string msgid="7898366843681727667" name="ok">"U redu"</string>
+    <string msgid="2215920976029260466" name="open_the_keyboard"><font size="17"><b>"Otvaranje tipkovnice"\n</b></font><font size="3">\n</font>"Dodirnite bilo koje tekstualno polje"</string>
+    <string msgid="3745279225122472969" name="popular_domain_0">".com"</string>
+    <string msgid="1370572248164278467" name="popular_domain_1">".net"</string>
+    <string msgid="3036812463748402878" name="popular_domain_2">".org"</string>
+    <string msgid="8718639560809452028" name="popular_domain_3">".gov"</string>
+    <string msgid="35359437471311470" name="popular_domain_4">".edu"</string>
+    <string msgid="123894815723512944" name="popup_on_keypress">"Povećanja na pritisak tipke"</string>
+    <string msgid="466220283138359837" name="prediction">"Prijedlozi riječi"</string>
+    <string msgid="7027100625580696660" name="prediction_category">"Postavke prijedloga riječi"</string>
+    <string msgid="4874601565593216183" name="prediction_landscape">"Povećaj tekstualno polje"</string>
+    <string msgid="6736551095997839472" name="prediction_landscape_summary">"Sakrij prijedloge riječi u pejzažnom prikazu"</string>
+    <string msgid="459788228830873110" name="prediction_summary">"Omogućavanje automatskog dovršavanja pri upisivanju"</string>
+    <string msgid="5827825607258246003" name="prefs_description_log">"Pomozite u poboljšanju ovog urednika ulazne metode automatskim slanjem statistike upotrebe i padova Googleu."</string>
+    <string msgid="6620424505072963557" name="prefs_enable_log">"Omogući korisničke povratne informacije"</string>
+    <string msgid="4588408906649533582" name="prefs_enable_recorrection">"Dodirnite za ispravak riječi"</string>
+    <string msgid="1056068922330206170" name="prefs_enable_recorrection_summary">"Dodirnite unesene riječi radi ispravka"</string>
+    <string msgid="4623341240804046498" name="prefs_settings_key">"Prikaži tipku postavki"</string>
+    <string msgid="5353213327680897927" name="quick_fixes">"Brzi popravci"</string>
+    <string msgid="3405028402510332373" name="quick_fixes_summary">"Ispravlja uobičajene pogreške u pisanju"</string>
+    <string msgid="315076553378705821" name="selectInputMethod">"Odabir ulazne metode"</string>
+    <string msgid="7833948046716923994" name="settings_key_mode_always_hide_name">"Uvijek sakrij"</string>
+    <string msgid="3047567041784760575" name="settings_key_mode_always_show_name">"Uvijek prikaži"</string>
+    <string msgid="2993460277873684680" name="settings_key_mode_auto_name">"Automatski"</string>
+    <string msgid="507074425254289133" name="show_suggestions">"Pokaži prijedloge"</string>
+    <string msgid="1989672863935759654" name="show_suggestions_summary">"Prikazivanje predloženih riječi prilikom upisivanja"</string>
+    <string msgid="6093592297198243644" name="sound_on_keypress">"Zvuk pri pritisku tipke"</string>
+    <string msgid="2242090416595003881" name="subtype_mode_keyboard">"tipkovnica"</string>
+    <string msgid="4394113125441627771" name="subtype_mode_voice">"glas"</string>
+    <string msgid="6344098517525531652" name="tip_access_symbols">"Pristup brojevima i simbolima"</string>
+    <string msgid="1487293888469227817" name="tip_add_to_dictionary">"Pritisnite i držite krajnju lijevu riječ da biste je dodali u rječnik."</string>
+    <string msgid="7585579046862204381" name="tip_dismiss">"Pritisnite tipku \"Natrag\" ↶ za zatvaranje tipkovnice"</string>
+    <string msgid="6101270866284343344" name="tip_long_press">"Pritisnite i držite tipku da biste vidjeli naglaske (ø, ö itd.)"</string>
+    <string msgid="5227724217206927185" name="tip_to_close_symbols"><b>"Dodirnite ponovo ovu tipku za povratak na slova"</b></string>
+    <string msgid="8402961128983196128" name="tip_to_launch_settings"><b>"Dodirnite i držite ovu tipku da biste promijenili postavke tipkovnice, poput automatskog dovršavanja"</b></string>
+    <string msgid="6821200275486950452" name="tip_to_open_keyboard"><b>"Tipkovnica se otvara svaki put kada dodirnete tekstualno polje"</b></string>
+    <string msgid="7345139325622444880" name="tip_to_open_symbols"><b>"Prijeđite na brojeve i simbole dodirom na ovu tipku"</b></string>
+    <string msgid="7213843601369174313" name="tip_to_start_typing"><b>"Isprobajte!"</b></string>
+    <string msgid="5433158573693308501" name="tip_to_view_accents"><b>"Dodirnite i držite tipku da biste vidjeli naglaske"\n"(ø, ö, ô, ó i tako dalje)"</b></string>
+    <string msgid="6154166367273010534" name="touch_and_hold"><font size="17"><b>"Dodirnite i držite tipku da biste vidjeli opcije"\n</b></font><font size="3">\n</font>"Pristup interpunkciji i naglascima."</string>
+    <string msgid="7869803257948414531" name="touch_to_continue">"Dodirnite ovaj savjet za nastavak »"</string>
+    <string msgid="7990196086480585789" name="touch_to_finish">"Dodirnite ovdje da biste zatvorili savjet i počeli upisivati!"</string>
+    <string msgid="5258079494276955460" name="vibrate_on_keypress">"Vibracija pri pritisku na tipku"</string>
+    <string msgid="5072707727016414454" name="voice_audio_error">"Problem sa zvukom"</string>
+    <string msgid="5140896300312186162" name="voice_error">"Pogreška. Pokušajte ponovo."</string>
+    <string msgid="6892342981545727994" name="voice_hint_dialog_message">"Da biste koristili glasovni unos pritisnite gumb mikrofona ili kliznite prstom preko tipkovnice na zaslonu."</string>
+    <string msgid="661962047129906646" name="voice_initializing"/>
+    <string msgid="2466640768843347841" name="voice_input">"Glasovni unos"</string>
+    <string msgid="467518160751321844" name="voice_listening">"Govorite sad"</string>
+    <string msgid="6649556447401862563" name="voice_network_error">"Spajanje nije bilo moguće"</string>
+    <string msgid="4285117547030179174" name="voice_no_match">"Nisu pronađeni rezultati"</string>
+    <string msgid="5552450909753842415" name="voice_not_installed">"Glasovno pretraživanje nije instalirano"</string>
+    <string msgid="1611389463237317754" name="voice_punctuation_hint"><b>"Savjet:"</b>" Sljedeći put pokušajte izgovoriti znakove interpunkcije poput \"točka, \"zarez\" ili \"upitnik\"."</string>
+    <string msgid="7807129913977261644" name="voice_server_error">"Pogreška na poslužitelju"</string>
+    <string msgid="8461817525075498795" name="voice_speech_timeout">"Nije se čuo govor"</string>
+    <string msgid="6943546180310682021" name="voice_swipe_hint"><b>"Savjet:"</b>" Prijeđite preko tipkovnice pa govorite"</string>
+    <string msgid="5746973620134227376" name="voice_too_much_speech">"Pogreška, predugi govor."</string>
+    <string msgid="5652369578498701761" name="voice_warning_how_to_turn_off">"Za isključivanje glasovnog unosa idite na postavke tipkovnice."</string>
+    <string msgid="637923019716442333" name="voice_warning_locale_not_supported">"Vaš jezik trenutno nije podržan za glasovni unos, ali radi za engleski."</string>
+    <string msgid="4611518823070986445" name="voice_warning_may_not_understand">"Glasovni unos je pokusna značajka koja koristi Googleovo umreženo prepoznavanje govora."</string>
+    <string msgid="4419354150908395008" name="voice_warning_title">"Glasovni unos"</string>
+    <string msgid="6666937792815731889" name="voice_working">"Obrada"</string>
+</resources>

@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="prediction_modes">
+    <item msgid="4870266572388153286">"Inget"</item>
+    <item msgid="1669461741568287396">"Grundinställningar"</item>
+    <item msgid="4894328801530136615">"Avancerade"</item>
+  </string-array>
+    <string-array name="voice_input_modes">
+    <item msgid="1349082139076086774">"På huvudtangentbordet"</item>
+    <item msgid="8529385602829095903">"På symboltangentbordet"</item>
+    <item msgid="7283103513488381103">"Av"</item>
+  </string-array>
+    <string-array name="voice_input_modes_summary">
+    <item msgid="554248625705084903">"Mikrofon på huvudtangentbordet"</item>
+    <item msgid="6907837061058876770">"Mikrofon på symboltangentbordet"</item>
+    <item msgid="3664304608587798036">"Röstindata är inaktiverat"</item>
+  </string-array>
+    <string msgid="8993883354622484372" name="added_word">"<ns1:g id="WORD">%s</ns1:g>: sparat"</string>
+    <string name="alternates_for_a">áàâąã</string>
+    <string name="alternates_for_a_umlaut">æ</string>
+    <string name="alternates_for_c">çćč</string>
+    <string name="alternates_for_d">ðď</string>
+    <string name="alternates_for_e">3éèêëę€</string>
+    <string name="alternates_for_i">8ïîìí</string>
+    <string name="alternates_for_l">ł</string>
+    <string name="alternates_for_n">ńñň</string>
+    <string name="alternates_for_o">9õôòó</string>
+    <string name="alternates_for_o_umlaut">øœ</string>
+    <string name="alternates_for_r">4ř</string>
+    <string name="alternates_for_s">śšşß</string>
+    <string name="alternates_for_t">5þť</string>
+    <string name="alternates_for_u">7ūûùú</string>
+    <string name="alternates_for_v"/>
+    <string name="alternates_for_y">6üÿý</string>
+    <string name="alternates_for_z">źžż</string>
+    <string msgid="1719746674854628252" name="auto_cap">"Automatiska versaler"</string>
+    <string msgid="3260681697600786825" name="auto_cap_summary">"Använd versal i början av mening"</string>
+    <string msgid="1103196318775486023" name="auto_complete">"Komplettera automatiskt"</string>
+    <string msgid="2172048590607201920" name="auto_complete_dialog_title">"Komplettera automatiskt"</string>
+    <string msgid="6113149638718274624" name="auto_complete_summary">"Blanksteg och punkt infogar automatiskt markerat ord"</string>
+    <string msgid="7911639788808958255" name="auto_correction">"Ordförslag"</string>
+    <string msgid="6881047311475758267" name="auto_correction_summary">"Rätta automatiskt föregående ord"</string>
+    <string msgid="7276672334264521751" name="auto_punctuate">"Automatiska punkter"</string>
+    <string msgid="6589441565817502132" name="auto_punctuate_summary"/>
+    <string msgid="9151008027068358518" name="auto_submit">"Skicka automatiskt efter röst"</string>
+    <string msgid="4961875269610384226" name="auto_submit_summary">"Tryck automatiskt på retur vid sökning eller när du fortsätter till nästa fält."</string>
+    <string msgid="1323347224043514969" name="bigram_suggestion">"Bigramförslag"</string>
+    <string msgid="4383845146070101531" name="bigram_suggestion_summary">"Förbättra förslaget med föregående ord"</string>
+    <string msgid="6830980399865683324" name="cancel">"Avbryt"</string>
+    <string msgid="6251022259044940103" name="close_the_keyboard"><font size="17"><b>"Stäng tangentbordet"\n</b></font><font size="3">\n</font>"Tryck på Tillbaka."</string>
+    <string msgid="3909945612939668554" name="english_ime_input_options">"Inmatningsalternativ"</string>
+    <string msgid="6071847973466625007" name="has_dictionary">"En ordlista är tillgänglig"</string>
+    <string msgid="9006292060636342317" name="hint_add_to_dictionary">"← Tryck igen för att spara"</string>
+    <string msgid="4855351009261318389" name="hit_correction">"Rätta skrivfel"</string>
+    <string msgid="2567691684825205448" name="hit_correction_land">"Inmatningsfel i liggande vy"</string>
+    <string msgid="4076803842198368328" name="hit_correction_land_summary">"Aktivera rättning av felaktiga inmatningar"</string>
+    <string msgid="8761701873008070796" name="hit_correction_summary">"Aktivera rättning av felaktiga inmatningar"</string>
+    <string name="key_ab01_alt"/>
+    <string name="key_ab01_main">z</string>
+    <string name="key_ab01_shift">Z</string>
+    <string name="key_ab02_alt"/>
+    <string name="key_ab02_main">x</string>
+    <string name="key_ab02_shift">X</string>
+    <string name="key_ab03_alt">©</string>
+    <string name="key_ab03_main">c</string>
+    <string name="key_ab03_shift">C</string>
+    <string name="key_ab04_alt"/>
+    <string name="key_ab04_main">v</string>
+    <string name="key_ab04_shift">V</string>
+    <string name="key_ab05_alt"/>
+    <string name="key_ab05_main">b</string>
+    <string name="key_ab05_shift">B</string>
+    <string name="key_ab06_alt">ñ</string>
+    <string name="key_ab06_main">n</string>
+    <string name="key_ab06_shift">N</string>
+    <string name="key_ab07_alt">µ</string>
+    <string name="key_ab07_main">m</string>
+    <string name="key_ab07_shift">M</string>
+    <string name="key_ab08_alt"/>
+    <string name="key_ab08_main">,</string>
+    <string name="key_ab08_shift">;</string>
+    <string name="key_ab09_alt"/>
+    <string name="key_ab09_main">.</string>
+    <string name="key_ab09_shift">:</string>
+    <string name="key_ab10_alt">-¯</string>
+    <string name="key_ab10_main">-</string>
+    <string name="key_ab10_shift">_</string>
+    <string name="key_ac01_alt">âãáà</string>
+    <string name="key_ac01_main">a</string>
+    <string name="key_ac01_shift">A</string>
+    <string name="key_ac02_alt"/>
+    <string name="key_ac02_main">s</string>
+    <string name="key_ac02_shift">S</string>
+    <string name="key_ac03_alt"/>
+    <string name="key_ac03_main">d</string>
+    <string name="key_ac03_shift">D</string>
+    <string name="key_ac04_alt"/>
+    <string name="key_ac04_main">f</string>
+    <string name="key_ac04_shift">F</string>
+    <string name="key_ac05_alt"/>
+    <string name="key_ac05_main">g</string>
+    <string name="key_ac05_shift">G</string>
+    <string name="key_ac06_alt"/>
+    <string name="key_ac06_main">h</string>
+    <string name="key_ac06_shift">H</string>
+    <string name="key_ac07_alt"/>
+    <string name="key_ac07_main">j</string>
+    <string name="key_ac07_shift">J</string>
+    <string name="key_ac08_alt"/>
+    <string name="key_ac08_main">k</string>
+    <string name="key_ac08_shift">K</string>
+    <string name="key_ac09_alt"/>
+    <string name="key_ac09_main">l</string>
+    <string name="key_ac09_shift">L</string>
+    <string name="key_ac10_alt"/>
+    <string name="key_ac10_main">ö</string>
+    <string name="key_ac10_shift">Ö</string>
+    <string name="key_ac11_alt"/>
+    <string name="key_ac11_main">ä</string>
+    <string name="key_ac11_shift">Ä</string>
+    <string name="key_ad01_alt"/>
+    <string name="key_ad01_main">q</string>
+    <string name="key_ad01_shift">Q</string>
+    <string name="key_ad02_alt"/>
+    <string name="key_ad02_main">w</string>
+    <string name="key_ad02_shift">W</string>
+    <string name="key_ad03_alt">€éèêë</string>
+    <string name="key_ad03_main">e</string>
+    <string name="key_ad03_shift">E</string>
+    <string name="key_ad04_alt">r®</string>
+    <string name="key_ad04_main">r</string>
+    <string name="key_ad04_shift">R</string>
+    <string name="key_ad05_alt">þ</string>
+    <string name="key_ad05_main">t</string>
+    <string name="key_ad05_shift">T</string>
+    <string name="key_ad06_alt">ÿ</string>
+    <string name="key_ad06_main">y</string>
+    <string name="key_ad06_shift">Y</string>
+    <string name="key_ad07_alt">üû</string>
+    <string name="key_ad07_main">u</string>
+    <string name="key_ad07_shift">U</string>
+    <string name="key_ad08_alt">íï</string>
+    <string name="key_ad08_main">i</string>
+    <string name="key_ad08_shift">I</string>
+    <string name="key_ad09_alt">ôõ</string>
+    <string name="key_ad09_main">o</string>
+    <string name="key_ad09_shift">O</string>
+    <string name="key_ad10_alt"/>
+    <string name="key_ad10_main">p</string>
+    <string name="key_ad10_shift">P</string>
+    <string name="key_ad11_alt"/>
+    <string name="key_ad11_main">å</string>
+    <string name="key_ad11_shift">Å</string>
+    <string name="key_ad12_alt">¨~</string>
+    <string name="key_ad12_main">¨</string>
+    <string name="key_ad12_shift">^</string>
+    <string name="key_ae01_alt">1º¢¥¡¹</string>
+    <string name="key_ae01_main">1</string>
+    <string name="key_ae01_shift">!</string>
+    <string name="key_ae02_alt">2\@²</string>
+    <string name="key_ae02_main">2</string>
+    <string name="key_ae02_shift">\"</string>
+    <string name="key_ae03_alt">3£³</string>
+    <string name="key_ae03_main">3</string>
+    <string name="key_ae03_shift">#</string>
+    <string name="key_ae04_alt">4$</string>
+    <string name="key_ae04_main">4</string>
+    <string name="key_ae04_shift">¤</string>
+    <string name="key_ae05_alt">5</string>
+    <string name="key_ae05_main">5</string>
+    <string name="key_ae05_shift">%</string>
+    <string name="key_ae06_alt"/>
+    <string name="key_ae06_main">6</string>
+    <string name="key_ae06_shift">&amp;</string>
+    <string name="key_ae07_alt">7{</string>
+    <string name="key_ae07_main">7</string>
+    <string name="key_ae07_shift">/</string>
+    <string name="key_ae08_alt">8[</string>
+    <string name="key_ae08_main">8</string>
+    <string name="key_ae08_shift">(</string>
+    <string name="key_ae09_alt">9]</string>
+    <string name="key_ae09_main">9</string>
+    <string name="key_ae09_shift">)</string>
+    <string name="key_ae10_alt">0}</string>
+    <string name="key_ae10_main">0</string>
+    <string name="key_ae10_shift">=</string>
+    <string name="key_ae11_alt">+\\¿±</string>
+    <string name="key_ae11_main">+</string>
+    <string name="key_ae11_shift">\?</string>
+    <string name="key_ae12_alt"/>
+    <string name="key_ae12_main">´</string>
+    <string name="key_ae12_shift">`</string>
+    <string name="key_bksl_alt">>|«»</string>
+    <string name="key_bksl_main">></string>
+    <string name="key_bksl_shift">&lt;</string>
+    <string name="key_lsgt_alt"/>
+    <string name="key_lsgt_main">\'</string>
+    <string name="key_lsgt_shift">*</string>
+    <string name="key_tlde_alt">½¼¾</string>
+    <string name="key_tlde_main">§</string>
+    <string name="key_tlde_shift">½</string>
+    <string msgid="437433231038683666" name="keyboard_layout">"Tangentbordstema"</string>
+    <string msgid="4585753477617374032" name="keyboard_settings"><font size="17"><b>"Tangentbordsinställningar"\n</b></font><font size="3">\n</font>"Tryck länge på tangenten"<b>"?123"</b>"."</string>
+    <string msgid="8864943487292437456" name="label_alpha_key">"ABC"</string>
+    <string msgid="2846315350346694811" name="label_alt_key">"ALT"</string>
+    <string msgid="2441578748772529288" name="label_done_key">"Färdig"</string>
+    <string msgid="1635148082137219148" name="label_go_key">"Kör"</string>
+    <string msgid="362972844525672568" name="label_next_key">"Nästa"</string>
+    <string msgid="4275497665515080551" name="label_phone_key">"123"</string>
+    <string msgid="2815056534433717444" name="label_send_key">"Skicka"</string>
+    <string msgid="6175820506864489453" name="label_symbol_key">"?123"</string>
+    <string msgid="187110938289512256" name="language_selection_summary">"Dra med fingret på blanksteg om du vill ändra språk"</string>
+    <string msgid="1651299598555326750" name="language_selection_title">"Inmatningsspråk"</string>
+    <string msgid="7898366843681727667" name="ok">"OK"</string>
+    <string msgid="2215920976029260466" name="open_the_keyboard"><font size="17"><b>"Öppna tangentbordet"\n</b></font><font size="3">\n</font>"Tryck på ett textfält."</string>
+    <string msgid="3745279225122472969" name="popular_domain_0">".com"</string>
+    <string msgid="1370572248164278467" name="popular_domain_1">".net"</string>
+    <string msgid="3036812463748402878" name="popular_domain_2">".org"</string>
+    <string msgid="8718639560809452028" name="popular_domain_3">".gov"</string>
+    <string msgid="35359437471311470" name="popular_domain_4">".edu"</string>
+    <string msgid="123894815723512944" name="popup_on_keypress">"Popup vid knapptryck"</string>
+    <string msgid="466220283138359837" name="prediction">"Ordförslag"</string>
+    <string msgid="7027100625580696660" name="prediction_category">"Inställningar för ordförslag"</string>
+    <string msgid="4874601565593216183" name="prediction_landscape">"Gör textfältet större"</string>
+    <string msgid="6736551095997839472" name="prediction_landscape_summary">"Dölj ordförslag i liggande vy"</string>
+    <string msgid="459788228830873110" name="prediction_summary">"Aktivera Komplettera automatiskt när du skriver"</string>
+    <string msgid="5827825607258246003" name="prefs_description_log">"Du kan hjälpa till att förbättra inmatningsmetoden genom att automatiskt skicka användningsstatistik och felrapporter till Google."</string>
+    <string msgid="6620424505072963557" name="prefs_enable_log">"Aktivera synpunkter från användare"</string>
+    <string msgid="4588408906649533582" name="prefs_enable_recorrection">"Tryck om du vill korrigera ord"</string>
+    <string msgid="1056068922330206170" name="prefs_enable_recorrection_summary">"Tryck på skrivna ord om du vill korrigera dem"</string>
+    <string msgid="4623341240804046498" name="prefs_settings_key">"Visa inställningsknapp"</string>
+    <string msgid="5353213327680897927" name="quick_fixes">"Snabba lösningar"</string>
+    <string msgid="3405028402510332373" name="quick_fixes_summary">"Åtgärdar automatiskt vanliga misstag"</string>
+    <string msgid="315076553378705821" name="selectInputMethod">"Välj inmatningsmetod"</string>
+    <string msgid="7833948046716923994" name="settings_key_mode_always_hide_name">"Dölj alltid"</string>
+    <string msgid="3047567041784760575" name="settings_key_mode_always_show_name">"Visa alltid"</string>
+    <string msgid="2993460277873684680" name="settings_key_mode_auto_name">"Automatiskt"</string>
+    <string msgid="507074425254289133" name="show_suggestions">"Visa förslag"</string>
+    <string msgid="1989672863935759654" name="show_suggestions_summary">"Visar ordförslag när du skriver"</string>
+    <string msgid="6093592297198243644" name="sound_on_keypress">"Knappljud"</string>
+    <string msgid="2242090416595003881" name="subtype_mode_keyboard">"tangentbord"</string>
+    <string msgid="4394113125441627771" name="subtype_mode_voice">"röst"</string>
+    <string msgid="6344098517525531652" name="tip_access_symbols">"För siffror och symboler"</string>
+    <string msgid="1487293888469227817" name="tip_add_to_dictionary">"Tryck och håll ned ordet längst till vänster om du vill lägga till det i ordlistan"</string>
+    <string msgid="7585579046862204381" name="tip_dismiss">"Tryck på Tillbaka ↶ om du vill stänga tangentbordet"</string>
+    <string msgid="6101270866284343344" name="tip_long_press">"Håll nere en tangent om du vill visa accenter (ø, ö, etc.)"</string>
+    <string msgid="5227724217206927185" name="tip_to_close_symbols"><b>"Återvänd till bokstäver genom att trycka på tangenten en gång till"</b></string>
+    <string msgid="8402961128983196128" name="tip_to_launch_settings"><b>"Tryck och håll ned tangenten om du vill ändra inställningarna för tangentbordet, till exempel Komplettera automatiskt"</b></string>
+    <string msgid="6821200275486950452" name="tip_to_open_keyboard"><b>"Tangentbordet öppnas när du trycker på ett textfält"</b></string>
+    <string msgid="7345139325622444880" name="tip_to_open_symbols"><b>"Växla till siffror och symboler med den här tangenten"</b></string>
+    <string msgid="7213843601369174313" name="tip_to_start_typing"><b>"Testa!"</b></string>
+    <string msgid="5433158573693308501" name="tip_to_view_accents"><b>"Tryck och håll nere en tangent om du vill visa accenter"\n"(ø, ö, ô, ó och så vidare)"</b></string>
+    <string msgid="6154166367273010534" name="touch_and_hold"><font size="17"><b>"Tryck länge på en tangent om du vill se alternativ"\n</b></font><font size="3">\n</font>"Använda skiljetecken och accenter."</string>
+    <string msgid="7869803257948414531" name="touch_to_continue">"Tryck på tipset för att fortsätta »"</string>
+    <string msgid="7990196086480585789" name="touch_to_finish">"Tryck här om du vill stänga tipset och börja skriva!"</string>
+    <string msgid="5258079494276955460" name="vibrate_on_keypress">"Vibrera vid tangenttryck"</string>
+    <string msgid="5072707727016414454" name="voice_audio_error">"Ljudproblem"</string>
+    <string msgid="5140896300312186162" name="voice_error">"Fel. Försök igen."</string>
+    <string msgid="6892342981545727994" name="voice_hint_dialog_message">"Om du vill använda röstinmatning trycker du på mikrofonknappen eller drar fingret över tangentbordet på skärmen."</string>
+    <string msgid="661962047129906646" name="voice_initializing"/>
+    <string msgid="2466640768843347841" name="voice_input">"Röstindata"</string>
+    <string msgid="467518160751321844" name="voice_listening">"Tala nu"</string>
+    <string msgid="6649556447401862563" name="voice_network_error">"Det gick inte att ansluta"</string>
+    <string msgid="4285117547030179174" name="voice_no_match">"Inga träffar hittades"</string>
+    <string msgid="5552450909753842415" name="voice_not_installed">"Voice Search är inte installerat"</string>
+    <string msgid="1611389463237317754" name="voice_punctuation_hint"><b>"Tips!"</b>" Nästa gång testar du att säga skiljetecknen, som \"punkt\", \"komma\" eller \"frågetecken\"."</string>
+    <string msgid="7807129913977261644" name="voice_server_error">"Serverfel"</string>
+    <string msgid="8461817525075498795" name="voice_speech_timeout">"Hörde inget tal"</string>
+    <string msgid="6943546180310682021" name="voice_swipe_hint"><b>"Tips!"</b>" Dra över tangentbordet om du vill tala"</string>
+    <string msgid="5746973620134227376" name="voice_too_much_speech">"Fel, för mycket tal."</string>
+    <string msgid="5652369578498701761" name="voice_warning_how_to_turn_off">"Om du vill stänga av röstindata öppnar du inställningarna för tangentbordet."</string>
+    <string msgid="637923019716442333" name="voice_warning_locale_not_supported">"Röstindata stöds inte på ditt språk än, men tjänsten fungerar på engelska."</string>
+    <string msgid="4611518823070986445" name="voice_warning_may_not_understand">"Röstinmatning är en funktion på experimentstadiet som använder Googles nätverks taligenkänning."</string>
+    <string msgid="4419354150908395008" name="voice_warning_title">"Röstindata"</string>
+    <string msgid="6666937792815731889" name="voice_working">"Fungerar"</string>
+</resources>

@@ -1,0 +1,29 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 24
+    buildToolsVersion "24.0.2"
+
+    defaultConfig {
+        applicationId "org.pocketworkstation.pckeyboard"
+        minSdkVersion 11
+        targetSdkVersion 24
+        versionCode 1038002
+        versionName "v1.38.2"
+        
+        ndk {
+            moduleName "libjni_pckeyboard"
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile files('libs/voiceimeutils.jar')
+}
