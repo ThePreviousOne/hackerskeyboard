@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/values-xlarge-land-v4/values-xlarge-land-v4.xml",
+        "outputFile": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-land-v4\\values-xlarge-land-v4.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,126 @@
                     "endOffset": 93
                 },
                 "from": {
-                    "file": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/values-xlarge-land/dimens.xml",
+                    "file": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\values-xlarge-land\\dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 774,
+                        "endColumn": 42,
+                        "endOffset": 812
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 98,
+                    "endColumn": 51,
+                    "endOffset": 145
+                },
+                "from": {
+                    "file": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\values-xlarge-land\\dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 818,
+                        "endColumn": 51,
+                        "endOffset": 865
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 150,
+                    "endColumn": 51,
+                    "endOffset": 197
+                },
+                "from": {
+                    "file": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\values-xlarge-land\\dimens.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1024,
+                        "endColumn": 51,
+                        "endOffset": 1071
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 202,
+                    "endColumn": 46,
+                    "endOffset": 244
+                },
+                "from": {
+                    "file": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\values-xlarge-land\\dimens.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 972,
+                        "endColumn": 46,
+                        "endOffset": 1014
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 249,
+                    "endColumn": 49,
+                    "endOffset": 294
+                },
+                "from": {
+                    "file": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\values-xlarge-land\\dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 871,
+                        "endColumn": 49,
+                        "endOffset": 916
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 299,
+                    "endColumn": 48,
+                    "endOffset": 343
+                },
+                "from": {
+                    "file": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\values-xlarge-land\\dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 922,
+                        "endColumn": 48,
+                        "endOffset": 966
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\values-xlarge-land-v4\\values-xlarge-land-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 42,
+                    "endOffset": 93
+                },
+                "from": {
+                    "file": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\values-xlarge-land\\dimens.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -30,7 +149,7 @@
                     "endOffset": 145
                 },
                 "from": {
-                    "file": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/values-xlarge-land/dimens.xml",
+                    "file": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\values-xlarge-land\\dimens.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -49,7 +168,7 @@
                     "endOffset": 197
                 },
                 "from": {
-                    "file": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/values-xlarge-land/dimens.xml",
+                    "file": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\values-xlarge-land\\dimens.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -68,7 +187,7 @@
                     "endOffset": 244
                 },
                 "from": {
-                    "file": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/values-xlarge-land/dimens.xml",
+                    "file": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\values-xlarge-land\\dimens.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -87,7 +206,7 @@
                     "endOffset": 294
                 },
                 "from": {
-                    "file": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/values-xlarge-land/dimens.xml",
+                    "file": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\values-xlarge-land\\dimens.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -106,7 +225,7 @@
                     "endOffset": 343
                 },
                 "from": {
-                    "file": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/values-xlarge-land/dimens.xml",
+                    "file": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\values-xlarge-land\\dimens.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,

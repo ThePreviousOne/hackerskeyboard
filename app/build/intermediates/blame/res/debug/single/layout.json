@@ -1,74 +1,146 @@
 [
     {
-        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/layout/input_trans.xml",
-        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/layout/input_trans.xml"
+        "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\input_ics.xml",
+        "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\layout\\input_ics.xml"
     },
     {
-        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/layout/bubble_text.xml",
-        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/layout/bubble_text.xml"
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\input_stone_bold.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\layout\\input_stone_bold.xml"
     },
     {
-        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/layout/main.xml",
-        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/layout/main.xml"
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\input_ics.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\layout\\input_ics.xml"
     },
     {
-        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/layout/null_layout.xml",
-        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/layout/null_layout.xml"
+        "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\voice_swipe_hint.xml",
+        "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\layout\\voice_swipe_hint.xml"
     },
     {
-        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/layout/voice_swipe_hint.xml",
-        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/layout/voice_swipe_hint.xml"
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bubble_text.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\layout\\bubble_text.xml"
     },
     {
-        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/layout/input_stone_normal.xml",
-        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/layout/input_stone_normal.xml"
+        "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\key_preview.xml",
+        "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\layout\\key_preview.xml"
     },
     {
-        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/layout/seek_bar_dialog.xml",
-        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/layout/seek_bar_dialog.xml"
+        "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\candidate_preview.xml",
+        "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\layout\\candidate_preview.xml"
     },
     {
-        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/layout/input_stone_bold.xml",
-        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/layout/input_stone_bold.xml"
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\null_layout.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\layout\\null_layout.xml"
     },
     {
-        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/layout/voice_punctuation_hint.xml",
-        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/layout/voice_punctuation_hint.xml"
+        "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\input_stone_popup.xml",
+        "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\layout\\input_stone_popup.xml"
     },
     {
-        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/layout/input_gingerbread.xml",
-        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/layout/input_gingerbread.xml"
+        "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\null_layout.xml",
+        "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\layout\\null_layout.xml"
     },
     {
-        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/layout/recognition_status.xml",
-        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/layout/recognition_status.xml"
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\keyboard_popup.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\layout\\keyboard_popup.xml"
     },
     {
-        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/layout/key_preview.xml",
-        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/layout/key_preview.xml"
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\key_preview.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\layout\\key_preview.xml"
     },
     {
-        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/layout/input_ics.xml",
-        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/layout/input_ics.xml"
+        "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bubble_text.xml",
+        "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\layout\\bubble_text.xml"
     },
     {
-        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/layout/input_trans_neon.xml",
-        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/layout/input_trans_neon.xml"
+        "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\candidates.xml",
+        "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\layout\\candidates.xml"
     },
     {
-        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/layout/candidates.xml",
-        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/layout/candidates.xml"
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\candidates.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\layout\\candidates.xml"
     },
     {
-        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/layout/keyboard_popup.xml",
-        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/layout/keyboard_popup.xml"
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\input_trans_neon.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\layout\\input_trans_neon.xml"
     },
     {
-        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/layout/input_stone_popup.xml",
-        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/layout/input_stone_popup.xml"
+        "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\keyboard_popup.xml",
+        "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\layout\\keyboard_popup.xml"
     },
     {
-        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/layout/candidate_preview.xml",
-        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/layout/candidate_preview.xml"
+        "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recognition_status.xml",
+        "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\layout\\recognition_status.xml"
+    },
+    {
+        "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\input_gingerbread.xml",
+        "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\layout\\input_gingerbread.xml"
+    },
+    {
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recognition_status.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\layout\\recognition_status.xml"
+    },
+    {
+        "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\seek_bar_dialog.xml",
+        "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\layout\\seek_bar_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\input_stone_popup.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\layout\\input_stone_popup.xml"
+    },
+    {
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\input_gingerbread.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\layout\\input_gingerbread.xml"
+    },
+    {
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\seek_bar_dialog.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\layout\\seek_bar_dialog.xml"
+    },
+    {
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\voice_swipe_hint.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\layout\\voice_swipe_hint.xml"
+    },
+    {
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\input_trans.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\layout\\input_trans.xml"
+    },
+    {
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\candidate_preview.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\layout\\candidate_preview.xml"
+    },
+    {
+        "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\input_trans.xml",
+        "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\layout\\input_trans.xml"
+    },
+    {
+        "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\input_stone_bold.xml",
+        "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\layout\\input_stone_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\input_trans_neon.xml",
+        "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\layout\\input_trans_neon.xml"
+    },
+    {
+        "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\input_stone_normal.xml",
+        "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\layout\\input_stone_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\voice_punctuation_hint.xml",
+        "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\layout\\voice_punctuation_hint.xml"
+    },
+    {
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\input_stone_normal.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\layout\\input_stone_normal.xml"
+    },
+    {
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\voice_punctuation_hint.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\layout\\voice_punctuation_hint.xml"
+    },
+    {
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\layout\\main.xml"
     }
 ]

@@ -1,14 +1,26 @@
 [
     {
-        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/xml-en/kbd_qwerty.xml",
-        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/xml-en/kbd_qwerty.xml"
+        "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml-en\\kbd_extension.xml",
+        "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\xml-en\\kbd_extension.xml"
     },
     {
-        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/xml-en/kbd_extension.xml",
-        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/xml-en/kbd_extension.xml"
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml-en\\kbd_extension.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml-en\\kbd_extension.xml"
     },
     {
-        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/xml-en/kbd_symbols.xml",
-        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/xml-en/kbd_symbols.xml"
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml-en\\kbd_qwerty.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml-en\\kbd_qwerty.xml"
+    },
+    {
+        "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml-en\\kbd_symbols.xml",
+        "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\xml-en\\kbd_symbols.xml"
+    },
+    {
+        "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml-en\\kbd_qwerty.xml",
+        "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\xml-en\\kbd_qwerty.xml"
+    },
+    {
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml-en\\kbd_symbols.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml-en\\kbd_symbols.xml"
     }
 ]

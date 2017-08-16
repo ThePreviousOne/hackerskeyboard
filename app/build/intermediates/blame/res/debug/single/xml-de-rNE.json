@@ -1,10 +1,18 @@
 [
     {
-        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/xml-de-rNE/kbd_qwerty.xml",
-        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/xml-de-rNE/kbd_qwerty.xml"
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml-de-rNE\\kbd_full.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml-de-rNE\\kbd_full.xml"
     },
     {
-        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/xml-de-rNE/kbd_full.xml",
-        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/xml-de-rNE/kbd_full.xml"
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml-de-rNE\\kbd_qwerty.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml-de-rNE\\kbd_qwerty.xml"
+    },
+    {
+        "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml-de-rNE\\kbd_qwerty.xml",
+        "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\xml-de-rNE\\kbd_qwerty.xml"
+    },
+    {
+        "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml-de-rNE\\kbd_full.xml",
+        "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\xml-de-rNE\\kbd_full.xml"
     }
 ]

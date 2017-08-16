@@ -1,171 +1,171 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:1:1-84:12
+ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:1:1-84:12
 	package
-		ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:2:9-51
-		INJECTED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml
-		INJECTED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml
+		ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:2:9-51
+		INJECTED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml
-		INJECTED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:1:11-69
 	android:versionCode
-		INJECTED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml
-		INJECTED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.VIBRATE
-ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:4:5-65
+ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:4:5-65
 	android:name
-		ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:4:22-63
+		ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:4:22-63
 uses-permission#android.permission.READ_USER_DICTIONARY
-ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:5:5-79
+ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:5:5-79
 	android:name
-		ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:5:22-76
+		ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:5:22-76
 uses-permission#android.permission.WRITE_USER_DICTIONARY
-ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:6:5-80
+ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:6:5-80
 	android:name
-		ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:6:22-77
+		ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:6:22-77
 uses-feature#android.hardware.microphone
-ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:7:5-89
+ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:7:5-89
 	android:required
-		ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:7:62-86
+		ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:7:62-86
 	android:name
-		ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:7:19-61
+		ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:7:19-61
 uses-feature#android.hardware.faketouch
-ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:8:5-88
+ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:8:5-88
 	android:required
-		ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:8:61-85
+		ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:8:61-85
 	android:name
-		ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:8:19-60
+		ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:8:19-60
 uses-feature#android.hardware.touchscreen
-ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:9:5-90
+ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:9:5-90
 	android:required
-		ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:9:63-87
+		ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:9:63-87
 	android:name
-		ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:9:19-62
+		ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:9:19-62
 application
-ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:12:5-83:15
+ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:12:5-83:15
 	android:backupAgent
-		ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:14:13-54
+		ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:14:13-54
 	android:label
-		ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:12:18-58
+		ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:12:18-58
 	android:hardwareAccelerated
-		ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:16:13-48
+		ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:16:13-48
 	android:killAfterRestore
-		ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:17:13-45
+		ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:17:13-45
 	android:allowBackup
-		ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:13:13-39
+		ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:13:13-39
 	android:icon
-		ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:18:13-42
+		ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:18:13-42
 	android:restoreAnyVersion
-		ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:15:13-45
+		ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:15:13-45
 service#org.pocketworkstation.pckeyboard.LatinIME
-ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:20:9-27:19
+ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:20:9-27:19
 	android:label
-		ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:21:17-57
+		ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:21:17-57
 	android:permission
-		ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:22:17-74
+		ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:22:17-74
 	android:name
-		ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:20:18-41
+		ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:20:18-41
 intent-filter#android.view.InputMethod
-ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:23:13-25:29
+ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:23:13-25:29
 action#android.view.InputMethod
-ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:24:17-67
+ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:24:17-67
 	android:name
-		ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:24:25-64
+		ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:24:25-64
 meta-data#android.view.im
-ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:26:13-88
+ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:26:13-88
 	android:resource
-		ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:26:55-85
+		ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:26:55-85
 	android:name
-		ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:26:24-54
+		ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:26:24-54
 activity#org.pocketworkstation.pckeyboard.Main
-ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:29:9-34:20
+ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:29:9-34:20
 	android:label
-		ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:29:39-61
+		ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:29:39-61
 	android:name
-		ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:29:19-38
+		ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:29:19-38
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:30:13-33:29
+ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:30:13-33:29
 action#android.intent.action.MAIN
-ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:31:17-68
+ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:31:17-68
 	android:name
-		ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:31:25-66
+		ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:31:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:32:17-76
+ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:32:17-76
 	android:name
-		ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:32:27-74
+		ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:32:27-74
 activity#org.pocketworkstation.pckeyboard.LatinIMESettings
-ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:36:9-40:20
+ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:36:9-40:20
 	android:label
-		ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:36:51-95
+		ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:36:51-95
 	android:name
-		ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:36:19-50
+		ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:36:19-50
 intent-filter#android.intent.action.MAIN
-ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:37:13-39:29
+ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:37:13-39:29
 activity#org.pocketworkstation.pckeyboard.LatinIMEDebugSettings
-ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:42:9-46:20
+ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:42:9-46:20
 	android:label
-		ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:42:56-106
+		ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:42:56-106
 	android:name
-		ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:42:19-55
+		ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:42:19-55
 activity#org.pocketworkstation.pckeyboard.InputLanguageSelection
-ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:48:9-55:20
+ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:48:9-55:20
 	android:label
-		ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:49:17-65
+		ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:49:17-65
 	android:name
-		ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:48:19-56
+		ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:48:19-56
 intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+org.pocketworkstation.pckeyboard.INPUT_LANGUAGE_SELECTION
-ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:50:13-54:29
+ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:50:13-54:29
 action#org.pocketworkstation.pckeyboard.INPUT_LANGUAGE_SELECTION
-ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:52:17-99
+ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:52:17-99
 	android:name
-		ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:52:25-97
+		ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:52:25-97
 category#android.intent.category.DEFAULT
-ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:53:17-76
+ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:53:17-76
 	android:name
-		ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:53:27-73
+		ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:53:27-73
 activity#org.pocketworkstation.pckeyboard.PrefScreenActions
-ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:57:9-64:20
+ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:57:9-64:20
 	android:label
-		ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:58:17-66
+		ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:58:17-66
 	android:name
-		ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:57:19-51
+		ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:57:19-51
 intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+org.pocketworkstation.pckeyboard.PREFS_ACTIONS
-ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:59:13-63:29
+ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:59:13-63:29
 action#org.pocketworkstation.pckeyboard.PREFS_ACTIONS
-ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:61:17-88
+ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:61:17-88
 	android:name
-		ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:61:25-86
+		ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:61:25-86
 activity#org.pocketworkstation.pckeyboard.PrefScreenView
-ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:66:9-73:20
+ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:66:9-73:20
 	android:label
-		ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:67:17-66
+		ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:67:17-66
 	android:name
-		ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:66:19-48
+		ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:66:19-48
 intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+org.pocketworkstation.pckeyboard.PREFS_VIEW
-ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:68:13-72:29
+ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:68:13-72:29
 action#org.pocketworkstation.pckeyboard.PREFS_VIEW
-ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:70:17-85
+ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:70:17-85
 	android:name
-		ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:70:25-83
+		ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:70:25-83
 activity#org.pocketworkstation.pckeyboard.PrefScreenFeedback
-ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:75:9-82:20
+ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:75:9-82:20
 	android:label
-		ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:76:17-67
+		ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:76:17-67
 	android:name
-		ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:75:19-52
+		ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:75:19-52
 intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+org.pocketworkstation.pckeyboard.PREFS_FEEDBACK
-ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:77:13-81:29
+ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:77:13-81:29
 action#org.pocketworkstation.pckeyboard.PREFS_FEEDBACK
-ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:79:17-89
+ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:79:17-89
 	android:name
-		ADDED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml:79:25-87
+		ADDED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml:79:25-87
 uses-sdk
-INJECTED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 	android:targetSdkVersion
-		INJECTED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml
-		INJECTED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml
-		INJECTED from /home/uzuki/Projects/hackerskeyboard/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\spff\hakerskeyboard\hackerskeyboard\app\src\main\AndroidManifest.xml
