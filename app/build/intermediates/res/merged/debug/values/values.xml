@@ -207,9 +207,26 @@
     <color name="latinkeyboard_key_color_white">#FFFFFFFF</color>
     <color name="latinkeyboard_transparent">#00000000</color>
     <declare-styleable name="Keyboard"><attr format="dimension|fraction" name="keyWidth"/><attr format="dimension|fraction" name="keyHeight"/><attr format="dimension|fraction" name="horizontalGap"/><attr format="dimension|fraction" name="verticalGap"/><attr format="dimension|fraction" name="horizontalPad"/><attr format="dimension|fraction" name="verticalPad"/><attr format="integer" name="layoutRows"/><attr format="integer" name="layoutColumns"/></declare-styleable>
-    <declare-styleable name="Keyboard_Key"><attr format="integer|string" name="codes"/><attr format="reference" name="popupKeyboard"/><attr format="string" name="popupCharacters"/><attr name="keyEdgeFlags"><flag name="left" value="1"/><flag name="right" value="2"/></attr><attr format="boolean" name="isModifier"/><attr format="boolean" name="isSticky"/><attr format="boolean" name="isCursor"/><attr format="boolean" name="isRepeatable"/><attr format="reference" name="iconPreview"/><attr format="string" name="keyOutputText"/><attr format="string" name="keyLabel"/><attr format="string" name="shiftLabel"/><attr format="string" name="capsLabel"/><attr format="reference" name="keyIcon"/><attr name="keyboardMode"/></declare-styleable>
-    <declare-styleable name="Keyboard_Row"><attr name="rowEdgeFlags"><flag name="top" value="4"/><flag name="bottom" value="8"/></attr><attr format="reference" name="keyboardMode"/><attr format="boolean" name="extension"/></declare-styleable>
-    <declare-styleable name="LatinKeyboardBaseView"><attr format="reference" name="keyboardViewStyle"/><attr format="reference" name="keyBackground"/><attr format="dimension" name="keyTextSize"/><attr format="dimension" name="labelTextSize"/><attr format="color" name="keyTextColor"/><attr format="color" name="keyHintColor"/><attr format="color" name="keyCursorColor"/><attr format="boolean" name="recolorSymbols"/><attr format="integer" name="backgroundAlpha"/><attr format="reference" name="keyPreviewLayout"/><attr format="dimension" name="keyPreviewOffset"/><attr format="dimension" name="keyPreviewHeight"/><attr format="dimension" name="keyHysteresisDistance"/><attr format="dimension" name="verticalCorrection"/><attr format="reference" name="popupLayout"/><attr format="color" name="shadowColor"/><attr format="float" name="shadowRadius"/><attr format="float" name="backgroundDimAmount"/><attr name="keyTextStyle"><flag name="normal" value="0"/><flag name="bold" value="1"/><flag name="italic" value="2"/></attr><attr name="symbolColorScheme"><flag name="white" value="0"/><flag name="black" value="1"/></attr></declare-styleable>
+    <declare-styleable name="Keyboard_Key"><attr format="integer|string" name="codes"/><attr format="reference" name="popupKeyboard"/><attr format="string" name="popupCharacters"/><attr name="keyEdgeFlags">
+            
+            <flag name="left" value="1"/>
+            
+            <flag name="right" value="2"/>
+        </attr><attr format="boolean" name="isModifier"/><attr format="boolean" name="isSticky"/><attr format="boolean" name="isCursor"/><attr format="boolean" name="isRepeatable"/><attr format="reference" name="iconPreview"/><attr format="string" name="keyOutputText"/><attr format="string" name="keyLabel"/><attr format="string" name="shiftLabel"/><attr format="string" name="capsLabel"/><attr format="reference" name="keyIcon"/><attr name="keyboardMode"/></declare-styleable>
+    <declare-styleable name="Keyboard_Row"><attr name="rowEdgeFlags">
+            
+            <flag name="top" value="4"/>
+            
+            <flag name="bottom" value="8"/>
+        </attr><attr format="reference" name="keyboardMode"/><attr format="boolean" name="extension"/></declare-styleable>
+    <declare-styleable name="LatinKeyboardBaseView"><attr format="reference" name="keyboardViewStyle"/><attr format="reference" name="keyBackground"/><attr format="dimension" name="keyTextSize"/><attr format="dimension" name="labelTextSize"/><attr format="color" name="keyTextColor"/><attr format="color" name="keyHintColor"/><attr format="color" name="keyCursorColor"/><attr format="boolean" name="recolorSymbols"/><attr format="integer" name="backgroundAlpha"/><attr format="reference" name="keyPreviewLayout"/><attr format="dimension" name="keyPreviewOffset"/><attr format="dimension" name="keyPreviewHeight"/><attr format="dimension" name="keyHysteresisDistance"/><attr format="dimension" name="verticalCorrection"/><attr format="reference" name="popupLayout"/><attr format="color" name="shadowColor"/><attr format="float" name="shadowRadius"/><attr format="float" name="backgroundDimAmount"/><attr name="keyTextStyle">
+            <flag name="normal" value="0"/>
+            <flag name="bold" value="1"/>
+            <flag name="italic" value="2"/>
+        </attr><attr name="symbolColorScheme">
+            <flag name="white" value="0"/>
+            <flag name="black" value="1"/>
+        </attr></declare-styleable>
     <declare-styleable name="SeekBarPreference"><attr format="float" name="minValue"/><attr format="float" name="maxValue"/><attr format="boolean" name="asPercent"/><attr format="float" name="step"/><attr format="boolean" name="logScale"/><attr format="string" name="displayFormat"/></declare-styleable>
     <dimen name="bubble_pointer_offset">22dip</dimen>
     <dimen name="candidate_min_touchable_width">0.3in</dimen>

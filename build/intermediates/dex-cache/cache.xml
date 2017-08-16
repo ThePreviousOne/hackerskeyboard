@@ -2,11 +2,31 @@
 <items version="2" >
 
     <item
-        jar="/home/uzuki/Projects/hackerskeyboard/app/libs/voiceimeutils.jar"
-        jumboMode="false"
-        revision="24.0.2"
+        is-multidex="true"
+        jar="C:\Users\spff\hakerskeyboard\hackerskeyboard\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\spff\hakerskeyboard\hackerskeyboard\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d3081a47839ff6e76fcc83617e6f2335f93ccba1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\spff\hakerskeyboard\hackerskeyboard\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ece2a4b7806d2e842f25297b58878b3b576148bb">
+        <dex dex="C:\Users\spff\hakerskeyboard\hackerskeyboard\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1f00dd2ba41c51ddb6d156c7cd7f7c22bb10c2f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\spff\hakerskeyboard\hackerskeyboard\app\libs\voiceimeutils.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
         sha1="e95d4562c3efa28b3bcc1b0e94bdadcafa72c3fd">
-        <dex dex="/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/pre-dexed/debug/voiceimeutils_edca56a652eb9cf0c08567636b1001019368fb75.jar" />
+        <dex dex="C:\Users\spff\hakerskeyboard\hackerskeyboard\app\build\intermediates\transforms\dex\debug\folders\1000\2\voiceimeutils_d6763a157103df1c4387c7988cdcd79bcbf1326a\classes.dex" />
     </item>
 
 </items>

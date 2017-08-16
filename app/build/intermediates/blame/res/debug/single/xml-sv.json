@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/home/uzuki/Projects/hackerskeyboard/app/build/intermediates/res/merged/debug/xml-sv/kbd_qwerty.xml",
-        "source": "/home/uzuki/Projects/hackerskeyboard/app/src/main/res/xml-sv/kbd_qwerty.xml"
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml-sv\\kbd_qwerty.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml-sv\\kbd_qwerty.xml"
+    },
+    {
+        "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml-sv\\kbd_qwerty.xml",
+        "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\xml-sv\\kbd_qwerty.xml"
     }
 ]
