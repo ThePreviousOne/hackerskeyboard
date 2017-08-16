@@ -10,773 +10,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ed2ac1c-b2cd-4f25-8cdb-bb725c74c060" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values-en-rPD/donottranslate-altchars.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values-en-rPD/donottranslate-keymap.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/arm64-v8a/objs/jni_pckeyboard/home/uzuki/Projects/hackerskeyboard/app/src/main/jni/jni/org_pocketworkstation_pckeyboard_BinaryDictionary.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/arm64-v8a/objs/jni_pckeyboard/home/uzuki/Projects/hackerskeyboard/app/src/main/jni/jni/org_pocketworkstation_pckeyboard_BinaryDictionary.o.d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/arm64-v8a/objs/jni_pckeyboard/home/uzuki/Projects/hackerskeyboard/app/src/main/jni/src/char_utils.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/arm64-v8a/objs/jni_pckeyboard/home/uzuki/Projects/hackerskeyboard/app/src/main/jni/src/char_utils.o.d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/arm64-v8a/objs/jni_pckeyboard/home/uzuki/Projects/hackerskeyboard/app/src/main/jni/src/dictionary.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/arm64-v8a/objs/jni_pckeyboard/home/uzuki/Projects/hackerskeyboard/app/src/main/jni/src/dictionary.o.d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/armeabi-v7a/objs/jni_pckeyboard/home/uzuki/Projects/hackerskeyboard/app/src/main/jni/jni/org_pocketworkstation_pckeyboard_BinaryDictionary.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/armeabi-v7a/objs/jni_pckeyboard/home/uzuki/Projects/hackerskeyboard/app/src/main/jni/jni/org_pocketworkstation_pckeyboard_BinaryDictionary.o.d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/armeabi-v7a/objs/jni_pckeyboard/home/uzuki/Projects/hackerskeyboard/app/src/main/jni/src/char_utils.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/armeabi-v7a/objs/jni_pckeyboard/home/uzuki/Projects/hackerskeyboard/app/src/main/jni/src/char_utils.o.d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/armeabi-v7a/objs/jni_pckeyboard/home/uzuki/Projects/hackerskeyboard/app/src/main/jni/src/dictionary.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/armeabi-v7a/objs/jni_pckeyboard/home/uzuki/Projects/hackerskeyboard/app/src/main/jni/src/dictionary.o.d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/armeabi/objs/jni_pckeyboard/home/uzuki/Projects/hackerskeyboard/app/src/main/jni/jni/org_pocketworkstation_pckeyboard_BinaryDictionary.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/armeabi/objs/jni_pckeyboard/home/uzuki/Projects/hackerskeyboard/app/src/main/jni/jni/org_pocketworkstation_pckeyboard_BinaryDictionary.o.d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/armeabi/objs/jni_pckeyboard/home/uzuki/Projects/hackerskeyboard/app/src/main/jni/src/char_utils.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/armeabi/objs/jni_pckeyboard/home/uzuki/Projects/hackerskeyboard/app/src/main/jni/src/char_utils.o.d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/armeabi/objs/jni_pckeyboard/home/uzuki/Projects/hackerskeyboard/app/src/main/jni/src/dictionary.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/armeabi/objs/jni_pckeyboard/home/uzuki/Projects/hackerskeyboard/app/src/main/jni/src/dictionary.o.d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/mips/objs/jni_pckeyboard/home/uzuki/Projects/hackerskeyboard/app/src/main/jni/jni/org_pocketworkstation_pckeyboard_BinaryDictionary.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/mips/objs/jni_pckeyboard/home/uzuki/Projects/hackerskeyboard/app/src/main/jni/jni/org_pocketworkstation_pckeyboard_BinaryDictionary.o.d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/mips/objs/jni_pckeyboard/home/uzuki/Projects/hackerskeyboard/app/src/main/jni/src/char_utils.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/mips/objs/jni_pckeyboard/home/uzuki/Projects/hackerskeyboard/app/src/main/jni/src/char_utils.o.d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/mips/objs/jni_pckeyboard/home/uzuki/Projects/hackerskeyboard/app/src/main/jni/src/dictionary.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/mips/objs/jni_pckeyboard/home/uzuki/Projects/hackerskeyboard/app/src/main/jni/src/dictionary.o.d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/mips64/objs/jni_pckeyboard/home/uzuki/Projects/hackerskeyboard/app/src/main/jni/jni/org_pocketworkstation_pckeyboard_BinaryDictionary.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/mips64/objs/jni_pckeyboard/home/uzuki/Projects/hackerskeyboard/app/src/main/jni/jni/org_pocketworkstation_pckeyboard_BinaryDictionary.o.d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/mips64/objs/jni_pckeyboard/home/uzuki/Projects/hackerskeyboard/app/src/main/jni/src/char_utils.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/mips64/objs/jni_pckeyboard/home/uzuki/Projects/hackerskeyboard/app/src/main/jni/src/char_utils.o.d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/mips64/objs/jni_pckeyboard/home/uzuki/Projects/hackerskeyboard/app/src/main/jni/src/dictionary.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/mips64/objs/jni_pckeyboard/home/uzuki/Projects/hackerskeyboard/app/src/main/jni/src/dictionary.o.d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/x86/objs/jni_pckeyboard/home/uzuki/Projects/hackerskeyboard/app/src/main/jni/jni/org_pocketworkstation_pckeyboard_BinaryDictionary.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/x86/objs/jni_pckeyboard/home/uzuki/Projects/hackerskeyboard/app/src/main/jni/jni/org_pocketworkstation_pckeyboard_BinaryDictionary.o.d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/x86/objs/jni_pckeyboard/home/uzuki/Projects/hackerskeyboard/app/src/main/jni/src/char_utils.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/x86/objs/jni_pckeyboard/home/uzuki/Projects/hackerskeyboard/app/src/main/jni/src/char_utils.o.d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/x86/objs/jni_pckeyboard/home/uzuki/Projects/hackerskeyboard/app/src/main/jni/src/dictionary.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/x86/objs/jni_pckeyboard/home/uzuki/Projects/hackerskeyboard/app/src/main/jni/src/dictionary.o.d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/x86_64/objs/jni_pckeyboard/home/uzuki/Projects/hackerskeyboard/app/src/main/jni/jni/org_pocketworkstation_pckeyboard_BinaryDictionary.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/x86_64/objs/jni_pckeyboard/home/uzuki/Projects/hackerskeyboard/app/src/main/jni/jni/org_pocketworkstation_pckeyboard_BinaryDictionary.o.d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/x86_64/objs/jni_pckeyboard/home/uzuki/Projects/hackerskeyboard/app/src/main/jni/src/char_utils.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/x86_64/objs/jni_pckeyboard/home/uzuki/Projects/hackerskeyboard/app/src/main/jni/src/char_utils.o.d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/x86_64/objs/jni_pckeyboard/home/uzuki/Projects/hackerskeyboard/app/src/main/jni/src/dictionary.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/x86_64/objs/jni_pckeyboard/home/uzuki/Projects/hackerskeyboard/app/src/main/jni/src/dictionary.o.d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_dark_active_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_dark_normal.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_dark_normal_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_dark_normal_lock.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_dark_normal_lock_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_dark_normal_off.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_dark_normal_off_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_dark_normal_on.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_dark_normal_on_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_dark_pressed.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_dark_pressed_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_dark_pressed_off.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_dark_pressed_off_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_dark_pressed_on.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_dark_pressed_on_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_light_normal.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_light_normal_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_light_popup_normal.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_light_popup_selected.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_light_pressed.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_light_pressed_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_normal_lock_stone.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_normal_off_stone.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_normal_on_stone.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_normal_stone.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_popup_selected_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_pressed_stone.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cancel.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/candidate_feedback_background.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/caution.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/dialog_bubble_step02.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/dialog_bubble_step07.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/highlight_pressed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/hint_popup.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_dialog_keyboard.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_mic_dialog.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_subtype_keyboard.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_subtype_mic.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_suggest_strip_microphone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_suggest_strip_microphone_swipe.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/keyboard_background.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/keyboard_dark_background.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/keyboard_key_feedback_background.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/keyboard_key_feedback_more_background.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/keyboard_popup_panel_background.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/keyboard_suggest_strip.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/keyboard_suggest_strip_divider.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/list_selector_background_pressed.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/mic_slash.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ok_cancel.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/speak_now_level0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/speak_now_level1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/speak_now_level2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/speak_now_level3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/speak_now_level4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/speak_now_level5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/speak_now_level6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_123_mic.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_delete.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_done.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_feedback_123_mic.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_feedback_delete.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_feedback_done.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_feedback_language_arrows_left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_feedback_language_arrows_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_feedback_mic.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_feedback_numalt.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_feedback_return.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_feedback_search.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_feedback_settings.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_feedback_shift.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_feedback_shift_locked.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_feedback_space.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_feedback_tab.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_language_arrows_left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_language_arrows_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_mic.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_num0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_num1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_num2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_num3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_num4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_num5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_num6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_num7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_num8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_num9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_numalt.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_numpound.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_numstar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_return.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_search.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_settings.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_shift.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_shift_locked.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_space.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_space_led.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_tab.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/voice_ime_background.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/voice_swipe_hint.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/working.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_keyboard_key_dark_active_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_keyboard_key_dark_normal.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_keyboard_key_dark_normal_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_keyboard_key_dark_normal_lock.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_keyboard_key_dark_normal_lock_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_keyboard_key_dark_normal_off.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_keyboard_key_dark_normal_off_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_keyboard_key_dark_normal_on.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_keyboard_key_dark_normal_on_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_keyboard_key_dark_pressed.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_keyboard_key_dark_pressed_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_keyboard_key_dark_pressed_off.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_keyboard_key_dark_pressed_off_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_keyboard_key_dark_pressed_on.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_keyboard_key_dark_pressed_on_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_keyboard_key_light_normal.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_keyboard_key_light_normal_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_keyboard_key_light_popup_normal.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_keyboard_key_light_popup_selected.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_keyboard_key_light_pressed.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_keyboard_key_light_pressed_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_keyboard_key_normal_lock_stone.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_keyboard_key_normal_off_stone.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_keyboard_key_normal_on_stone.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_keyboard_key_normal_stone.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_keyboard_key_popup_selected_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_keyboard_key_pressed_stone.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/cancel.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/candidate_feedback_background.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/caution.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/dialog_bubble_step02.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/dialog_bubble_step07.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/highlight_pressed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/hint_popup.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_dialog_keyboard.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_mic_dialog.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_subtype_keyboard.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_subtype_mic.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_suggest_strip_microphone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_suggest_strip_microphone_swipe.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/keyboard_background.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/keyboard_dark_background.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/keyboard_key_feedback_background.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/keyboard_key_feedback_more_background.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/keyboard_popup_panel_background.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/keyboard_suggest_strip.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/keyboard_suggest_strip_divider.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/list_selector_background_pressed.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/mic_slash.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ok_cancel.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/speak_now_level0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/speak_now_level1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/speak_now_level2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/speak_now_level3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/speak_now_level4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/speak_now_level5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/speak_now_level6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/sym_keyboard_123_mic.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/sym_keyboard_delete.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/sym_keyboard_done.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/sym_keyboard_feedback_123_mic.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/sym_keyboard_feedback_delete.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/sym_keyboard_feedback_done.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/sym_keyboard_feedback_language_arrows_left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/sym_keyboard_feedback_language_arrows_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/sym_keyboard_feedback_mic.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/sym_keyboard_feedback_numalt.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/sym_keyboard_feedback_return.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/sym_keyboard_feedback_search.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/sym_keyboard_feedback_settings.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/sym_keyboard_feedback_shift.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/sym_keyboard_feedback_shift_locked.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/sym_keyboard_feedback_space.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/sym_keyboard_feedback_tab.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/sym_keyboard_language_arrows_left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/sym_keyboard_language_arrows_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/sym_keyboard_mic.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/sym_keyboard_num0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/sym_keyboard_num1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/sym_keyboard_num2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/sym_keyboard_num3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/sym_keyboard_num4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/sym_keyboard_num5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/sym_keyboard_num6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/sym_keyboard_num7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/sym_keyboard_num8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/sym_keyboard_num9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/sym_keyboard_numalt.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/sym_keyboard_numpound.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/sym_keyboard_numstar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/sym_keyboard_return.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/sym_keyboard_search.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/sym_keyboard_settings.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/sym_keyboard_shift.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/sym_keyboard_shift_lock.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/sym_keyboard_shift_locked.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/sym_keyboard_space.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/sym_keyboard_space_led.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/sym_keyboard_tab.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/voice_ime_background.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/voice_swipe_hint.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/working.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/btn_keyboard_key_dark_active_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/btn_keyboard_key_dark_normal_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/btn_keyboard_key_dark_normal_lock_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/btn_keyboard_key_dark_normal_off_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/btn_keyboard_key_dark_normal_on_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/btn_keyboard_key_dark_pressed_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/btn_keyboard_key_dark_pressed_off_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/btn_keyboard_key_dark_pressed_on_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/btn_keyboard_key_light_normal_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/btn_keyboard_key_light_pressed_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/btn_keyboard_key_popup_selected_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/AutoDictionary$DatabaseHelper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/AutoDictionary$UpdateDbTask.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/AutoDictionary.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/AutoSummaryEditTextPreference.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/AutoSummaryListPreference.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/BinaryDictionary.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/CandidateView$CandidateStripGestureListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/CandidateView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/ComposeSequence$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/ComposeSequence.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/ComposeSequencing.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/ContactsDictionary$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/ContactsDictionary.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/DeadAccentSequence.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/Dictionary$DataType.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/Dictionary$WordCallback.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/Dictionary.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/EditingUtil$Range.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/EditingUtil$SelectedWord.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/EditingUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/ExpandableDictionary$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/ExpandableDictionary$LoadDictionaryTask.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/ExpandableDictionary$NextWord.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/ExpandableDictionary$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/ExpandableDictionary$NodeArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/ExpandableDictionary.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$12.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$13.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$14.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$15.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$16.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$17.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$BooleanPref.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$StringPref.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/InputLanguageSelection$Loc.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/InputLanguageSelection.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/KeyDetector.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/Keyboard$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/Keyboard$Key.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/Keyboard$Row.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/Keyboard.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/KeyboardSwitcher$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/KeyboardSwitcher$KeyboardId.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/KeyboardSwitcher.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/LanguageSwitcher.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/LatinIME$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/LatinIME$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/LatinIME$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/LatinIME$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/LatinIME$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/LatinIME$MyInputMethodImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/LatinIME$TypedWordAlternatives.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/LatinIME$WordAlternatives.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/LatinIME.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/LatinIMEBackupAgent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/LatinIMEDebugSettings.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/LatinIMESettings.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/LatinIMEUtil$GCUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/LatinIMEUtil$RingCharBuffer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/LatinIMEUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/LatinImeLogger.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/LatinKeyboard$LatinKey.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/LatinKeyboard$SlidingLocaleDrawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/LatinKeyboard.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/LatinKeyboardBaseView$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/LatinKeyboardBaseView$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/LatinKeyboardBaseView$OnKeyboardActionListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/LatinKeyboardBaseView$PointerQueue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/LatinKeyboardBaseView$UIHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/LatinKeyboardBaseView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/LatinKeyboardView$ExtensionKeyboardListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/LatinKeyboardView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/Main$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/Main$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/Main$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/Main$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/MiniKeyboardKeyDetector.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/ModifierKeyState.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/NotificationReceiver.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/PluginManager$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/PluginManager$DictPluginSpec.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/PluginManager$DictPluginSpecBase.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/PluginManager$DictPluginSpecHK.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/PluginManager$DictPluginSpecSoftKeyboard.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/PluginManager.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/PointerTracker$KeyState.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/PointerTracker$UIProxy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/PointerTracker.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/PrefScreenActions.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/PrefScreenFeedback.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/PrefScreenView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/ProximityKeyDetector.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/R$anim.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/R$array.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/R$bool.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/R$integer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/R$raw.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/R$xml.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/SeekBarPreference$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/SeekBarPreference.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/SeekBarPreferenceString.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/SharedPreferencesCompat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/Suggest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/SwipeTracker$EventRingBuffer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/SwipeTracker.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/TextEntryState$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/TextEntryState$State.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/TextEntryState.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/Tutorial$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/Tutorial$Bubble$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/Tutorial$Bubble.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/Tutorial.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/UserBigramDictionary$Bigram.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/UserBigramDictionary$DatabaseHelper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/UserBigramDictionary$UpdateDbTask.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/UserBigramDictionary.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/UserDictionary$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/UserDictionary$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/UserDictionary.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/VibratePreference.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/org/pocketworkstation/pckeyboard/WordComposer.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/pocketworkstation/pckeyboard/InputLanguageSelection$Loc.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/pocketworkstation/pckeyboard/InputLanguageSelection$Loc.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/pocketworkstation/pckeyboard/InputLanguageSelection.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/pocketworkstation/pckeyboard/InputLanguageSelection.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/pocketworkstation/pckeyboard/InputLanguageSelection$Loc.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/pocketworkstation/pckeyboard/InputLanguageSelection$Loc.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/pocketworkstation/pckeyboard/InputLanguageSelection.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/pocketworkstation/pckeyboard/InputLanguageSelection.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/lib/arm64-v8a/libjni_pckeyboard.so" afterPath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/lib/arm64-v8a/libjni_pckeyboard.so" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/lib/armeabi-v7a/libjni_pckeyboard.so" afterPath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/lib/armeabi-v7a/libjni_pckeyboard.so" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/lib/armeabi/libjni_pckeyboard.so" afterPath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/lib/armeabi/libjni_pckeyboard.so" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/lib/mips/libjni_pckeyboard.so" afterPath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/lib/mips/libjni_pckeyboard.so" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/lib/mips64/libjni_pckeyboard.so" afterPath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/lib/mips64/libjni_pckeyboard.so" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/lib/x86/libjni_pckeyboard.so" afterPath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/lib/x86/libjni_pckeyboard.so" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/lib/x86_64/libjni_pckeyboard.so" afterPath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/lib/x86_64/libjni_pckeyboard.so" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/arm64-v8a/libjni_pckeyboard.so" afterPath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/arm64-v8a/libjni_pckeyboard.so" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/armeabi-v7a/libjni_pckeyboard.so" afterPath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/armeabi-v7a/libjni_pckeyboard.so" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/armeabi/libjni_pckeyboard.so" afterPath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/armeabi/libjni_pckeyboard.so" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/mips/libjni_pckeyboard.so" afterPath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/mips/libjni_pckeyboard.so" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/mips64/libjni_pckeyboard.so" afterPath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/mips64/libjni_pckeyboard.so" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/x86/libjni_pckeyboard.so" afterPath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/x86/libjni_pckeyboard.so" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/x86_64/libjni_pckeyboard.so" afterPath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/x86_64/libjni_pckeyboard.so" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug-androidTest.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/AutoDictionary$DatabaseHelper.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/AutoDictionary$DatabaseHelper.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/AutoDictionary$UpdateDbTask.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/AutoDictionary$UpdateDbTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/AutoDictionary.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/AutoDictionary.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/AutoSummaryEditTextPreference.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/AutoSummaryEditTextPreference.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/AutoSummaryListPreference.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/AutoSummaryListPreference.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/BinaryDictionary.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/BinaryDictionary.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/BuildConfig.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/BuildConfig.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/CandidateView$CandidateStripGestureListener.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/CandidateView$CandidateStripGestureListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/CandidateView.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/CandidateView.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/ComposeSequence$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/ComposeSequence$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/ComposeSequence.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/ComposeSequence.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/ContactsDictionary$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/ContactsDictionary$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/ContactsDictionary.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/ContactsDictionary.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/DeadAccentSequence.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/DeadAccentSequence.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/Dictionary$DataType.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/Dictionary$DataType.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/Dictionary.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/Dictionary.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/EditingUtil$Range.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/EditingUtil$Range.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/EditingUtil$SelectedWord.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/EditingUtil$SelectedWord.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/EditingUtil.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/EditingUtil.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/ExpandableDictionary$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/ExpandableDictionary$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/ExpandableDictionary$LoadDictionaryTask.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/ExpandableDictionary$LoadDictionaryTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/ExpandableDictionary$NextWord.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/ExpandableDictionary$NextWord.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/ExpandableDictionary$Node.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/ExpandableDictionary$Node.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/ExpandableDictionary$NodeArray.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/ExpandableDictionary$NodeArray.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/ExpandableDictionary.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/ExpandableDictionary.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$10.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$10.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$11.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$11.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$12.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$12.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$13.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$13.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$14.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$14.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$15.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$15.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$16.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$16.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$17.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$17.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$6.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$7.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$8.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$8.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$9.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings$9.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/GlobalKeyboardSettings.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/InputLanguageSelection$Loc.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/InputLanguageSelection$Loc.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/InputLanguageSelection.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/InputLanguageSelection.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/KeyDetector.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/KeyDetector.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/Keyboard$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/Keyboard$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/Keyboard$Key.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/Keyboard$Key.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/Keyboard$Row.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/Keyboard$Row.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/Keyboard.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/Keyboard.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/KeyboardSwitcher$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/KeyboardSwitcher$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/KeyboardSwitcher$KeyboardId.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/KeyboardSwitcher$KeyboardId.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/KeyboardSwitcher.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/KeyboardSwitcher.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LanguageSwitcher.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LanguageSwitcher.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinIME$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinIME$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinIME$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinIME$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinIME$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinIME$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinIME$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinIME$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinIME$5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinIME$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinIME$MyInputMethodImpl.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinIME$MyInputMethodImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinIME$TypedWordAlternatives.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinIME$TypedWordAlternatives.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinIME$WordAlternatives.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinIME$WordAlternatives.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinIME.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinIME.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinIMEBackupAgent.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinIMEBackupAgent.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinIMEDebugSettings.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinIMEDebugSettings.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinIMESettings.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinIMESettings.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinIMEUtil$GCUtils.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinIMEUtil$GCUtils.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinIMEUtil$RingCharBuffer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinIMEUtil$RingCharBuffer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinIMEUtil.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinIMEUtil.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinImeLogger.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinImeLogger.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinKeyboard$LatinKey.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinKeyboard$LatinKey.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinKeyboard$SlidingLocaleDrawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinKeyboard$SlidingLocaleDrawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinKeyboard.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinKeyboard.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinKeyboardBaseView$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinKeyboardBaseView$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinKeyboardBaseView$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinKeyboardBaseView$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinKeyboardBaseView$PointerQueue.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinKeyboardBaseView$PointerQueue.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinKeyboardBaseView$UIHandler.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinKeyboardBaseView$UIHandler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinKeyboardBaseView.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinKeyboardBaseView.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinKeyboardView$ExtensionKeyboardListener.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinKeyboardView$ExtensionKeyboardListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinKeyboardView.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/LatinKeyboardView.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/Main$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/Main$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/Main$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/Main$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/Main$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/Main$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/Main$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/Main$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/Main.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/MiniKeyboardKeyDetector.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/MiniKeyboardKeyDetector.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/ModifierKeyState.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/ModifierKeyState.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/NotificationReceiver.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/NotificationReceiver.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/PluginManager$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/PluginManager$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/PluginManager$DictPluginSpecBase.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/PluginManager$DictPluginSpecBase.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/PluginManager$DictPluginSpecHK.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/PluginManager$DictPluginSpecHK.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/PluginManager$DictPluginSpecSoftKeyboard.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/PluginManager$DictPluginSpecSoftKeyboard.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/PluginManager.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/PluginManager.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/PointerTracker$KeyState.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/PointerTracker$KeyState.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/PointerTracker.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/PointerTracker.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/PrefScreenActions.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/PrefScreenActions.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/PrefScreenFeedback.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/PrefScreenFeedback.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/PrefScreenView.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/PrefScreenView.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/ProximityKeyDetector.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/ProximityKeyDetector.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/R$anim.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/R$anim.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/R$array.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/R$array.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/R$attr.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/R$attr.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/R$bool.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/R$bool.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/R$color.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/R$dimen.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/R$integer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/R$integer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/R$raw.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/R$raw.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/R$xml.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/R$xml.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/R.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/SeekBarPreference$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/SeekBarPreference$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/SeekBarPreference.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/SeekBarPreference.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/SeekBarPreferenceString.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/SeekBarPreferenceString.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/SharedPreferencesCompat.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/SharedPreferencesCompat.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/Suggest.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/Suggest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/SwipeTracker$EventRingBuffer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/SwipeTracker$EventRingBuffer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/SwipeTracker.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/SwipeTracker.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/TextEntryState$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/TextEntryState$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/TextEntryState$State.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/TextEntryState$State.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/TextEntryState.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/TextEntryState.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/Tutorial$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/Tutorial$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/Tutorial$Bubble$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/Tutorial$Bubble$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/Tutorial$Bubble.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/Tutorial$Bubble.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/Tutorial.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/Tutorial.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/UserBigramDictionary$Bigram.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/UserBigramDictionary$Bigram.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/UserBigramDictionary$DatabaseHelper.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/UserBigramDictionary$DatabaseHelper.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/UserBigramDictionary$UpdateDbTask.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/UserBigramDictionary$UpdateDbTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/UserBigramDictionary.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/UserBigramDictionary.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/UserDictionary$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/UserDictionary$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/UserDictionary$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/UserDictionary$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/UserDictionary.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/UserDictionary.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/VibratePreference.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/VibratePreference.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/WordComposer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/pocketworkstation/pckeyboard/WordComposer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/arm64-v8a/libjni_pckeyboard.so" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/arm64-v8a/libjni_pckeyboard.so" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/armeabi-v7a/libjni_pckeyboard.so" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/armeabi-v7a/libjni_pckeyboard.so" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/armeabi/libjni_pckeyboard.so" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/armeabi/libjni_pckeyboard.so" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/mips/libjni_pckeyboard.so" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/mips/libjni_pckeyboard.so" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/mips64/libjni_pckeyboard.so" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/mips64/libjni_pckeyboard.so" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/x86/libjni_pckeyboard.so" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/x86/libjni_pckeyboard.so" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/x86_64/libjni_pckeyboard.so" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/x86_64/libjni_pckeyboard.so" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/buildConfig/androidTest/debug/org/pocketworkstation/pckeyboard/test/BuildConfig.java" afterPath="$PROJECT_DIR$/app/build/generated/source/buildConfig/androidTest/debug/org/pocketworkstation/pckeyboard/test/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/org/pocketworkstation/pckeyboard/BuildConfig.java" afterPath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/org/pocketworkstation/pckeyboard/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ar.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ar.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-bg-rST.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-bg-rST.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-bg.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-bg.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ca.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ca.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-cs-rQY.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-cs-rQY.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-cs.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-cs.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-da.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-da.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-de-rNE.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-de-rNE.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-de.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-de.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-el.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-el.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-en-rCL.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-en-rCL.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-en-rCX.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-en-rCX.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-en-rDV.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-en-rDV.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-en-rGB.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-en-rGB.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-en.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-en.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-es-rLA.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-es-rLA.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-es-rUS.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-es-rUS.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-es.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-es.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-fa.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-fa.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-fi.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-fi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-fr-rCA.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-fr-rCA.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-fr.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-fr.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-he.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-he.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-hr.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-hr.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-hu-rQY.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-hu-rQY.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-hu.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-hu.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-hy.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-hy.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-in.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-in.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-it.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-it.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-iw.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-iw.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ja.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ja.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ko.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ko.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-land.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-land.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-lo.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-lo.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-lt.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-lt.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-lv.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-lv.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-nb.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-nb.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-nl.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-nl.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-pl.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-pl.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-pt-rPT.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-pt-rPT.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-pt.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-pt.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-rm.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-rm.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ro.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ro.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ru-rPH.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ru-rPH.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ru.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ru.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-si.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-si.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-sk-rQY.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-sk-rQY.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-sk.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-sk.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-sl.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-sl.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-sr.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-sr.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-sv.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-sv.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ta.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ta.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-th.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-th.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-tl.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-tl.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-tr.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-tr.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-uk.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-uk.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-vi.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-vi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-xlarge-land-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-xlarge-land-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-xlarge-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-xlarge-v4.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-zh-rCN.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-zh-rCN.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-zh-rTW.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-zh-rTW.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/anim.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/anim.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/layout.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/layout.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/raw.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/raw.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-ar.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-ar.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-bg-rST.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-bg-rST.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-bg.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-bg.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-cs-rQY.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-cs-rQY.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-cs.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-cs.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-da.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-da.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-de-rNE.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-de-rNE.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-de.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-de.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-el.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-el.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-en-rCX.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-en-rCX.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-en-rDV.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-en-rDV.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-en.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-en.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-es-rLA.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-es-rLA.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-es-rUS.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-es-rUS.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-es.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-es.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-fa.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-fa.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-fr-rCA.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-fr-rCA.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-fr.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-fr.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-he.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-he.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-hr.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-hr.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-hu-rQY.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-hu-rQY.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-hu.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-hu.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-iw.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-iw.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-nb.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-nb.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-ru-rPH.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-ru-rPH.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-ru.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-ru.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-sk-rQY.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-sk-rQY.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-sk.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-sk.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-sl.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-sl.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-sr.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-sr.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-sv.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-sv.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-tr.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-tr.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-uk.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml-uk.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/xml.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/manifest.crc" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/manifest.crc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/Android.mk" afterPath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/Android.mk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/arm64-v8a/libstdc++.a" afterPath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/arm64-v8a/libstdc++.a" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/armeabi-v7a/libstdc++.a" afterPath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/armeabi-v7a/libstdc++.a" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/armeabi/libstdc++.a" afterPath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/armeabi/libstdc++.a" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/mips/libstdc++.a" afterPath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/mips/libstdc++.a" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/mips64/libstdc++.a" afterPath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/mips64/libstdc++.a" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/x86/libstdc++.a" afterPath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/x86/libstdc++.a" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/x86_64/libstdc++.a" afterPath="$PROJECT_DIR$/app/build/intermediates/ndk/debug/obj/local/x86_64/libstdc++.a" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-ar/values-ar.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-ar/values-ar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-bg-rST/values-bg-rST.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-bg-rST/values-bg-rST.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-bg/values-bg.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-bg/values-bg.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-ca/values-ca.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-ca/values-ca.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-cs-rQY/values-cs-rQY.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-cs-rQY/values-cs-rQY.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-cs/values-cs.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-cs/values-cs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-da/values-da.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-da/values-da.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-de-rNE/values-de-rNE.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-de-rNE/values-de-rNE.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-de/values-de.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-de/values-de.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-el/values-el.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-el/values-el.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-en-rCL/values-en-rCL.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-en-rCL/values-en-rCL.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-en-rCX/values-en-rCX.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-en-rCX/values-en-rCX.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-en-rDV/values-en-rDV.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-en-rDV/values-en-rDV.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-en-rGB/values-en-rGB.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-en-rGB/values-en-rGB.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-en/values-en.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-en/values-en.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-es-rLA/values-es-rLA.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-es-rLA/values-es-rLA.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-es-rUS/values-es-rUS.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-es-rUS/values-es-rUS.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-es/values-es.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-es/values-es.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-fa/values-fa.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-fa/values-fa.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-fi/values-fi.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-fi/values-fi.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-fr-rCA/values-fr-rCA.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-fr-rCA/values-fr-rCA.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-fr/values-fr.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-fr/values-fr.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-he/values-he.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-he/values-he.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-hr/values-hr.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-hr/values-hr.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-hu-rQY/values-hu-rQY.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-hu-rQY/values-hu-rQY.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-hu/values-hu.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-hu/values-hu.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-hy/values-hy.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-hy/values-hy.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-in/values-in.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-in/values-in.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-it/values-it.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-it/values-it.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-iw/values-iw.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-iw/values-iw.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-ja/values-ja.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-ja/values-ja.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-ko/values-ko.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-ko/values-ko.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-land/values-land.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-land/values-land.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-lo/values-lo.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-lo/values-lo.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-lt/values-lt.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-lt/values-lt.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-lv/values-lv.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-lv/values-lv.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-nb/values-nb.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-nb/values-nb.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-nl/values-nl.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-nl/values-nl.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-pl/values-pl.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-pl/values-pl.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-pt-rPT/values-pt-rPT.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-pt-rPT/values-pt-rPT.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-pt/values-pt.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-pt/values-pt.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-rm/values-rm.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-rm/values-rm.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-ro/values-ro.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-ro/values-ro.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-ru-rPH/values-ru-rPH.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-ru-rPH/values-ru-rPH.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-ru/values-ru.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-ru/values-ru.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-si/values-si.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-si/values-si.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-sk-rQY/values-sk-rQY.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-sk-rQY/values-sk-rQY.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-sk/values-sk.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-sk/values-sk.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-sl/values-sl.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-sl/values-sl.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-sr/values-sr.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-sr/values-sr.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-sv/values-sv.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-sv/values-sv.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-ta/values-ta.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-ta/values-ta.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-th/values-th.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-th/values-th.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-tl/values-tl.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-tl/values-tl.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-tr/values-tr.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-tr/values-tr.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-uk/values-uk.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-uk/values-uk.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-vi/values-vi.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-vi/values-vi.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-xlarge-land-v4/values-xlarge-land-v4.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-xlarge-land-v4/values-xlarge-land-v4.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-xlarge-v4/values-xlarge-v4.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-xlarge-v4/values-xlarge-v4.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-zh-rCN/values-zh-rCN.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-zh-rCN/values-zh-rCN.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-zh-rTW/values-zh-rTW.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-zh-rTW/values-zh-rTW.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values/values.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/restart-dex/debug/build-info.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/restart-dex/debug/build-info.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/org/pocketworkstation/pckeyboard/InputLanguageSelection.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/pocketworkstation/pckeyboard/InputLanguageSelection.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
     </list>
     <ignored path="HackersKeyboard.iws" />
@@ -813,7 +84,7 @@
       <file leaf-file-name="InputLanguageSelection.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/org/pocketworkstation/pckeyboard/InputLanguageSelection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
+            <state relative-caret-position="1512">
               <caret line="86" column="47" selection-start-line="86" selection-start-column="47" selection-end-line="86" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -827,14 +98,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="749">
               <caret line="73" column="44" selection-start-line="73" selection-start-column="44" selection-end-line="73" selection-end-column="44" />
-              <folding>
-                <element signature="e#1118#1123#1" expanded="true" />
-                <element signature="e#1210#1215#0" expanded="true" />
-                <element signature="e#2996#3000#1" expanded="true" />
-                <element signature="e#3043#3047#0" expanded="true" />
-                <element signature="e#3143#3147#1" expanded="true" />
-                <element signature="e#3189#3193#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -842,7 +106,7 @@
       <file leaf-file-name="donottranslate-keymap.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/values-en-rDV/donottranslate-keymap.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="553">
+            <state relative-caret-position="2828">
               <caret line="101" column="4" selection-start-line="0" selection-start-column="0" selection-end-line="225" selection-end-column="0" />
               <folding>
                 <element signature="e#3052#3056#0" expanded="true" />
@@ -2612,7 +1876,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -2633,6 +1896,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope">
         <subPane subId="Problems" />
         <subPane subId="Project Files">
@@ -2908,34 +2172,50 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="false" name="app-native" type="AndroidNativeRunConfigurationType" factoryName="Android Native">
+    <configuration default="false" name="app-native" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="app" />
       <option name="DEPLOY" value="true" />
       <option name="ARTIFACT_NAME" value="" />
       <option name="PM_INSTALL_OPTIONS" value="" />
       <option name="ACTIVITY_EXTRA_FLAGS" value="" />
       <option name="MODE" value="default_activity" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
       <option name="PREFERRED_AVD" value="" />
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
       <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="DEBUGGER_TYPE" value="Hybrid" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
       <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
       <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
       <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
-      <Native>
+      <option name="DEBUGGER_TYPE" value="Hybrid" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
         <option name="WORKING_DIR" value="" />
         <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-      </Native>
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
       <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
         <option name="WORKING_DIR" value="" />
         <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
       </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
       <Profilers>
-        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
       </Profilers>
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -2990,8 +2270,9 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method />
     </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Android App.app" />
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Android App.app-native" />
+      <item index="1" class="java.lang.String" itemvalue="Android App.app" />
     </list>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
@@ -3006,7 +2287,7 @@
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
       <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
       <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
       <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
@@ -3041,7 +2322,7 @@
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
       <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
       <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
       <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
@@ -3125,7 +2406,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32628062" sideWeight="0.49573562" order="7" side_tool="false" content_ui="tabs" />
@@ -3140,7 +2421,7 @@
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23987207" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23987207" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Android WiFi ADB" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -3385,7 +2666,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1400">
           <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3395,7 +2675,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3403,39 +2682,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CheckMaps.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GetLanguages.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AutoVersion.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-263">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/CheckMaps.sh" />
+    <entry file="file://$PROJECT_DIR$/GetLanguages.sh" />
+    <entry file="file://$PROJECT_DIR$/AutoVersion.sh" />
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3443,7 +2699,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3451,7 +2706,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="5" column="55" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3459,7 +2713,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3467,7 +2720,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-11200">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3475,26 +2727,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3220">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values-en-rDP/donottranslate-altchars.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-420">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values-en-rDP/donottranslate-keymap.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-700">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values-en-rDP/donottranslate-altchars.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values-en-rDP/donottranslate-keymap.xml" />
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values-en-rPD/donottranslate-altchars.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-420">
@@ -3505,7 +2742,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/org/pocketworkstation/pckeyboard/InputLanguageSelection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
+        <state relative-caret-position="1512">
           <caret line="86" column="47" selection-start-line="86" selection-start-column="47" selection-end-line="86" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -3523,7 +2760,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values-en-rDV/donottranslate-keymap.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="553">
+        <state relative-caret-position="2828">
           <caret line="101" column="4" selection-start-line="0" selection-start-column="0" selection-end-line="225" selection-end-column="0" />
           <folding>
             <element signature="e#3052#3056#0" expanded="true" />
@@ -3535,14 +2772,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="749">
           <caret line="73" column="44" selection-start-line="73" selection-start-column="44" selection-end-line="73" selection-end-column="44" />
-          <folding>
-            <element signature="e#1118#1123#1" expanded="true" />
-            <element signature="e#1210#1215#0" expanded="true" />
-            <element signature="e#2996#3000#1" expanded="true" />
-            <element signature="e#3043#3047#0" expanded="true" />
-            <element signature="e#3143#3147#1" expanded="true" />
-            <element signature="e#3189#3193#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>

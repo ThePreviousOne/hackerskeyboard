@@ -1,43 +1,55 @@
 [
     {
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\kbd_phone_symbols.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\kbd_phone_symbols.xml"
+    },
+    {
         "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\kbd_popup_narrow_template.xml",
         "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\xml\\kbd_popup_narrow_template.xml"
     },
     {
-        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\prefs_view.xml",
-        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\prefs_view.xml"
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\kbd_popup_narrow_template.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\kbd_popup_narrow_template.xml"
     },
     {
-        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\kbd_qwerty.xml",
-        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\kbd_qwerty.xml"
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\kbd_phone.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\kbd_phone.xml"
     },
     {
-        "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\popup_at.xml",
-        "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\xml\\popup_at.xml"
-    },
-    {
-        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\popup_comma.xml",
-        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\popup_comma.xml"
-    },
-    {
-        "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\kbd_phone_symbols.xml",
-        "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\xml\\kbd_phone_symbols.xml"
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\popup_mic.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\popup_mic.xml"
     },
     {
         "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\kbd_full_fn.xml",
         "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\kbd_full_fn.xml"
     },
     {
+        "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\popup_at.xml",
+        "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\xml\\popup_at.xml"
+    },
+    {
+        "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\kbd_phone_symbols.xml",
+        "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\xml\\kbd_phone_symbols.xml"
+    },
+    {
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\prefs_view.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\prefs_view.xml"
+    },
+    {
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\popup_domains.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\popup_domains.xml"
+    },
+    {
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\prefs.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\prefs.xml"
+    },
+    {
         "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\kbd_extension.xml",
         "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\xml\\kbd_extension.xml"
     },
     {
-        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\kbd_full.xml",
-        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\kbd_full.xml"
-    },
-    {
-        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\popup_mic.xml",
-        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\popup_mic.xml"
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\kbd_extension.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\kbd_extension.xml"
     },
     {
         "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\popup_domains.xml",
@@ -48,12 +60,28 @@
         "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\xml\\popup_comma.xml"
     },
     {
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\kbd_compact.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\kbd_compact.xml"
+    },
+    {
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\language_prefs.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\language_prefs.xml"
+    },
+    {
         "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\kbd_popup_template.xml",
         "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\xml\\kbd_popup_template.xml"
     },
     {
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\popup_comma.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\popup_comma.xml"
+    },
+    {
         "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\prefs.xml",
         "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\xml\\prefs.xml"
+    },
+    {
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\popup_smileys.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\popup_smileys.xml"
     },
     {
         "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\popup_mic.xml",
@@ -64,16 +92,8 @@
         "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\xml\\popup_punctuation.xml"
     },
     {
-        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\kbd_phone.xml",
-        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\kbd_phone.xml"
-    },
-    {
-        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\kbd_phone_symbols.xml",
-        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\kbd_phone_symbols.xml"
-    },
-    {
-        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\prefs_feedback.xml",
-        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\prefs_feedback.xml"
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\dictionary.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\dictionary.xml"
     },
     {
         "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\dictionary.xml",
@@ -88,18 +108,6 @@
         "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\xml\\method.xml"
     },
     {
-        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\popup_smileys.xml",
-        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\popup_smileys.xml"
-    },
-    {
-        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\kbd_extension_full.xml",
-        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\kbd_extension_full.xml"
-    },
-    {
-        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\kbd_compact.xml",
-        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\kbd_compact.xml"
-    },
-    {
         "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\kbd_symbols_shift.xml",
         "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\kbd_symbols_shift.xml"
     },
@@ -108,56 +116,36 @@
         "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\xml\\prefs_feedback.xml"
     },
     {
-        "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\kbd_extension_full.xml",
-        "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\xml\\kbd_extension_full.xml"
-    },
-    {
-        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\kbd_symbols.xml",
-        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\kbd_symbols.xml"
-    },
-    {
-        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\method.xml",
-        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\method.xml"
-    },
-    {
-        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\dictionary.xml",
-        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\dictionary.xml"
-    },
-    {
         "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\kbd_compact_fn.xml",
         "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\kbd_compact_fn.xml"
     },
     {
-        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\popup_punctuation.xml",
-        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\popup_punctuation.xml"
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\kbd_popup_template.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\kbd_popup_template.xml"
     },
     {
-        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\popup_tab.xml",
-        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\popup_tab.xml"
-    },
-    {
-        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\popup_domains.xml",
-        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\popup_domains.xml"
-    },
-    {
-        "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\kbd_qwerty.xml",
-        "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\xml\\kbd_qwerty.xml"
-    },
-    {
-        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\prefs_for_debug.xml",
-        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\prefs_for_debug.xml"
-    },
-    {
-        "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\kbd_compact.xml",
-        "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\xml\\kbd_compact.xml"
+        "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\kbd_extension_full.xml",
+        "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\xml\\kbd_extension_full.xml"
     },
     {
         "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\popup_at.xml",
         "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\popup_at.xml"
     },
     {
-        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\kbd_popup_template.xml",
-        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\kbd_popup_template.xml"
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\popup_tab.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\popup_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\kbd_qwerty.xml",
+        "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\xml\\kbd_qwerty.xml"
+    },
+    {
+        "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\kbd_compact.xml",
+        "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\xml\\kbd_compact.xml"
+    },
+    {
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\kbd_symbols.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\kbd_symbols.xml"
     },
     {
         "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\kbd_full_fn.xml",
@@ -168,16 +156,24 @@
         "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\xml\\prefs_for_debug.xml"
     },
     {
-        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\prefs.xml",
-        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\prefs.xml"
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\kbd_extension_full.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\kbd_extension_full.xml"
     },
     {
         "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\prefs_actions.xml",
         "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\xml\\prefs_actions.xml"
     },
     {
-        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\kbd_extension.xml",
-        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\kbd_extension.xml"
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\prefs_actions.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\prefs_actions.xml"
+    },
+    {
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\prefs_for_debug.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\prefs_for_debug.xml"
+    },
+    {
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\popup_punctuation.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\popup_punctuation.xml"
     },
     {
         "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\kbd_symbols.xml",
@@ -188,36 +184,40 @@
         "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\xml\\language_prefs.xml"
     },
     {
-        "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\popup_smileys.xml",
-        "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\xml\\popup_smileys.xml"
-    },
-    {
-        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\prefs_actions.xml",
-        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\prefs_actions.xml"
-    },
-    {
-        "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\popup_slash.xml",
-        "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\xml\\popup_slash.xml"
-    },
-    {
-        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\kbd_popup_narrow_template.xml",
-        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\kbd_popup_narrow_template.xml"
-    },
-    {
-        "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\prefs_view.xml",
-        "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\xml\\prefs_view.xml"
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\kbd_qwerty.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\kbd_qwerty.xml"
     },
     {
         "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\popup_slash.xml",
         "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\popup_slash.xml"
     },
     {
-        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\language_prefs.xml",
-        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\language_prefs.xml"
+        "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\popup_smileys.xml",
+        "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\xml\\popup_smileys.xml"
+    },
+    {
+        "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\popup_slash.xml",
+        "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\xml\\popup_slash.xml"
+    },
+    {
+        "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\prefs_view.xml",
+        "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\xml\\prefs_view.xml"
+    },
+    {
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\method.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\method.xml"
+    },
+    {
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\prefs_feedback.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\prefs_feedback.xml"
     },
     {
         "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\kbd_compact_fn.xml",
         "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\xml\\kbd_compact_fn.xml"
+    },
+    {
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\kbd_full.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\xml\\kbd_full.xml"
     },
     {
         "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\popup_tab.xml",

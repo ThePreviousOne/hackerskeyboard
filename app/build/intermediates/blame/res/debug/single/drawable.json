@@ -12,10 +12,6 @@
         "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\drawable\\btn_keyboard_key_stone.xml"
     },
     {
-        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_keyboard_key_gingerbread_popup.xml",
-        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\drawable\\btn_keyboard_key_gingerbread_popup.xml"
-    },
-    {
         "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_keyboard_key_gingerbread_popup.xml",
         "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\drawable\\btn_keyboard_key_gingerbread_popup.xml"
     },
@@ -24,12 +20,12 @@
         "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\drawable\\btn_keyboard_key_stone.xml"
     },
     {
-        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_keyboard_key_gingerbread.xml",
-        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\drawable\\btn_keyboard_key_gingerbread.xml"
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_keyboard_key_gingerbread_popup.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\drawable\\btn_keyboard_key_gingerbread_popup.xml"
     },
     {
-        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_suggest_scroll_background.xml",
-        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\drawable\\ic_suggest_scroll_background.xml"
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_keyboard_key_gingerbread.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\drawable\\btn_keyboard_key_gingerbread.xml"
     },
     {
         "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_keyboard_key_gingerbread.xml",
@@ -38,5 +34,9 @@
     {
         "merged": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_suggest_scroll_background.xml",
         "source": "C:\\Users\\spff\\hakerskeyboard\\hackerskeyboard\\app\\src\\main\\res\\drawable\\ic_suggest_scroll_background.xml"
+    },
+    {
+        "merged": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_suggest_scroll_background.xml",
+        "source": "C:\\home\\uzuki\\Projects\\hackerskeyboard\\app\\src\\main\\res\\drawable\\ic_suggest_scroll_background.xml"
     }
 ]
